@@ -1,0 +1,33 @@
+name: Editor Robô - Professor News
+
+on:
+  schedule:
+    # Roda a cada 6 horas
+    - cron: '0 */6 * * *'
+  workflow_dispatch: 
+
+jobs:
+  publicar-jornal:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Baixando código
+        uses: actions/checkout@v4
+
+      - name: Instalando Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalando dependências
+        run: npm install
+
+      - name: Coletando notícias
+        run: node coletor.js
+
+      - name: Construindo o site
+        run: npm run build
+
+      - name: Publicando no Surge
+        # ATENÇÃO: Confirme se o domínio abaixo é o seu mesmo!
+        run: npx surge ./dist --domain professor-news.surge.sh --token ${{ secrets.SURGE_TOKEN }}
