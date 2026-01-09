@@ -8,10 +8,10 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       injectRegister: 'auto',
-      // Digo ao plugin para NÃO gerar manifesto, pois já temos um manual
-      manifest: false, 
+      manifest: false, // Mantemos desligado para usar o nosso manual
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,json}']
+        globPatterns: ['**/*.{js,css,html,ico,png,svg,webmanifest}'], // Adicionei webmanifest aqui
+        cleanupOutdatedCaches: true
       }
     })
   ]
