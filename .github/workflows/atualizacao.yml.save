@@ -30,4 +30,4 @@ jobs:
 
       - name: Publicando no Surge
         # ATENÇÃO: Confirme se o domínio abaixo é o seu mesmo!
-        run: npx yes surge ./dist --domain professor-news.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+        run: npx surge ./dist --domain professor-news.surge.sh --token ${{ secrets.SURGE_TOKEN }}
