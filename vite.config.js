@@ -7,11 +7,34 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      injectRegister: 'auto',
-      manifest: false, // Mantemos desligado para usar o nosso manual
+      injectRegister: 'auto', // O plugin vai injetar os links sozinho
       workbox: {
-        globPatterns: ['**/*.{js,css,html,ico,png,svg,webmanifest}'], // Adicionei webmanifest aqui
+        globPatterns: ['**/*.{js,css,html,ico,png,svg}'],
         cleanupOutdatedCaches: true
+      },
+      manifest: {
+        name: 'Professor News',
+        short_name: 'ProfNews',
+        description: 'Notícias da educação atualizadas',
+        theme_color: '#ffffff',
+        background_color: '#ffffff',
+        display: 'standalone',
+        start_url: '/',
+        orientation: 'portrait',
+        icons: [
+          {
+            src: 'pwa-192x192.png',
+            sizes: '192x192',
+            type: 'image/png',
+            purpose: 'any maskable'
+          },
+          {
+            src: 'pwa-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'any maskable'
+          }
+        ]
       }
     })
   ]
