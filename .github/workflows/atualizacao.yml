@@ -2,14 +2,14 @@ name: Editor Robô - Professor News
 
 on:
   schedule:
-    # Roda a cada 6 horas
-    - cron: '0 */6 * * *'
-  workflow_dispatch: 
+    # Roda a cada 1 hora (para ficar sempre fresco)
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   publicar-jornal:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Baixando código
         uses: actions/checkout@v4
@@ -25,9 +25,20 @@ jobs:
       - name: Coletando notícias
         run: node coletor.js
 
+      # Passo NOVO: Salva as notícias no repositório
+      # Isso cria atividade e impede que o GitHub desligue o robô
+      - name: Commit e Push das notícias
+        run: |
+          git config --global user.name 'Robô Jornalista'
+          git config --global user.email 'robo@noreply.github.com'
+          git add public/noticias.json
+          # Só commita se tiver novidade
+          git commit -m "jornal: edição atualizada [skip ci]" || echo "Sem notícias novas"
+          git push
+
       - name: Construindo o site
         run: npm run build
 
       - name: Publicando no Surge
         # ATENÇÃO: Confirme se o domínio abaixo é o seu mesmo!
-        run: npx --yes surge ./dist --domain noticias-sergio-salinas.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+        run: npx --yes surge ./dist --domain professor-news.surge.sh --token ${{ secrets.SURGE_TOKEN }}
