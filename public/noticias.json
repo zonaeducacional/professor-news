@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676094 at https://agenciabrasil.ebc.com.br",
+    "titulo": "TV Brasil: racismo na escola é tema do Caminhos da Reportagem",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/tv-brasil-racismo-na-escola-e-tema-do-caminhos-da-reportagem",
+    "data": "2026-01-26T19:56:00.000Z",
+    "resumo": "Nesta segunda-feira (26), às 23h, a TV Brasil reprisa episódio premiado do programa Caminhos da Reportagem que abordou a persistência do racismo em am...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676013 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni 2026: inscrições para o 1º semestre começam nesta segunda",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-inscricoes-para-o-1o-semestre-comecam-nesta-segunda",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/sisu-2026-inscricoes-para-2748-mil-vagas-terminam-nesta-sexta-feira",
     "data": "2026-01-22T17:10:00.000Z",
     "resumo": "Os interessados em participar do processo seletivo de 2026 do Sistema de Seleção Unificada (Sisu) podem se inscrever até esta sexta-feira, 23 de janei...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1675681 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Termina amanhã prazo para contestar resultado do Selo Alfabetização",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/termina-amanha-prazo-para-contestar-resultado-do-selo-alfabetizacao",
-    "data": "2026-01-22T15:33:00.000Z",
-    "resumo": "Começou nesta quinta-feira (22) o prazo para as secretarias de Educação de todo o país inscritas na segunda edição do Selo Nacional Compromisso com a ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
