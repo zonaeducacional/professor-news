@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676214 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inep emitirá declaração do ensino médio a partir de sexta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/inep-emitira-declaracao-do-ensino-medio-a-partir-de-sexta-feira",
+    "data": "2026-01-27T22:28:00.000Z",
+    "resumo": "Cerca de 100 mil estudantes que fizeram o Exame Nacional do Ensino Médio (Enem) com o objetivo de obter a certificação dessa etapa poderão pedir, a pa...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676094 at https://agenciabrasil.ebc.com.br",
     "titulo": "TV Brasil: racismo na escola é tema do Caminhos da Reportagem",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/tv-brasil-racismo-na-escola-e-tema-do-caminhos-da-reportagem",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fies-2026-inscricoes-para-selecao-comecam-no-dia-3-de-fevereiro",
     "data": "2026-01-22T20:09:00.000Z",
     "resumo": "As inscrições gratuitas para a seleção do Fundo de Financiamento Estudantil (Fies) estarão abertas de 3 a 6 de fevereiro, no Portal Único de Acesso ao...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1675696 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Sisu 2026: inscrições para 274,8 mil vagas terminam nesta sexta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/sisu-2026-inscricoes-para-2748-mil-vagas-terminam-nesta-sexta-feira",
-    "data": "2026-01-22T17:10:00.000Z",
-    "resumo": "Os interessados em participar do processo seletivo de 2026 do Sistema de Seleção Unificada (Sisu) podem se inscrever até esta sexta-feira, 23 de janei...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
