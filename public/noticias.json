@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676311 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: inscrições para o 1º semestre se encerram nesta quinta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-inscricoes-para-o-1o-semestre-se-encerram-nesta-quinta",
+    "data": "2026-01-28T18:02:00.000Z",
+    "resumo": "As inscrições gratuitas para o Programa Universidade para Todos (Prouni) do primeiro semestre de 2026 podem ser realizadas até as 23 horas e 59 minuto...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676282 at https://agenciabrasil.ebc.com.br",
     "titulo": "Rede de Cursinhos Populares tem inscrições abertas até 27 de fevereiro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/rede-de-cursinhos-populares-tem-inscricoes-abertas-ate-27-de-fevereiro",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/terminam-nesta-sexta-feira-inscricoes-para-o-sisu-2026",
     "data": "2026-01-23T14:16:00.000Z",
     "resumo": "Os interessados em participar do processo seletivo de 2026 do Sistema de Seleção Unificada (Sisu) podem se inscrever até esta sexta-feira (23). \nUma d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1675795 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fuvest divulga lista de aprovados no vestibular 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fuvest-divulga-lista-de-aprovados-no-vestibular-2026",
-    "data": "2026-01-23T13:59:00.000Z",
-    "resumo": "A Fundação Universitária para o vestibular (Fuvest) divulgou hoje (23) sua lista de aprovados no vestibular de 2026 para as 8.147 vagas de graduação d...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
