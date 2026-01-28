@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676282 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Rede de Cursinhos Populares tem inscrições abertas até 27 de fevereiro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/rede-de-cursinhos-populares-tem-inscricoes-abertas-ate-27-de-fevereiro",
+    "data": "2026-01-28T13:58:00.000Z",
+    "resumo": "Os cursinhos populares interessados em integrar a Rede Nacional de Cursinhos Populares (CPOP) podem se inscrever, a partir desta quarta-feira (28), at...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676214 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inep emitirá declaração do ensino médio a partir de sexta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/inep-emitira-declaracao-do-ensino-medio-a-partir-de-sexta-feira",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fuvest-divulga-lista-de-aprovados-no-vestibular-2026",
     "data": "2026-01-23T13:59:00.000Z",
     "resumo": "A Fundação Universitária para o vestibular (Fuvest) divulgou hoje (23) sua lista de aprovados no vestibular de 2026 para as 8.147 vagas de graduação d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1675748 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: inscrições para seleção começam no dia 3 de fevereiro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fies-2026-inscricoes-para-selecao-comecam-no-dia-3-de-fevereiro",
-    "data": "2026-01-22T20:09:00.000Z",
-    "resumo": "As inscrições gratuitas para a seleção do Fundo de Financiamento Estudantil (Fies) estarão abertas de 3 a 6 de fevereiro, no Portal Único de Acesso ao...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
