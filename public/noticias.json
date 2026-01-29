@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676381 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: prazo de inscrição para 1º semestre termina nesta quinta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-prazo-de-inscricao-para-1o-semestre-termina-nesta-quinta",
+    "data": "2026-01-29T11:16:00.000Z",
+    "resumo": "Termina nesta às 23h59 desta quinta-feira (29) o prazo para estudantes interessados se inscreverem no Programa Universidade para Todos (Prouni) do pri...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676311 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni 2026: inscrições para o 1º semestre se encerram nesta quinta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-inscricoes-para-o-1o-semestre-se-encerram-nesta-quinta",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-e-espelho-de-discursiva-serao-divulgados-hoje",
     "data": "2026-01-23T15:09:00.000Z",
     "resumo": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulga, a partir de 18 horas desta sexta-feira (23), a nota preliminar da prova discu...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1675799 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Terminam nesta sexta-feira inscrições para o Sisu 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/terminam-nesta-sexta-feira-inscricoes-para-o-sisu-2026",
-    "data": "2026-01-23T14:16:00.000Z",
-    "resumo": "Os interessados em participar do processo seletivo de 2026 do Sistema de Seleção Unificada (Sisu) podem se inscrever até esta sexta-feira (23). \nUma d...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
