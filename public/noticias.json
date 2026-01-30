@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676550 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Governo federal e Sesi ampliam oferta de cuidotecas no país",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/governo-federal-e-sesi-ampliam-oferta-de-cuidotecas-no-pais",
+    "data": "2026-01-30T19:18:00.000Z",
+    "resumo": "Um Acordo de Cooperação Técnica entre o governo federal e o Conselho Nacional do Serviço Social da Indústria (CN-Sesi) amplia a oferta de cuidotecas e...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676539 at https://agenciabrasil.ebc.com.br",
     "titulo": "Unesp divulga lista de aprovados no vestibular 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/unesp-divulga-lista-de-aprovados-no-vestibular-2026",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/tv-brasil-racismo-na-escola-e-tema-do-caminhos-da-reportagem",
     "data": "2026-01-26T19:56:00.000Z",
     "resumo": "Nesta segunda-feira (26), às 23h, a TV Brasil reprisa episódio premiado do programa Caminhos da Reportagem que abordou a persistência do racismo em am...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676013 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: inscrições para o 1º semestre começam nesta segunda",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-inscricoes-para-o-1o-semestre-comecam-nesta-segunda",
-    "data": "2026-01-26T13:01:00.000Z",
-    "resumo": "Começam nesta segunda-feira (26) as inscrições do processo seletivo para o primeiro semestre de 2026 do Programa Universidade para Todos (Prouni). O p...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
