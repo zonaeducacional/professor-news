@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676539 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Unesp divulga lista de aprovados no vestibular 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/unesp-divulga-lista-de-aprovados-no-vestibular-2026",
+    "data": "2026-01-30T16:51:00.000Z",
+    "resumo": "A Universidade Estadual Paulista (Unesp) divulgou nesta sexta-feira (30) sua lista de aprovados no vestibular de 2026.\nAcesse a lista para conferir os...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676511 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inep oferece declaração que permite matrícula na educação superior",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/inep-oferece-declaracao-que-permite-matricula-na-educacao-superior",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-inscricoes-para-o-1o-semestre-comecam-nesta-segunda",
     "data": "2026-01-26T13:01:00.000Z",
     "resumo": "Começam nesta segunda-feira (26) as inscrições do processo seletivo para o primeiro semestre de 2026 do Programa Universidade para Todos (Prouni). O p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1675965 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enamed reforça importância de fiscalizar cursos, dizem especialistas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/enamed-reforca-importancia-de-fiscalizar-cursos-dizem-especialistas",
-    "data": "2026-01-25T16:03:00.000Z",
-    "resumo": "O resultado da primeira edição do Exame Nacional de Avaliação da Formação Médica (Enamed) levantou uma discussão sobre a qualidade da formação médica ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
