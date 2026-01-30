@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676489 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Capes realiza censo da pós-graduação até 26 de fevereiro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/capes-realiza-censo-da-pos-graduacao-ate-26-de-fevereiro",
+    "data": "2026-01-30T11:28:00.000Z",
+    "resumo": "O Censo da Pós-Graduação stricto sensu referente ao ano de 2025 está aberto até 26 de fevereiro. É a primeira vez que ocorre a coleta de dados estatís...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676393 at https://agenciabrasil.ebc.com.br",
     "titulo": "Sisu 2026: candidatos já podem conferir resultado individual ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/sisu-2026-candidatos-ja-podem-conferir-resultado-individual",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-da-prova-discursiva-esta-disponivel",
     "data": "2026-01-24T11:19:00.000Z",
     "resumo": "O resultado preliminar da prova discursiva da segunda edição do Concurso Público Nacional Unificado pode ser consultado. As notas daqueles que partici...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1675821 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prazo para contestar resultado do Selo Alfabetização termina hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prazo-para-contestar-resultado-do-selo-alfabetizacao-termina-hoje",
-    "data": "2026-01-23T16:44:00.000Z",
-    "resumo": "O prazo para apresentação de pedidos de reconsideração do resultado preliminar da segunda edição do Selo Nacional Compromisso com a Alfabetização term...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
