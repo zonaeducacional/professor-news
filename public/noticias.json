@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676531 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Bolsa Atleta: interessados têm até 6 de fevereiro para fazer inscrição",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/bolsa-atleta-interessados-tem-ate-6-de-fevereiro-para-fazer-inscricao",
+    "data": "2026-02-01T14:20:00.000Z",
+    "resumo": "As inscrições para o programa Bolsa Atleta 2026 se encerram dia 6 de fevereiro. Interessados em acessar o benefício, que prevê pagamentos mensais pelo...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1676531&o=rss",
+    "lido": false
+  },
+  {
     "id": "1676566 at https://agenciabrasil.ebc.com.br",
     "titulo": "Não selecionados no Sisu têm até segunda para aderir à lista de espera",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/nao-selecionados-no-sisu-tem-ate-segunda-para-aderir-lista-de-espera",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/rede-de-cursinhos-populares-tem-inscricoes-abertas-ate-27-de-fevereiro",
     "data": "2026-01-28T13:58:00.000Z",
     "resumo": "Os cursinhos populares interessados em integrar a Rede Nacional de Cursinhos Populares (CPOP) podem se inscrever, a partir desta quarta-feira (28), at...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676214 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inep emitirá declaração do ensino médio a partir de sexta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/inep-emitira-declaracao-do-ensino-medio-a-partir-de-sexta-feira",
-    "data": "2026-01-27T22:28:00.000Z",
-    "resumo": "Cerca de 100 mil estudantes que fizeram o Exame Nacional do Ensino Médio (Enem) com o objetivo de obter a certificação dessa etapa poderão pedir, a pa...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
