@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676872 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni divulga aprovados em primeira chamada",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-divulga-aprovados-em-primeira-chamada",
+    "data": "2026-02-03T11:48:00.000Z",
+    "resumo": "O Programa Universidade Para Todos (Prouni) divulgou, na madrugada desta terça-feira (3), o resultado da primeira chamada.\nConfira a lista com os apro...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676725 at https://agenciabrasil.ebc.com.br",
     "titulo": "Sisu: acaba hoje prazo de adesão de não selecionados à lista de espera",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/sisu-acaba-hoje-prazo-de-adesao-de-nao-selecionados-lista-de-espera",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-prazo-de-inscricao-para-1o-semestre-termina-nesta-quinta",
     "data": "2026-01-29T11:16:00.000Z",
     "resumo": "Termina nesta às 23h59 desta quinta-feira (29) o prazo para estudantes interessados se inscreverem no Programa Universidade para Todos (Prouni) do pri...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676311 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: inscrições para o 1º semestre se encerram nesta quinta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/prouni-2026-inscricoes-para-o-1o-semestre-se-encerram-nesta-quinta",
-    "data": "2026-01-28T18:02:00.000Z",
-    "resumo": "As inscrições gratuitas para o Programa Universidade para Todos (Prouni) do primeiro semestre de 2026 podem ser realizadas até as 23 horas e 59 minuto...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
