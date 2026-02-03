@@ -1,5 +1,14 @@
 [
   {
+    "id": "1676955 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Brasileira Débora Garofalo é eleita professora mais influente do mundo",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/brasileira-debora-garofalo-e-eleita-professora-mais-influente-do-mundo",
+    "data": "2026-02-03T21:00:00.000Z",
+    "resumo": "A Varkey Foundation, fundação internacional dedicada à valorização de professores, reconheceu a educadora brasileira Débora Garofalo como a professora...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1676910 at https://agenciabrasil.ebc.com.br",
     "titulo": "Celpe-Bras 2026: prazo de adesão de postos aplicadores termina dia 16",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/celpe-bras-2026-prazo-de-adesao-de-postos-aplicadores-termina-dia-16",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/inep-oferece-declaracao-que-permite-matricula-na-educacao-superior",
     "data": "2026-01-30T14:00:00.000Z",
     "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibiliza a partir desta sexta-feira (30) a declaração de conclusã...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676489 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Capes realiza censo da pós-graduação até 26 de fevereiro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/capes-realiza-censo-da-pos-graduacao-ate-26-de-fevereiro",
-    "data": "2026-01-30T11:28:00.000Z",
-    "resumo": "O Censo da Pós-Graduação stricto sensu referente ao ano de 2025 está aberto até 26 de fevereiro. É a primeira vez que ocorre a coleta de dados estatís...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
