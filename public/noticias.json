@@ -1,5 +1,14 @@
 [
   {
+    "id": "1677138 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026: inscrições para o 1º semestre terminam nesta sexta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-inscricoes-para-o-1o-semestre-terminam-nesta-sexta-feira",
+    "data": "2026-02-05T14:12:00.000Z",
+    "resumo": "Os estudantes que desejam concorrer a um financiamento das mensalidades do curso superior em uma faculdade privada podem se inscrever no Fundo de Fina...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1677106 at https://agenciabrasil.ebc.com.br",
     "titulo": "Olimpíada Brasileira de Matemática está com inscrições abertas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/olimpiada-brasileira-de-matematica-esta-com-inscricoes-abertas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/nao-selecionados-no-sisu-tem-ate-segunda-para-aderir-lista-de-espera",
     "data": "2026-01-30T20:54:00.000Z",
     "resumo": "O prazo para os candidatos não selecionados na chamada regular do Sistema de Seleção Unificada (Sisu) 2026 manifestarem interesse em participar da lis...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676550 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Governo federal e Sesi ampliam oferta de cuidotecas no país",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/governo-federal-e-sesi-ampliam-oferta-de-cuidotecas-no-pais",
-    "data": "2026-01-30T19:18:00.000Z",
-    "resumo": "Um Acordo de Cooperação Técnica entre o governo federal e o Conselho Nacional do Serviço Social da Indústria (CN-Sesi) amplia a oferta de cuidotecas e...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
