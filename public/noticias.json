@@ -1,5 +1,14 @@
 [
   {
+    "id": "1677322 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Abertas inscrições para 21ª Olimpíada de Matemática",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/abertas-inscricoes-para-21a-olimpiada-de-matematica",
+    "data": "2026-02-06T17:54:00.000Z",
+    "resumo": "As inscrições para a 21ª edição da Olimpíada Brasileira de Matemática das Escolas Públicas (Obmep) podem ser feitas exclusivamente pelas escolas de to...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1677241 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para o Fies 2026 terminam nesta sexta; saiba como concorrer",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/inscricoes-para-o-fies-2026-terminam-nesta-sexta-saiba-como-concorrer",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-divulga-aprovados-em-primeira-chamada",
     "data": "2026-02-03T11:48:00.000Z",
     "resumo": "O Programa Universidade Para Todos (Prouni) divulgou, na madrugada desta terça-feira (3), o resultado da primeira chamada.\nConfira a lista com os apro...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676725 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Sisu: acaba hoje prazo de adesão de não selecionados à lista de espera",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/sisu-acaba-hoje-prazo-de-adesao-de-nao-selecionados-lista-de-espera",
-    "data": "2026-02-02T14:05:00.000Z",
-    "resumo": "Os candidatos não selecionados na chamada regular do Sistema de Seleção Unificada (Sisu) 2026 têm até as 23h59 desta segunda-feira (2) para manifestar...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
