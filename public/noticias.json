@@ -1,5 +1,14 @@
 [
   {
+    "id": "1677563 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: pré-selecionados devem comprovar informações até sexta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-2026-pre-selecionados-devem-comprovar-informacoes-ate-sexta",
+    "data": "2026-02-09T16:57:00.000Z",
+    "resumo": "Os estudantes pré-selecionados na primeira chamada do Programa Universidade para Todos (Prouni), neste primeiro semestre de 2026, precisam entregar a ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1677322 at https://agenciabrasil.ebc.com.br",
     "titulo": "Abertas inscrições para 21ª Olimpíada de Matemática",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/abertas-inscricoes-para-21a-olimpiada-de-matematica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-abre-inscricoes-para-processo-seletivo-do-1o-semestre",
     "data": "2026-02-03T12:46:00.000Z",
     "resumo": "Estudantes interessados em participar do processo seletivo do primeiro semestre de 2026 do Fundo de Financiamento Estudantil (Fies) podem fazer as ins...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676872 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni divulga aprovados em primeira chamada",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-divulga-aprovados-em-primeira-chamada",
-    "data": "2026-02-03T11:48:00.000Z",
-    "resumo": "O Programa Universidade Para Todos (Prouni) divulgou, na madrugada desta terça-feira (3), o resultado da primeira chamada.\nConfira a lista com os apro...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
