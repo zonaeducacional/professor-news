@@ -1,5 +1,23 @@
 [
   {
+    "id": "1677784 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Selo Nacional Compromisso com a Alfabetização tem resultado divulgado",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/selo-nacional-compromisso-com-alfabetizacao-tem-resultado-divulgado",
+    "data": "2026-02-10T20:37:00.000Z",
+    "resumo": "Mais de 4,7 mil redes públicas de ensino brasileiras foram certificadas com o Selo Nacional Compromisso com a Alfabetização. O Ministério da Educação ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1677780 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Governo federal reajusta repasse da merenda escolar em 14,3% para 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/governo-federal-reajusta-repasse-da-merenda-escolar-em-143-para-2026",
+    "data": "2026-02-10T20:17:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) autorizou um novo reajuste no valor do repasse para o Programa Nacional de Alimentação Escolar (Pnae) em todo o país. O...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1677734 at https://agenciabrasil.ebc.com.br",
     "titulo": "Estados terão que abrir 600 mil vagas para abater dívida com União",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/estados-terao-que-abrir-600-mil-vagas-para-abater-divida-com-uniao",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-2026-mec-divulga-226-mil-pre-selecionados-na-primeira-chamada",
     "data": "2026-02-04T17:47:00.000Z",
     "resumo": "O processo seletivo referente ao primeiro semestre de 2026 do Programa Universidade para Todos (Prouni) teve 226.502 pré-selecionados na primeira cham...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676955 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Brasileira Débora Garofalo é eleita professora mais influente do mundo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/brasileira-debora-garofalo-e-eleita-professora-mais-influente-do-mundo",
-    "data": "2026-02-03T21:00:00.000Z",
-    "resumo": "A Varkey Foundation, fundação internacional dedicada à valorização de professores, reconheceu a educadora brasileira Débora Garofalo como a professora...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1676910 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Celpe-Bras 2026: prazo de adesão de postos aplicadores termina dia 16",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/celpe-bras-2026-prazo-de-adesao-de-postos-aplicadores-termina-dia-16",
-    "data": "2026-02-03T16:20:00.000Z",
-    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) prorrogou para 16 de fevereiro o prazo de adesão de postos interessado...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
