@@ -1,5 +1,14 @@
 [
   {
+    "id": "1677849 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Sisu 2026: universidades iniciam convocação de lista de espera",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/sisu-2026-universidades-iniciam-convocacao-de-lista-de-espera",
+    "data": "2026-02-11T15:37:00.000Z",
+    "resumo": "As instituições públicas de ensino superior participantes do Sistema de Seleção Unificada (Sisu) 2026 iniciaram nesta quarta-feira (11) a convocação d...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1677784 at https://agenciabrasil.ebc.com.br",
     "titulo": "Selo Nacional Compromisso com a Alfabetização tem resultado divulgado",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/selo-nacional-compromisso-com-alfabetizacao-tem-resultado-divulgado",
@@ -78,15 +87,6 @@
     "data": "2026-02-04T22:32:00.000Z",
     "resumo": "Unidades de ensino de todo o país podem inscrever, a partir desta quarta-feira (4), alunos do 6º ano do ensino fundamental ao 3º do ensino médio na 21...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1677106&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1677079 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: MEC divulga 226 mil pré-selecionados na primeira chamada",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-2026-mec-divulga-226-mil-pre-selecionados-na-primeira-chamada",
-    "data": "2026-02-04T17:47:00.000Z",
-    "resumo": "O processo seletivo referente ao primeiro semestre de 2026 do Programa Universidade para Todos (Prouni) teve 226.502 pré-selecionados na primeira cham...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
