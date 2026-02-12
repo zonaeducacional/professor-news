@@ -1,5 +1,14 @@
 [
   {
+    "id": "1678015 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC define calendário nacional de matrícula na residência médica",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/mec-define-calendario-nacional-de-matricula-na-residencia-medica",
+    "data": "2026-02-12T15:56:00.000Z",
+    "resumo": "A matrícula de médicos selecionados em programas de Residência Médica (PRM) deverá ser feita diretamente pela instituição credenciada entre os dias 10...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1677928 at https://agenciabrasil.ebc.com.br",
     "titulo": "Imersão na Fiocruz inspira meninas a seguir carreira científica",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/imersao-na-fiocruz-inspira-meninas-seguir-carreira-cientifica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/programa-leva-professores-de-escolas-publicas-intercambio-no-panama",
     "data": "2026-02-05T20:39:00.000Z",
     "resumo": "Os professores da educação básica de instituições públicas de ensino que se autodeclarem pessoas pretas, pardas ou quilombolas podem se inscrever até ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1677138 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: inscrições para o 1º semestre terminam nesta sexta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-inscricoes-para-o-1o-semestre-terminam-nesta-sexta-feira",
-    "data": "2026-02-05T14:12:00.000Z",
-    "resumo": "Os estudantes que desejam concorrer a um financiamento das mensalidades do curso superior em uma faculdade privada podem se inscrever no Fundo de Fina...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
