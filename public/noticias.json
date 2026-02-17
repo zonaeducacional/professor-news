@@ -1,5 +1,14 @@
 [
   {
+    "id": "1678376 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia Licenciaturas abre pré-inscrições nesta terça-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/pe-de-meia-licenciaturas-abre-pre-inscricoes-nesta-terca-feira",
+    "data": "2026-02-17T10:12:00.000Z",
+    "resumo": "Começa nesta terça-feira (17) o período de cadastramento de currículo e pré-inscrição de interessados em participar do Pé-de-Meia Licenciaturas 2026.\n...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1678372 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia Licenciaturas: cadastro para participar começa amanhã",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/pe-de-meia-licenciaturas-cadastro-para-participar-comeca-amanha",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-2026-pre-selecionados-devem-comprovar-informacoes-ate-sexta",
     "data": "2026-02-09T16:57:00.000Z",
     "resumo": "Os estudantes pré-selecionados na primeira chamada do Programa Universidade para Todos (Prouni), neste primeiro semestre de 2026, precisam entregar a ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1677322 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Abertas inscrições para 21ª Olimpíada de Matemática",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/abertas-inscricoes-para-21a-olimpiada-de-matematica",
-    "data": "2026-02-06T17:54:00.000Z",
-    "resumo": "As inscrições para a 21ª edição da Olimpíada Brasileira de Matemática das Escolas Públicas (Obmep) podem ser feitas exclusivamente pelas escolas de to...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
