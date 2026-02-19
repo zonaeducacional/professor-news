@@ -1,5 +1,14 @@
 [
   {
+    "id": "1678735 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC divulga calendário de pagamento do Pé-de-Meia 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/mec-divulga-calendario-de-pagamento-do-pe-de-meia-2026",
+    "data": "2026-02-19T21:07:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) divulgou, nesta quinta-feira (19), portaria com os calendários de pagamentos do Pé-de-Meia 2026. O programa federal é v...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1678720 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC divulga pré-seleção do Fies no primeiro semestre",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/mec-divulga-pre-selecao-do-fies-no-primeiro-semestre",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/sisu-2026-universidades-iniciam-convocacao-de-lista-de-espera",
     "data": "2026-02-11T15:37:00.000Z",
     "resumo": "As instituições públicas de ensino superior participantes do Sistema de Seleção Unificada (Sisu) 2026 iniciaram nesta quarta-feira (11) a convocação d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1677784 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Selo Nacional Compromisso com a Alfabetização tem resultado divulgado",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/selo-nacional-compromisso-com-alfabetizacao-tem-resultado-divulgado",
-    "data": "2026-02-10T20:37:00.000Z",
-    "resumo": "Mais de 4,7 mil redes públicas de ensino brasileiras foram certificadas com o Selo Nacional Compromisso com a Alfabetização. O Ministério da Educação ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
