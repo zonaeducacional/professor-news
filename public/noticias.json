@@ -1,5 +1,14 @@
 [
   {
+    "id": "1678851 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Escolas já podem responder à segunda fase do Censo Escolar 2025",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/escolas-ja-podem-responder-segunda-fase-do-censo-escolar-2025",
+    "data": "2026-02-22T14:37:00.000Z",
+    "resumo": "As escolas de educação básica de todo o país, públicas e privadas, já podem fazer a declaração da segunda etapa do Censo Escolar 2025, que trata da si...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1678850 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies: pré-selecionados devem complementar inscrição a partir de sexta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-pre-selecionados-devem-complementar-inscricao-partir-de-sexta",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-2026-aluno-deve-comprovar-informacoes-na-faculdade-ate-hoje",
     "data": "2026-02-13T14:32:00.000Z",
     "resumo": "Termina nesta sexta-feira (13) o prazo para estudantes pré-selecionados na primeira chamada do Programa Universidade para Todos (Prouni) neste primeir...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1678015 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC define calendário nacional de matrícula na residência médica",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/mec-define-calendario-nacional-de-matricula-na-residencia-medica",
-    "data": "2026-02-12T15:56:00.000Z",
-    "resumo": "A matrícula de médicos selecionados em programas de Residência Médica (PRM) deverá ser feita diretamente pela instituição credenciada entre os dias 10...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
