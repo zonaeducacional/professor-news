@@ -1,5 +1,14 @@
 [
   {
+    "id": "1679034 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026: prazo para aluno complementar inscrição termina nesta terça",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-prazo-para-aluno-complementar-inscricao-termina-nesta-terca",
+    "data": "2026-02-23T18:00:00.000Z",
+    "resumo": "Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estudantil (Fies) 2026 devem complementar, até esta terça-feira (24), as inf...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1678851 at https://agenciabrasil.ebc.com.br",
     "titulo": "Escolas já podem responder à segunda fase do Censo Escolar 2025",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/escolas-ja-podem-responder-segunda-fase-do-censo-escolar-2025",
@@ -78,15 +87,6 @@
     "data": "2026-02-16T13:49:00.000Z",
     "resumo": "O Ministério da Educação (MEC) inicia nesta terça-feira (17) o período de cadastramento de currículo e pré-inscrição de interessados em participar do ...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1678372&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1678119 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: aluno deve comprovar informações na faculdade até hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/prouni-2026-aluno-deve-comprovar-informacoes-na-faculdade-ate-hoje",
-    "data": "2026-02-13T14:32:00.000Z",
-    "resumo": "Termina nesta sexta-feira (13) o prazo para estudantes pré-selecionados na primeira chamada do Programa Universidade para Todos (Prouni) neste primeir...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
