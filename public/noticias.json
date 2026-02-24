@@ -1,5 +1,14 @@
 [
   {
+    "id": "1679178 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Cursos populares podem se inscrever em rede do MEC até o dia 27",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/cursos-populares-podem-se-inscrever-em-rede-do-mec-ate-o-dia-27",
+    "data": "2026-02-24T18:20:00.000Z",
+    "resumo": "Representantes de cursinhos populares e comunitários podem se inscrever até sexta-feira (27) para participar da segunda edição da Rede Nacional de Cur...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1678818 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies: pré-selecionados devem complementar inscrição até esta terça",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-pre-selecionados-devem-complementar-inscricao-ate-esta-terca",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/hackers-do-bem-abre-25-mil-vagas-para-formacao-em-ciberseguranca",
     "data": "2026-02-19T19:14:00.000Z",
     "resumo": "Em um cenário de crescimento acelerado de golpes digitais e ataques cibernéticos, o programa Hackers do Bem, iniciativa do Ministério da Ciência, Tecn...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1678687 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: pré-seleção da chamada única será divulgada nesta quinta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/mec-divulga-ainda-nesta-quinta-resultado-da-chamada-unica-do-fies-2026",
-    "data": "2026-02-19T14:35:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) divulga, nesta quinta-feira (19), o resultado da pré-seleção na chamada única do Fundo de Financiamento Estudantil (Fie...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
