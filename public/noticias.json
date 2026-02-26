@@ -1,5 +1,14 @@
 [
   {
+    "id": "1679523 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Ensino fundamental atinge 99,5% de frequência; atraso escolar cai ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/ensino-fundamental-atinge-995-de-frequencia-atraso-escolar-cai",
+    "data": "2026-02-26T20:58:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulgaram nesta quinta-feira (26), e...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1679468 at https://agenciabrasil.ebc.com.br",
     "titulo": "Um em cada quatro alunos da rede pública estuda em tempo integral",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/um-em-cada-quatro-alunos-da-rede-publica-estuda-em-tempo-integral",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-pre-selecionados-devem-complementar-inscricao-partir-de-sexta",
     "data": "2026-02-20T21:14:00.000Z",
     "resumo": "Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estudantil (Fies) 2026 devem complementar, a partir desta sexta-feira (20), ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1678781 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia Licenciaturas: cadastro e inscrições começam nesta sexta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/pe-de-meia-licenciaturas-cadastro-e-inscricoes-comecam-nesta-sexta",
-    "data": "2026-02-20T14:34:00.000Z",
-    "resumo": "Os estudantes que ingressam em um curso de licenciatura na modalidade presencial em 2026 e estejam regularmente matriculados podem, a partir desta sex...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
