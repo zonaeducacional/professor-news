@@ -1,5 +1,14 @@
 [
   {
+    "id": "1679546 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Alunos de escola no DF são “punidos” com flexão e PMs são afastados",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/alunos-de-escola-no-df-sao-punidos-com-flexao-e-pms-sao-afastados",
+    "data": "2026-02-26T22:15:00.000Z",
+    "resumo": "Policiais da escola cívico-militar CED 1, da região administrativa do Itapoã, no Distrito Federal, obrigaram alunos a fazer flexão de braços e a ficar...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1679523 at https://agenciabrasil.ebc.com.br",
     "titulo": "Ensino fundamental atinge 99,5% de frequência; atraso escolar cai ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/ensino-fundamental-atinge-995-de-frequencia-atraso-escolar-cai",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/escolas-ja-podem-responder-segunda-fase-do-censo-escolar-2025",
     "data": "2026-02-22T14:37:00.000Z",
     "resumo": "As escolas de educação básica de todo o país, públicas e privadas, já podem fazer a declaração da segunda etapa do Censo Escolar 2025, que trata da si...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1678850 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies: pré-selecionados devem complementar inscrição a partir de sexta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-pre-selecionados-devem-complementar-inscricao-partir-de-sexta",
-    "data": "2026-02-20T21:14:00.000Z",
-    "resumo": "Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estudantil (Fies) 2026 devem complementar, a partir desta sexta-feira (20), ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
