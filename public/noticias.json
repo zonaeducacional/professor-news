@@ -1,5 +1,14 @@
 [
   {
+    "id": "1679468 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Um em cada quatro alunos da rede pública estuda em tempo integral",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/um-em-cada-quatro-alunos-da-rede-publica-estuda-em-tempo-integral",
+    "data": "2026-02-26T16:56:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulgaram nesta quinta-feira (26) os...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1679447 at https://agenciabrasil.ebc.com.br",
     "titulo": "Censo registra queda de 1 milhão de matrículas na educação básica",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/censo-registra-queda-de-1-milhao-de-matriculas-na-educacao-basica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/pe-de-meia-licenciaturas-cadastro-e-inscricoes-comecam-nesta-sexta",
     "data": "2026-02-20T14:34:00.000Z",
     "resumo": "Os estudantes que ingressam em um curso de licenciatura na modalidade presencial em 2026 e estejam regularmente matriculados podem, a partir desta sex...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1678735 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC divulga calendário de pagamento do Pé-de-Meia 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/mec-divulga-calendario-de-pagamento-do-pe-de-meia-2026",
-    "data": "2026-02-19T21:07:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) divulgou, nesta quinta-feira (19), portaria com os calendários de pagamentos do Pé-de-Meia 2026. O programa federal é v...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
