@@ -1,5 +1,14 @@
 [
   {
+    "id": "1679645 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Educação profissional no Brasil cresce mais de 68% em cinco anos",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/educacao-profissional-no-brasil-cresce-mais-de-68-em-cinco-anos",
+    "data": "2026-02-28T11:16:00.000Z",
+    "resumo": "O Censo Escolar 2025, realizado anualmente pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), mostra evolução no núme...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1679674 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia: MEC começa pagar parcelas incentivo-conclusão e Enem",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/pe-de-meia-mec-paga-parcelas-incentivo-conclusao-e-participacao-no-en",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/pre-selecionados-tem-ate-fim-da-noite-para-completar-cadastro-no-fies",
     "data": "2026-02-24T21:02:00.000Z",
     "resumo": "O prazo para que os pré-selecionados na chamada única do Fundo de Financiamento Estudantil (Fies) 2026 complementem as informações prestadas no moment...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1679178 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Cursos populares podem se inscrever em rede do MEC até o dia 27",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/cursos-populares-podem-se-inscrever-em-rede-do-mec-ate-o-dia-27",
-    "data": "2026-02-24T18:20:00.000Z",
-    "resumo": "Representantes de cursinhos populares e comunitários podem se inscrever até sexta-feira (27) para participar da segunda edição da Rede Nacional de Cur...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
