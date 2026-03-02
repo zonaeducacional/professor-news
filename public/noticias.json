@@ -1,5 +1,14 @@
 [
   {
+    "id": "1680236 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Sistema permite emissão de certificado de conclusão do ensino médio",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/sistema-permite-emissao-de-certificado-de-conclusao-do-ensino-medio",
+    "data": "2026-03-02T17:57:00.000Z",
+    "resumo": "Os participantes do Exame Nacional do Ensino Médio (Enem) de 2025 que usaram o exame como estratégia para concluir a educação básica vão pode solicita...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1680207 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia: governo credita pagamento para nascidos em maio e junho",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-maio-e-junho-recebem-incentivos",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/alunos-de-escola-no-df-sao-punidos-com-flexao-e-pms-sao-afastados",
     "data": "2026-02-26T22:15:00.000Z",
     "resumo": "Policiais da escola cívico-militar CED 1, da região administrativa do Itapoã, no Distrito Federal, obrigaram alunos de 14 a 17 anos a fazer flexão de ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1679523 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Ensino fundamental atinge 99,5% de cobertura; atraso escolar cai ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/ensino-fundamental-atinge-995-de-frequencia-atraso-escolar-cai",
-    "data": "2026-02-26T20:58:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulgaram nesta quinta-feira (26), e...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
