@@ -1,14 +1,5 @@
 [
   {
-    "id": "1680306 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Economia brasileira cresce 2,3% em 2025, revela IBGE",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/economia-brasileira-cresce-23-em-2025-revela-ibge",
-    "data": "2026-03-03T12:02:00.000Z",
-    "resumo": "A economia brasileira cresceu 0,1% no quarto trimestre de 2025 na comparação com o terceiro trimestre. Com esse desempenho, o ano de 2025 fechou com e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
     "id": "1680251 at https://agenciabrasil.ebc.com.br",
     "titulo": "Brasileira vence concurso internacional de biologia quântica",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/brasileira-vence-concurso-internacional-de-biologia-quantica",
@@ -86,6 +77,15 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/observatorio-lanca-edital-do-programa-meninas-cientistas-do",
     "data": "2026-02-27T11:28:00.000Z",
     "resumo": "O Observatório Nacional (ON), do Ministério da Ciência, Tecnologia e Inovação, lançou, no dia 11 deste mês, em celebração ao Dia Internacional de Mulh...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1679571 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC anuncia construção de 117 escolas indígenas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/mec-anuncia-construcao-de-117-escolas-indigenas-no-brasil",
+    "data": "2026-02-27T01:01:00.000Z",
+    "resumo": "O Ministério da Educação anunciou nesta quinta-feira (26) a construção de 117 escolas indígenas no país. O anúncio foi feito pelo ministro da Educação...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
