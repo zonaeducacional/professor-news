@@ -1,5 +1,14 @@
 [
   {
+    "id": "1680654 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudo mostra que 90% dos cuidadores informais no Brasil são mulheres",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/estudo-mostra-que-90-dos-cuidadores-informais-no-brasil-sao-mulheres",
+    "data": "2026-03-04T20:59:00.000Z",
+    "resumo": "As mulheres dedicam, em média, 9,6 horas semanais a mais do que os homens em tarefas domésticas e cuidados, o que representa mais de mil horas dedicad...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1680508 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia paga incentivos a alunos nascidos em setembro e outubro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-paga-incentivos-alunos-nascidos-em-setembro-e-outubro",
@@ -78,15 +87,6 @@
     "data": "2026-02-27T16:14:00.000Z",
     "resumo": "Estão abertas as inscrições para a edição 2026 da Olimpíada Brasileira de Astronomia e Astronáutica (OBA) e da Olimpíada Brasileira de Foguetes (OBAFO...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1679642&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1679577 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Observatório lança edital do programa Meninas Cientistas do ON",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/observatorio-lanca-edital-do-programa-meninas-cientistas-do",
-    "data": "2026-02-27T11:28:00.000Z",
-    "resumo": "O Observatório Nacional (ON), do Ministério da Ciência, Tecnologia e Inovação, lançou, no dia 11 deste mês, em celebração ao Dia Internacional de Mulh...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
