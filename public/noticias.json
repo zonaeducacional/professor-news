@@ -1,5 +1,14 @@
 [
   {
+    "id": "1680996 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC habilita PUC-Rio e Idor para oferecer cursos de medicina",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-habilita-puc-rio-e-idor-para-oferecer-cursos-de-medicina",
+    "data": "2026-03-06T21:09:00.000Z",
+    "resumo": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) e a Faculdade de Ciências Médicas do Instituto D’Or de Pesquisa e Ensino (Idor) receber...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1680942 at https://agenciabrasil.ebc.com.br",
     "titulo": "Festival SESI de Educação leva campeonato de robótica para São Paulo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/festival-sesi-de-educacao-leva-campeonato-de-robotica-para-sao-paulo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/cursinhos-populares-podem-aderir-rede-de-apoio-federal-ate-o-dia-4",
     "data": "2026-03-01T12:18:00.000Z",
     "resumo": "O Ministério da Educação (MEC) prorrogou até quarta-feira (4 de março) o prazo para a adesão dos cursinhos populares interessados em participar da edi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1679645 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Educação profissional no Brasil cresce mais de 68% em cinco anos",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/educacao-profissional-no-brasil-cresce-mais-de-68-em-cinco-anos",
-    "data": "2026-02-28T11:16:00.000Z",
-    "resumo": "O Censo Escolar 2025, realizado anualmente pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), mostra evolução no núme...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
