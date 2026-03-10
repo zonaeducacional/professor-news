@@ -1,5 +1,14 @@
 [
   {
+    "id": "1681330 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Educação midiática: mapa revela projetos de conscientização pelo país",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/educacao-midiatica-mapa-revela-projetos-de-conscientizacao-pelo-pais",
+    "data": "2026-03-10T10:02:00.000Z",
+    "resumo": "Na hora do intervalo ou em trabalhos durante as aulas da escola municipal Josué de Castro, na área rural de Theobroma (RO), a comunicação ganhou novo ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1680996 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC habilita PUC-Rio e Idor para oferecer cursos de medicina",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-habilita-puc-rio-e-idor-para-oferecer-cursos-de-medicina",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/resultado-da-segunda-chamada-do-prouni-ja-esta-disponivel",
     "data": "2026-03-02T13:18:00.000Z",
     "resumo": "O Ministério da Educação (MEC) divulgou nesta segunda-feira (2) o resultado da segunda chamada do Programa Universidade para Todos (Prouni) do primeir...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1679682 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Cursinhos populares podem aderir à rede de apoio federal até o dia 4",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/cursinhos-populares-podem-aderir-rede-de-apoio-federal-ate-o-dia-4",
-    "data": "2026-03-01T12:18:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) prorrogou até quarta-feira (4 de março) o prazo para a adesão dos cursinhos populares interessados em participar da edi...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
