@@ -1,5 +1,14 @@
 [
   {
+    "id": "1681356 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: prazo para entrega de documentos termina nesta sexta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/prouni-2026-prazo-para-entrega-de-documentos-termina-nesta-sexta",
+    "data": "2026-03-10T14:45:00.000Z",
+    "resumo": "Os pré-selecionados da segunda chamada do Programa Universidade para Todos (ProUni) do primeiro semestre de 2026 devem entregar a documentação que com...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1681330 at https://agenciabrasil.ebc.com.br",
     "titulo": "Educação midiática: mapa revela projetos de conscientização pelo país",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/educacao-midiatica-mapa-revela-projetos-de-conscientizacao-pelo-pais",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-maio-e-junho-recebem-incentivos",
     "data": "2026-03-02T14:10:00.000Z",
     "resumo": "O Ministério da Educação (MEC) paga, nesta segunda-feira (2), duas parcelas do Programa Pé-de-Meia de 2025 aos estudantes nascidos em maio e junho.\nCo...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1680203 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Resultado da segunda chamada do Prouni já está disponível",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/resultado-da-segunda-chamada-do-prouni-ja-esta-disponivel",
-    "data": "2026-03-02T13:18:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) divulgou nesta segunda-feira (2) o resultado da segunda chamada do Programa Universidade para Todos (Prouni) do primeir...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
