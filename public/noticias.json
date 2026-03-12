@@ -1,5 +1,14 @@
 [
   {
+    "id": "1681731 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Alerj aprova formação de jovens para promover leitura e escrita no RJ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/alerj-aprova-formacao-de-jovens-para-promover-leitura-e-escrita-no-rj",
+    "data": "2026-03-12T18:57:00.000Z",
+    "resumo": "A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou nesta quinta-feira (12) a criação do programa Jovens Embaixadores do Livro, para ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1681450 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies 2026: pré-selecionados têm até quarta para completar cadastro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/fies-2026-pre-selecionados-tem-quarta-para-completar-cadastro",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/brasileira-vence-concurso-internacional-de-biologia-quantica",
     "data": "2026-03-02T20:30:00.000Z",
     "resumo": "A carioca Gabriela Frajtag, de 20 anos de idade, foi reconhecida em um dos principais concursos internacionais dedicados à biologia quântica. Ela rece...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1680236 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Sistema permite emissão de certificado de conclusão do ensino médio",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/sistema-permite-emissao-de-certificado-de-conclusao-do-ensino-medio",
-    "data": "2026-03-02T17:57:00.000Z",
-    "resumo": "Os participantes do Exame Nacional do Ensino Médio (Enem) de 2025 que usaram o exame como estratégia para concluir a educação básica vão pode solicita...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
