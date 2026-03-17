@@ -1,5 +1,14 @@
 [
   {
+    "id": "1682133 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Governo anuncia R$ 60 milhões para reconstrução de escolas em MG",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/governo-anuncia-r-60-milhoes-para-reconstrucao-de-escolas-em-mg",
+    "data": "2026-03-16T23:35:00.000Z",
+    "resumo": "O governo federal anunciou nesta segunda-feira (16) a destinação de quase R$ 60 milhões para reconstrução de escolas na Zona da Mata Mineira, região a...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1681731 at https://agenciabrasil.ebc.com.br",
     "titulo": "Alerj aprova formação de jovens para promover leitura e escrita no RJ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/alerj-aprova-formacao-de-jovens-para-promover-leitura-e-escrita-no-rj",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-paga-incentivos-alunos-nascidos-em-setembro-e-outubro",
     "data": "2026-03-04T13:23:00.000Z",
     "resumo": "O Ministério da Educação (MEC) paga, nesta quarta-feira (4), duas parcelas do Programa Pé-de-Meia de 2025 aos estudantes beneficiados que nasceram nos...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1680251 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Brasileira vence concurso internacional de biologia quântica",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/brasileira-vence-concurso-internacional-de-biologia-quantica",
-    "data": "2026-03-02T20:30:00.000Z",
-    "resumo": "A carioca Gabriela Frajtag, de 20 anos de idade, foi reconhecida em um dos principais concursos internacionais dedicados à biologia quântica. Ela rece...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
