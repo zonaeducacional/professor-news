@@ -1,5 +1,14 @@
 [
   {
+    "id": "1682692 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC pune mais de 50 cursos de medicina por desempenho insuficiente",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-pune-mais-de-50-cursos-de-medicina-por-desempenho-insuficiente",
+    "data": "2026-03-19T21:43:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) aplicou sanções a mais de 50 cursos de medicina que apresentaram desempenho insatisfatório no Exame Nacional de Avaliaç...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1682598 at https://agenciabrasil.ebc.com.br",
     "titulo": "Unicef alerta para prejuízos da falta de acesso à água nas escolas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/unicef-alerta-para-prejuizos-da-falta-de-acesso-agua-nas-escolas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-mec-paga-incentivo-para-nascidos-em-novembro-e-dezembro",
     "data": "2026-03-05T13:44:00.000Z",
     "resumo": "O Ministério da Educação (MEC) paga, nesta quinta-feira (5), duas parcelas do Programa Pé-de-Meia de 2025 aos estudantes beneficiados que nasceram nos...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1680654 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudo mostra que 90% dos cuidadores informais no Brasil são mulheres",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/estudo-mostra-que-90-dos-cuidadores-informais-no-brasil-sao-mulheres",
-    "data": "2026-03-04T20:59:00.000Z",
-    "resumo": "As mulheres dedicam, em média, 9,6 horas semanais a mais do que os homens em tarefas domésticas e cuidados, o que representa mais de mil horas dedicad...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
