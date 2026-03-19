@@ -1,5 +1,14 @@
 [
   {
+    "id": "1682735 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Número de alunos de ensino superior aumenta em 2023 e 2024",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/numero-de-alunos-de-ensino-superior-aumenta-em-2023-e-2024",
+    "data": "2026-03-19T23:07:00.000Z",
+    "resumo": "O ingresso no ensino superior voltou a crescer entre os anos 2023 e 2024. O total de matrículas atingiu 10,23 milhões de pessoas, um contingente maior...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1682692 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC pune mais de 50 cursos de medicina por desempenho insuficiente",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-pune-mais-de-50-cursos-de-medicina-por-desempenho-insuficiente",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/festival-sesi-de-educacao-leva-campeonato-de-robotica-para-sao-paulo",
     "data": "2026-03-06T19:19:00.000Z",
     "resumo": "Começa nesta sexta-feira (6) a 7ª edição do Festival SESI de Educação, uma das maiores competições de robótica da América Latina que reúne, na capital...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1680751 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia: MEC paga incentivo para nascidos em novembro e dezembro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-mec-paga-incentivo-para-nascidos-em-novembro-e-dezembro",
-    "data": "2026-03-05T13:44:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) paga, nesta quinta-feira (5), duas parcelas do Programa Pé-de-Meia de 2025 aos estudantes beneficiados que nasceram nos...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
