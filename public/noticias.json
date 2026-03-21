@@ -1,5 +1,14 @@
 [
   {
+    "id": "1682902 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Investir em educação é o jeito de salvar o Brasil, defende Lula",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/investir-em-educacao-e-o-jeito-de-salvar-o-brasil-defende-lula",
+    "data": "2026-03-21T00:33:00.000Z",
+    "resumo": "O presidente Luiz Inácio Lula da Silva defendeu, nesta sexta-feira (20), investimentos em educação como forma de “salvar o país”.\nEle participou, em S...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1682735 at https://agenciabrasil.ebc.com.br",
     "titulo": "Número de alunos de ensino superior aumenta em 2023 e 2024",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/numero-de-alunos-de-ensino-superior-aumenta-em-2023-e-2024",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-habilita-puc-rio-e-idor-para-oferecer-cursos-de-medicina",
     "data": "2026-03-06T21:09:00.000Z",
     "resumo": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) e a Faculdade de Ciências Médicas do Instituto D’Or de Pesquisa e Ensino (Idor) receber...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1680942 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Festival SESI de Educação leva campeonato de robótica para São Paulo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/festival-sesi-de-educacao-leva-campeonato-de-robotica-para-sao-paulo",
-    "data": "2026-03-06T19:19:00.000Z",
-    "resumo": "Começa nesta sexta-feira (6) a 7ª edição do Festival SESI de Educação, uma das maiores competições de robótica da América Latina que reúne, na capital...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
