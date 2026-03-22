@@ -1,5 +1,14 @@
 [
   {
+    "id": "1682850 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Mulher trans chega à universidade 25 anos após violências na escola ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mulher-trans-chega-universidade-25-anos-apos-viol%C3%AAncia-na-escola",
+    "data": "2026-03-22T14:20:00.000Z",
+    "resumo": "Os caminhos da educação formal são diferentes para cada pessoa e, para algumas, frequentar a sala de aula é um privilégio. É o caso de Sabriiny Fogaça...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1682902 at https://agenciabrasil.ebc.com.br",
     "titulo": "Investir em educação é o jeito de salvar o Brasil, defende Lula",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/investir-em-educacao-e-o-jeito-de-salvar-o-brasil-defende-lula",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/educacao-midiatica-mapa-revela-projetos-de-conscientizacao-pelo-pais",
     "data": "2026-03-10T10:02:00.000Z",
     "resumo": "Na hora do intervalo ou em trabalhos durante as aulas da escola municipal Josué de Castro, na área rural de Theobroma (RO), a comunicação ganhou novo ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1680996 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC habilita PUC-Rio e Idor para oferecer cursos de medicina",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-habilita-puc-rio-e-idor-para-oferecer-cursos-de-medicina",
-    "data": "2026-03-06T21:09:00.000Z",
-    "resumo": "A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) e a Faculdade de Ciências Médicas do Instituto D’Or de Pesquisa e Ensino (Idor) receber...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
