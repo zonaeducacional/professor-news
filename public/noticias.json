@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683061 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pagamento da 1ª parcela do programa Pé-de-Meia começa nesta segunda",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pagamento-da-1a-parcela-do-programa-pe-de-meia-comeca-nesta-segunda",
+    "data": "2026-03-23T11:15:00.000Z",
+    "resumo": "Estudantes do ensino médio da rede pública que participam do programa Pé-de-Meia começam a receber, nesta segunda-feira (23), a primeira parcela de 20...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1682850 at https://agenciabrasil.ebc.com.br",
     "titulo": "Mulher trans chega à universidade 25 anos após violências na escola ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mulher-trans-chega-universidade-25-anos-apos-viol%C3%AAncia-na-escola",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/prouni-2026-prazo-para-entrega-de-documentos-termina-nesta-sexta",
     "data": "2026-03-10T14:45:00.000Z",
     "resumo": "Os pré-selecionados da segunda chamada do Programa Universidade para Todos (ProUni) do primeiro semestre de 2026 devem entregar a documentação que com...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1681330 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Educação midiática: mapa revela projetos de conscientização pelo país",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/educacao-midiatica-mapa-revela-projetos-de-conscientizacao-pelo-pais",
-    "data": "2026-03-10T10:02:00.000Z",
-    "resumo": "Na hora do intervalo ou em trabalhos durante as aulas da escola municipal Josué de Castro, na área rural de Theobroma (RO), a comunicação ganhou novo ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
