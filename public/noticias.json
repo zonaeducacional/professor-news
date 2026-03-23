@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683082 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Confira as datas de pagamento da primeira parcela do Pé-de-Meia 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/confira-datas-de-pagamento-da-primeira-parcela-do-pe-de-meia-2026",
+    "data": "2026-03-23T15:20:00.000Z",
+    "resumo": "A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segunda-feira (23) a estudantes do ensino médio matriculados na rede pública...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1683061 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pagamento da 1ª parcela do programa Pé-de-Meia começa nesta segunda",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pagamento-da-1a-parcela-do-programa-pe-de-meia-comeca-nesta-segunda",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/fies-2026-pre-selecionados-tem-quarta-para-completar-cadastro",
     "data": "2026-03-10T21:21:00.000Z",
     "resumo": "Os estudantes pré-selecionados, por meio da lista de espera, para vagas do Fundo de Financiamento Estudantil (Fies) para o primeiro semestre de 2026, ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1681356 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: prazo para entrega de documentos termina nesta sexta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/prouni-2026-prazo-para-entrega-de-documentos-termina-nesta-sexta",
-    "data": "2026-03-10T14:45:00.000Z",
-    "resumo": "Os pré-selecionados da segunda chamada do Programa Universidade para Todos (ProUni) do primeiro semestre de 2026 devem entregar a documentação que com...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
