@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683221 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Brasil atinge meta com 66% das crianças alfabetizadas em idade certa",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/brasil-atinge-meta-com-66-das-criancas-alfabetizadas-em-idade-certa",
+    "data": "2026-03-23T20:32:00.000Z",
+    "resumo": "O Brasil superou a meta de crianças alfabetizadas na idade certa ao alcançar, em 2025, 66% dos estudantes aptos a ler e escrever ao final do segundo a...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1683207 at https://agenciabrasil.ebc.com.br",
     "titulo": "Polícia Federal investiga furto de material de pesquisa na Unicamp",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/policia-federal-investiga-furto-de-material-de-pesquisa-na-unicamp",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/governo-anuncia-r-60-milhoes-para-reconstrucao-de-escolas-em-mg",
     "data": "2026-03-16T23:35:00.000Z",
     "resumo": "O governo federal anunciou nesta segunda-feira (16) a destinação de quase R$ 60 milhões para reconstrução de escolas na Zona da Mata Mineira, região a...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1681731 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Alerj aprova formação de jovens para promover leitura e escrita no RJ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/alerj-aprova-formacao-de-jovens-para-promover-leitura-e-escrita-no-rj",
-    "data": "2026-03-12T18:57:00.000Z",
-    "resumo": "A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou nesta quinta-feira (12) a criação do programa Jovens Embaixadores do Livro, para ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
