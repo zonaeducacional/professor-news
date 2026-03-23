@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683207 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Polícia Federal investiga furto de material de pesquisa na Unicamp",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/policia-federal-investiga-furto-de-material-de-pesquisa-na-unicamp",
+    "data": "2026-03-23T19:46:00.000Z",
+    "resumo": "A Polícia Federal investiga um furto de materiais de pesquisa que ocorreu no fim de semana nas dependências do Instituto de Biologia da Universidade E...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1683082 at https://agenciabrasil.ebc.com.br",
     "titulo": "Confira as datas de pagamento da primeira parcela do Pé-de-Meia 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/confira-datas-de-pagamento-da-primeira-parcela-do-pe-de-meia-2026",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/alerj-aprova-formacao-de-jovens-para-promover-leitura-e-escrita-no-rj",
     "data": "2026-03-12T18:57:00.000Z",
     "resumo": "A Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) aprovou nesta quinta-feira (12) a criação do programa Jovens Embaixadores do Livro, para ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1681450 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: pré-selecionados têm até quarta para completar cadastro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/fies-2026-pre-selecionados-tem-quarta-para-completar-cadastro",
-    "data": "2026-03-10T21:21:00.000Z",
-    "resumo": "Os estudantes pré-selecionados, por meio da lista de espera, para vagas do Fundo de Financiamento Estudantil (Fies) para o primeiro semestre de 2026, ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
