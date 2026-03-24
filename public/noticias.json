@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683294 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Instituto oferta videoaulas de português a alunos do ensino médio",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/instituto-oferta-videoaulas-de-portugues-alunos-do-ensino-medio",
+    "data": "2026-03-24T15:38:00.000Z",
+    "resumo": "O Instituto de Matemática Pura e Aplicada (Impa) disponibilizou videoaulas gratuitas de língua portuguesa voltadas a alunos do ensino médio e professo...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1683236 at https://agenciabrasil.ebc.com.br",
     "titulo": "Para especialistas, alfabetização na idade correta é marco para o país",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/para-especialistas-alfabetizacao-na-idade-correta-e-marco-para-o-pais",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/numero-de-alunos-de-ensino-superior-aumenta-em-2023-e-2024",
     "data": "2026-03-19T23:07:00.000Z",
     "resumo": "O ingresso no ensino superior voltou a crescer entre os anos 2023 e 2024. O total de matrículas atingiu 10,23 milhões de pessoas, um contingente maior...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1682692 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC pune mais de 50 cursos de medicina por desempenho insuficiente",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-pune-mais-de-50-cursos-de-medicina-por-desempenho-insuficiente",
-    "data": "2026-03-19T21:43:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) aplicou sanções a mais de 50 cursos de medicina que apresentaram desempenho insatisfatório no Exame Nacional de Avaliaç...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
