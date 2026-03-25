@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683333 at https://agenciabrasil.ebc.com.br",
+    "titulo": "IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/ibge-quatro-em-cada-dez-adolescentes-ja-sofreram-bullying-na-escola",
+    "data": "2026-03-25T13:10:00.000Z",
+    "resumo": "Quatro em cada dez estudantes brasileiros de 13 a 17 anos afirmam já ter sido alvos de bullying, e 27,2% dos alunos nessa faixa etária já sofreram alg...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1683294 at https://agenciabrasil.ebc.com.br",
     "titulo": "Instituto oferta videoaulas de português a alunos do ensino médio",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/instituto-oferta-videoaulas-de-portugues-alunos-do-ensino-medio",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/investir-em-educacao-e-o-jeito-de-salvar-o-brasil-defende-lula",
     "data": "2026-03-21T00:33:00.000Z",
     "resumo": "O presidente Luiz Inácio Lula da Silva defendeu, nesta sexta-feira (20), investimentos em educação como forma de “salvar o país”.\nEle participou, em S...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1682735 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Número de alunos de ensino superior aumenta em 2023 e 2024",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/numero-de-alunos-de-ensino-superior-aumenta-em-2023-e-2024",
-    "data": "2026-03-19T23:07:00.000Z",
-    "resumo": "O ingresso no ensino superior voltou a crescer entre os anos 2023 e 2024. O total de matrículas atingiu 10,23 milhões de pessoas, um contingente maior...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
