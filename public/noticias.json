@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683719 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni: prazo para entrar na lista de espera termina quinta-feira (26)",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/prouni-prazo-para-entrar-na-lista-de-espera-termina-quinta-feira-26",
+    "data": "2026-03-26T17:16:00.000Z",
+    "resumo": "Os estudantes interessados em participar da lista de espera para o Programa Universidade para Todos (Prouni) devem se manifestar até as 23h59 desta qu...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1683523 at https://agenciabrasil.ebc.com.br",
     "titulo": "Violência interrompe transportes e afeta acesso à educação no Rio",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/violencia-interrompe-transportes-e-afeta-acesso-educacao-no-rio",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/brasil-atinge-meta-com-66-das-criancas-alfabetizadas-em-idade-certa",
     "data": "2026-03-23T20:32:00.000Z",
     "resumo": "O Brasil superou a meta de crianças alfabetizadas na idade certa ao alcançar, em 2025, 66% dos estudantes aptos a ler e escrever ao final do segundo a...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683207 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Polícia Federal investiga furto de material de pesquisa na Unicamp",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/policia-federal-investiga-furto-de-material-de-pesquisa-na-unicamp",
-    "data": "2026-03-23T19:46:00.000Z",
-    "resumo": "A Polícia Federal investiga um furto de materiais de pesquisa que ocorreu no fim de semana nas dependências do Instituto de Biologia da Universidade E...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
