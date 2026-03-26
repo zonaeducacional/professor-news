@@ -1,5 +1,14 @@
 [
   {
+    "id": "1683523 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Violência interrompe transportes e afeta acesso à educação no Rio",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/violencia-interrompe-transportes-e-afeta-acesso-educacao-no-rio",
+    "data": "2026-03-26T10:50:00.000Z",
+    "resumo": "Entre janeiro de 2023 e julho de 2025, interrupções no transporte público causadas pela violência afetaram rotas usadas no deslocamento entre a casa e...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1683611 at https://agenciabrasil.ebc.com.br",
     "titulo": "Unesco: 273 milhões de crianças estão fora da escola em todo o mundo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/unesco-273-milhoes-de-criancas-estao-fora-da-escola-em-todo-o-mundo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/policia-federal-investiga-furto-de-material-de-pesquisa-na-unicamp",
     "data": "2026-03-23T19:46:00.000Z",
     "resumo": "A Polícia Federal investiga um furto de materiais de pesquisa que ocorreu no fim de semana nas dependências do Instituto de Biologia da Universidade E...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683082 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Confira as datas de pagamento da primeira parcela do Pé-de-Meia 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/confira-datas-de-pagamento-da-primeira-parcela-do-pe-de-meia-2026",
-    "data": "2026-03-23T15:20:00.000Z",
-    "resumo": "A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segunda-feira (23) a estudantes do ensino médio matriculados na rede pública...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
