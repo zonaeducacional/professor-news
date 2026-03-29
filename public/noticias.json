@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684114 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Plataforma do MEC facilita volta de jovens e adultos ao ensino público",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/plataforma-do-mec-facilita-volta-de-jovens-e-adultos-ao-ensino-publico",
+    "data": "2026-03-29T17:12:00.000Z",
+    "resumo": "Qualquer pessoa com 15 anos ou mais que deseje concluir os estudos poderá registrar um pedido de matrícula na plataforma Cadastro da Educação de Joven...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684104 at https://agenciabrasil.ebc.com.br",
     "titulo": "Festa em Recife celebra 30 mil alfabetizados em programa social",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/festa-em-recife-celebra-30-mil-alfabetizados-em-programa-social",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/ibge-quatro-em-cada-dez-adolescentes-ja-sofreram-bullying-na-escola",
     "data": "2026-03-25T13:10:00.000Z",
     "resumo": "Quatro em cada dez estudantes brasileiros de 13 a 17 anos afirmam já ter sido alvos de bullying, e 27,2% dos alunos nessa faixa etária já sofreram alg...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683294 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Instituto oferta videoaulas de português a alunos do ensino médio",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/instituto-oferta-videoaulas-de-portugues-alunos-do-ensino-medio",
-    "data": "2026-03-24T15:38:00.000Z",
-    "resumo": "O Instituto de Matemática Pura e Aplicada (Impa) disponibilizou videoaulas gratuitas de língua portuguesa voltadas a alunos do ensino médio e professo...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
