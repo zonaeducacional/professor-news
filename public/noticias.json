@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684104 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Festa em Recife celebra 30 mil alfabetizados em programa social",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/festa-em-recife-celebra-30-mil-alfabetizados-em-programa-social",
+    "data": "2026-03-28T23:34:00.000Z",
+    "resumo": "Delegações de 11 estados do Nordeste e do Sudeste celebraram na tarde deste sábado (28), no Ginásio de Esportes Geraldo Magalhães, no Recife (PE), a f...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1684104&o=rss",
+    "lido": false
+  },
+  {
     "id": "1683736 at https://agenciabrasil.ebc.com.br",
     "titulo": "ONG oferece bolsas para alunos negros que estudam no exterior",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/ong-oferece-bolsas-para-alunos-negros-que-estudam-no-exterior",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/instituto-oferta-videoaulas-de-portugues-alunos-do-ensino-medio",
     "data": "2026-03-24T15:38:00.000Z",
     "resumo": "O Instituto de Matemática Pura e Aplicada (Impa) disponibilizou videoaulas gratuitas de língua portuguesa voltadas a alunos do ensino médio e professo...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683236 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Para especialistas, alfabetização na idade correta é marco para o país",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/para-especialistas-alfabetizacao-na-idade-correta-e-marco-para-o-pais",
-    "data": "2026-03-23T22:08:00.000Z",
-    "resumo": "O anúncio de que 66% das crianças brasileiras foram alfabetizadas na idade correta, no ano passado, representa uma conquista importante, segundo avali...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
