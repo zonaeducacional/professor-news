@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684140 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje",
+    "data": "2026-03-30T11:02:00.000Z",
+    "resumo": "Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primeir...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684114 at https://agenciabrasil.ebc.com.br",
     "titulo": "Plataforma do MEC facilita volta de jovens e adultos ao ensino público",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/plataforma-do-mec-facilita-volta-de-jovens-e-adultos-ao-ensino-publico",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/unicamp-abre-investigacao-interna-sobre-furto-de-material-biologico",
     "data": "2026-03-25T16:25:00.000Z",
     "resumo": "A Reitoria da Universidade Estadual de Campinas (Unicamp) instaurou uma sindicância interna para apurar o furto de material de pesquisa que aconteceu ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683333 at https://agenciabrasil.ebc.com.br",
-    "titulo": "IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/ibge-quatro-em-cada-dez-adolescentes-ja-sofreram-bullying-na-escola",
-    "data": "2026-03-25T13:10:00.000Z",
-    "resumo": "Quatro em cada dez estudantes brasileiros de 13 a 17 anos afirmam já ter sido alvos de bullying, e 27,2% dos alunos nessa faixa etária já sofreram alg...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
