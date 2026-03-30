@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684219 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prêmio Educador Nota 10 cria nova categoria para gestor escolar",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/premio-educador-nota-10-cria-nova-categoria-para-gestor-escolar",
+    "data": "2026-03-30T19:58:00.000Z",
+    "resumo": "Estão abertas as inscrições para o Prêmio Educador Nota 10, promovido pela organização sem fins lucrativos Instituto Somos. As candidaturas são gratui...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684140 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/escolas-terao-conteudos-de-prevencao-violencia-contra-mulher",
     "data": "2026-03-25T17:47:00.000Z",
     "resumo": "Os ministérios da Educação (MEC) e das Mulheres assinaram, nesta quarta-feira (25), em Brasília, a portaria de regulamentação da Lei Maria da Penha Va...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683504 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Unicamp abre investigação interna sobre furto de material biológico",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/unicamp-abre-investigacao-interna-sobre-furto-de-material-biologico",
-    "data": "2026-03-25T16:25:00.000Z",
-    "resumo": "A Reitoria da Universidade Estadual de Campinas (Unicamp) instaurou uma sindicância interna para apurar o furto de material de pesquisa que aconteceu ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
