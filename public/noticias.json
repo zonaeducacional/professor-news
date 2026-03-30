@@ -1,5 +1,23 @@
 [
   {
+    "id": "1684224 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Setor privado assume gestão de infraestrura de escolas em Minas Gerais",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/setor-privado-assume-gestao-de-infraestrura-de-escolas-em-minas-gerais",
+    "data": "2026-03-30T20:38:00.000Z",
+    "resumo": "O fundo de investimento em participações (FIP) IG4 BTG Pactual Health Infra foi escolhido, nesta segunda-feira (30), para assumir a gestão de infraest...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1684223 at https://agenciabrasil.ebc.com.br",
+    "titulo": "O que se sabe sobre o furto de material biológico da Unicamp",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/o-que-se-sabe-sobre-o-furto-de-material-biologico-da-unicamp",
+    "data": "2026-03-30T20:37:00.000Z",
+    "resumo": "O furto de material biológico da Universidade Estadual de Campinas (Unicamp), que descoberto em março, gerou repercussão nacional.\nNa segunda-feira (2...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684219 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prêmio Educador Nota 10 cria nova categoria para gestor escolar",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/premio-educador-nota-10-cria-nova-categoria-para-gestor-escolar",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/violencia-interrompe-transportes-e-afeta-acesso-educacao-no-rio",
     "data": "2026-03-26T10:50:00.000Z",
     "resumo": "Entre janeiro de 2023 e julho de 2025, interrupções no transporte público causadas pela violência afetaram rotas usadas no deslocamento entre a casa e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683611 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Unesco: 273 milhões de crianças estão fora da escola em todo o mundo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/unesco-273-milhoes-de-criancas-estao-fora-da-escola-em-todo-o-mundo",
-    "data": "2026-03-25T23:34:00.000Z",
-    "resumo": "A Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco) apresentou nesta quarta-feira (25) o Relatório de Monitoramento Global...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683521 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Escolas terão conteúdos de prevenção à violência contra a mulher",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/escolas-terao-conteudos-de-prevencao-violencia-contra-mulher",
-    "data": "2026-03-25T17:47:00.000Z",
-    "resumo": "Os ministérios da Educação (MEC) e das Mulheres assinaram, nesta quarta-feira (25), em Brasília, a portaria de regulamentação da Lei Maria da Penha Va...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
