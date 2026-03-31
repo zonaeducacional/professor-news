@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684291 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC divulga lista de espera do Prouni para bolsas do ensino superior",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-divulga-lista-de-espera-do-prouni-para-bolsas-do-ensino-superior",
+    "data": "2026-03-31T13:32:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) divulgou nesta terça-feira (31) o resultado da lista de espera do Programa Universidade para Todos (Prouni) no primeiro...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684224 at https://agenciabrasil.ebc.com.br",
     "titulo": "Setor privado assume gestão de infraestrutura de escolas em MG",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/setor-privado-assume-gestao-de-infraestrutura-de-escolas-em-minas-gerais",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/prouni-prazo-para-entrar-na-lista-de-espera-termina-esta-noite",
     "data": "2026-03-26T17:16:00.000Z",
     "resumo": "Os estudantes interessados em participar da lista de espera para o Programa Universidade para Todos (Prouni) devem se manifestar até as 23h59 desta qu...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683523 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Violência interrompe transportes e afeta acesso à educação no Rio",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/violencia-interrompe-transportes-e-afeta-acesso-educacao-no-rio",
-    "data": "2026-03-26T10:50:00.000Z",
-    "resumo": "Entre janeiro de 2023 e julho de 2025, interrupções no transporte público causadas pela violência afetaram rotas usadas no deslocamento entre a casa e...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
