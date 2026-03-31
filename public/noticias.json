@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684446 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Governo anuncia ampliação da Rede Nacional de Cursinhos Populares",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/governo-anuncia-ampliacao-da-rede-nacional-de-cursinhos-populares",
+    "data": "2026-03-31T22:08:00.000Z",
+    "resumo": "O governo federal anunciou nesta terça-feira (31) a ampliação da Rede Nacional de Cursinhos Populares (CPOP), que dá suporte técnico e financeiro a pr...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684349 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem passa a compor Saeb e vai medir a qualidade do ensino no Brasil",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/enem-passa-compor-saeb-e-vai-medir-qualidade-do-ensino-no-brasil",
@@ -78,15 +87,6 @@
     "data": "2026-03-26T19:07:00.000Z",
     "resumo": "O Fundo Baobá, uma instituição que busca promover a equidade racial, anunciou, nesta quinta-feira (26), o lançamento do programa Black STEM que prevê ...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1683736&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1683727 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudantes ocupam sede da Secretaria de Educação do estado de SP",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/estudantes-ocupam-sede-da-secretaria-de-educacao-do-estado-de-sp",
-    "data": "2026-03-26T18:06:00.000Z",
-    "resumo": "Em protesto contra as atuais políticas educacionais do governo de São Paulo, estudantes ocuparam na tarde desta quarta-feira (25) a sede da Secretaria...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
