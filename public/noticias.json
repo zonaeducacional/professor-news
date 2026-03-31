@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684349 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem passa a compor Saeb e vai medir a qualidade do ensino no Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/enem-passa-compor-saeb-e-vai-medir-qualidade-do-ensino-no-brasil",
+    "data": "2026-03-31T17:38:00.000Z",
+    "resumo": "O Exame Nacional do Ensino Médio (Enem) será usado para avaliar a educação brasileira. As provas anuais que, tradicionalmente, servem como principal p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684291 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC divulga lista de espera do Prouni para bolsas do ensino superior",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-divulga-lista-de-espera-do-prouni-para-bolsas-do-ensino-superior",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/estudantes-ocupam-sede-da-secretaria-de-educacao-do-estado-de-sp",
     "data": "2026-03-26T18:06:00.000Z",
     "resumo": "Em protesto contra as atuais políticas educacionais do governo de São Paulo, estudantes ocuparam na tarde desta quarta-feira (25) a sede da Secretaria...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1683719 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni: prazo para entrar na lista de espera termina esta noite",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/prouni-prazo-para-entrar-na-lista-de-espera-termina-esta-noite",
-    "data": "2026-03-26T17:16:00.000Z",
-    "resumo": "Os estudantes interessados em participar da lista de espera para o Programa Universidade para Todos (Prouni) devem se manifestar até as 23h59 desta qu...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
