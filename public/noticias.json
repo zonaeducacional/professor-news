@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684492 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni retoma disputa de cotistas também na ampla concorrência",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prouni-retoma-disputa-de-cotistas-tambem-na-ampla-concorrencia",
+    "data": "2026-04-01T14:05:00.000Z",
+    "resumo": "Estudantes cotistas do Programa Universidade para Todos (Prouni) voltarão a concorrer nas duas modalidades de seleção: na ampla concorrência e na rese...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684473 at https://agenciabrasil.ebc.com.br",
     "titulo": "Evocar raízes culturais dos alunos transforma a aula, diz pesquisador",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/evocar-raizes-culturais-dos-alunos-transforma-aula-diz-pesquisador",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje",
     "data": "2026-03-30T11:02:00.000Z",
     "resumo": "Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primeir...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684114 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Plataforma do MEC facilita volta de jovens e adultos ao ensino público",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/plataforma-do-mec-facilita-volta-de-jovens-e-adultos-ao-ensino-publico",
-    "data": "2026-03-29T17:12:00.000Z",
-    "resumo": "Qualquer pessoa com 15 anos ou mais que deseje concluir os estudos poderá registrar um pedido de matrícula na plataforma Cadastro da Educação de Joven...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
