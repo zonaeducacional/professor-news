@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684537 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia reduz abandono escolar no ensino médio em 43% em dois anos",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/pe-de-meia-reduz-abandono-escolar-no-ensino-medio-em-43-em-dois-anos",
+    "data": "2026-04-01T16:25:00.000Z",
+    "resumo": "Desde a sua criação há dois anos, o Programa Pé-de-Meia reduziu o abandono escolar no ensino médio em 43%. Em 2024, a taxa de evasão era de 6,4% e cai...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684492 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni retoma disputa de cotistas também na ampla concorrência",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prouni-retoma-disputa-de-cotistas-tambem-na-ampla-concorrencia",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/premio-educador-nota-10-cria-nova-categoria-para-gestor-escolar",
     "data": "2026-03-30T19:58:00.000Z",
     "resumo": "Estão abertas as inscrições para o Prêmio Educador Nota 10, promovido pela organização sem fins lucrativos Instituto Somos. As candidaturas são gratui...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684140 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje",
-    "data": "2026-03-30T11:02:00.000Z",
-    "resumo": "Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primeir...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
