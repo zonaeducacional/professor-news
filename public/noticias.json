@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684790 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC divulga nova chamada da lista de espera para Fies do 1º semestre",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-divulga-nova-chamada-da-lista-de-espera-para-fies-do-1o-semestre",
+    "data": "2026-04-03T19:54:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) divulgou, nesta quinta-feira (2), uma nova convocação da lista de espera para vagas do Fundo de Financiamento Estudanti...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684537 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia reduz abandono escolar no ensino médio em 43% em dois anos",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/pe-de-meia-reduz-abandono-escolar-no-ensino-medio-em-43-em-dois-anos",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/o-que-se-sabe-sobre-o-furto-de-material-biologico-da-unicamp",
     "data": "2026-03-30T20:37:00.000Z",
     "resumo": "O furto de material biológico da Universidade Estadual de Campinas (Unicamp), que descoberto em março, gerou repercussão nacional.\nNa segunda-feira (2...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684219 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prêmio Educador Nota 10 cria nova categoria para gestor escolar",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/premio-educador-nota-10-cria-nova-categoria-para-gestor-escolar",
-    "data": "2026-03-30T19:58:00.000Z",
-    "resumo": "Estão abertas as inscrições para o Prêmio Educador Nota 10, promovido pela organização sem fins lucrativos Instituto Somos. As candidaturas são gratui...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
