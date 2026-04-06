@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684893 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC disponibiliza aplicativo gratuito com oito mil livros",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-disponibiliza-aplicativo-gratuito-com-oito-mil-livros",
+    "data": "2026-04-06T18:07:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) disponibilizou para download, nesta segunda-feira (6), o aplicativo MEC Livros com quase oito mil obras literárias disp...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684803 at https://agenciabrasil.ebc.com.br",
     "titulo": "Quadrinhos viram ferramenta de conscientização social na EJA",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/quadrinhos-vira-ferramenta-de-conscientizacao-social-na-eja",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-divulga-lista-de-espera-do-prouni-para-bolsas-do-ensino-superior",
     "data": "2026-03-31T13:32:00.000Z",
     "resumo": "O Ministério da Educação (MEC) divulgou nesta terça-feira (31) o resultado da lista de espera do Programa Universidade para Todos (Prouni) no primeiro...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684224 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Setor privado assume gestão de infraestrutura de escolas em MG",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/setor-privado-assume-gestao-de-infraestrutura-de-escolas-em-minas-gerais",
-    "data": "2026-03-30T20:38:00.000Z",
-    "resumo": "O fundo de investimento em participações (FIP) IG4 BTG Pactual Health Infra foi escolhido, nesta segunda-feira (30), para assumir a gestão de infraest...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
