@@ -1,5 +1,14 @@
 [
   {
+    "id": "1684970 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Unifesp inicia atividades de centro de diagnóstico molecular",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/unifesp-inicia-atividades-de-centro-de-diagnostico-molecular",
+    "data": "2026-04-07T11:20:00.000Z",
+    "resumo": "A Unifesp iniciou neste mês de abril a operação do Laboratório Interdisciplinar de Multiômica Espacial, com atuação voltada para o diagnóstico do cânc...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1684933 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prazo para pedir isenção da taxa de inscrição no Enem começa no dia 13",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-pedir-isencao-da-taxa-de-inscricao-no-enem-comeca-no-dia-13",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/governo-anuncia-ampliacao-da-rede-nacional-de-cursinhos-populares",
     "data": "2026-03-31T22:08:00.000Z",
     "resumo": "O governo federal anunciou nesta terça-feira (31) a ampliação da Rede Nacional de Cursinhos Populares (CPOP), que dá suporte técnico e financeiro a pr...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684349 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem passa a compor Saeb e vai medir a qualidade do ensino no Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/enem-passa-compor-saeb-e-vai-medir-qualidade-do-ensino-no-brasil",
-    "data": "2026-03-31T17:38:00.000Z",
-    "resumo": "O Exame Nacional do Ensino Médio (Enem) será usado para avaliar a educação brasileira. As provas anuais que, tradicionalmente, servem como principal p...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
