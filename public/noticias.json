@@ -1,5 +1,14 @@
 [
   {
+    "id": "1685270 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Profissionais da educação pública do Rio fazem paralisação na quinta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/profissionais-da-educacao-publica-do-rio-fazem-paralisacao-na-quinta",
+    "data": "2026-04-08T20:14:00.000Z",
+    "resumo": "Professores e funcionários administrativos das redes municipal e estadual de educação do Rio de Janeiro marcaram para esta quinta-feira (9) uma parali...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1685139 at https://agenciabrasil.ebc.com.br",
     "titulo": "Professora sofre ferimentos durante ataque a uma escola em Suzano",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professora-sofre-ferimentos-durante-ataque-uma-escola-em-suzano",
@@ -78,15 +87,6 @@
     "data": "2026-04-01T10:19:00.000Z",
     "resumo": "A sala de aula não pode ser espaço hermético de mera reprodução de pensamentos e que não encoraje a participação e ousadia dos alunos. Mais do que iss...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684472 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Escolas têm até hoje para se inscrever em Olimpíada do Tesouro Direto",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/escolas-tem-ate-hoje-para-se-inscrever-em-olimpiada-do-tesouro-direto",
-    "data": "2026-04-01T09:45:00.000Z",
-    "resumo": "A Olimpíada do Tesouro Direto de Educação Financeira (Olitef) encerra nesta quarta-feira (1°) a primeira fase de inscrições para as atividades deste a...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1684472&o=rss",
     "lido": false
   }
 ]
