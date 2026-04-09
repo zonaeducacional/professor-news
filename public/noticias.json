@@ -1,5 +1,14 @@
 [
   {
+    "id": "1685382 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC Livros soma 122 mil empréstimos gratuitos em apenas uma semana",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-soma-122-mil-emprestimos-gratuitos-em-apenas-uma-semana",
+    "data": "2026-04-09T17:28:00.000Z",
+    "resumo": "A plataforma MEC Livros do Ministério da Educação (MEC) registrou 122 mil empréstimos gratuitos de obras literárias, desde o anúncio da nova ferrament...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1685286 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026: professores poderão se inscrever a partir de 15 de junho",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/pnd-2026-professores-poderao-se-inscrever-partir-de-15-de-junho",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-divulga-nova-chamada-da-lista-de-espera-para-fies-do-1o-semestre",
     "data": "2026-04-03T19:54:00.000Z",
     "resumo": "O Ministério da Educação (MEC) divulgou, nesta quinta-feira (2), uma nova convocação da lista de espera para vagas do Fundo de Financiamento Estudanti...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684537 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia reduz abandono escolar no ensino médio em 43% em dois anos",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/pe-de-meia-reduz-abandono-escolar-no-ensino-medio-em-43-em-dois-anos",
-    "data": "2026-04-01T16:25:00.000Z",
-    "resumo": "Desde a sua criação há dois anos, o Programa Pé-de-Meia reduziu o abandono escolar no ensino médio em 43%. Em 2024, a taxa de evasão era de 6,4% e cai...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
