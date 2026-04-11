@@ -1,5 +1,14 @@
 [
   {
+    "id": "1685637 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Censo: 50% de alunos cotistas nas federais concluem graduação ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/censo-maior-parte-de-alunos-cotistas-nas-federais-conclui-graduacao",
+    "data": "2026-04-11T15:39:00.000Z",
+    "resumo": "O Censo da Educação Superior (2024), organizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), 49% dos alunos que...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1685525 at https://agenciabrasil.ebc.com.br",
     "titulo": "Professores poderão participar de olimpíada inédita de matemática",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-poderao-participar-de-olimpiada-inedita-de-matematica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-abre-adesoes-de-governos-pnd-e-divulga-calendario-de-2026",
     "data": "2026-04-07T18:29:00.000Z",
     "resumo": "O Ministério da Educação (MEC) abriu o período de abril a maio para novas adesões voluntárias à Prova Nacional Docente (PND) pelas redes públicas de e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684933 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prazo para pedir isenção da taxa de inscrição no Enem começa no dia 13",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-pedir-isencao-da-taxa-de-inscricao-no-enem-comeca-no-dia-13",
-    "data": "2026-04-06T21:11:00.000Z",
-    "resumo": "Os interessados em pedir a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio de 2026 deverão acessar a Página do Participant...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
