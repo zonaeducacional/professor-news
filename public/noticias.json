@@ -1,5 +1,14 @@
 [
   {
+    "id": "1685525 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professores poderão participar de olimpíada inédita de matemática",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-poderao-participar-de-olimpiada-inedita-de-matematica",
+    "data": "2026-04-11T12:04:00.000Z",
+    "resumo": "O Instituto de Matemática Pura e Aplicada (Impa) abre de 4 a 29 de maio inscrições para a 1ª Olimpíada dos Professores da Obmep Mirim. \nA Obmep Mirim,...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1685460 at https://agenciabrasil.ebc.com.br",
     "titulo": "Professores estaduais e municipais do Rio fazem paralisação de 24h",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-estaduais-e-municipais-do-rio-fazem-paralisacao-de-24h",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-pedir-isencao-da-taxa-de-inscricao-no-enem-comeca-no-dia-13",
     "data": "2026-04-06T21:11:00.000Z",
     "resumo": "Os interessados em pedir a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio de 2026 deverão acessar a Página do Participant...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1684893 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC disponibiliza aplicativo gratuito com oito mil livros",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-disponibiliza-aplicativo-gratuito-com-oito-mil-livros",
-    "data": "2026-04-06T18:07:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) disponibilizou para download, nesta segunda-feira (6), o aplicativo MEC Livros com quase oito mil obras literárias disp...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
