@@ -1,5 +1,14 @@
 [
   {
+    "id": "1685708 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professores do estado de SP finalizam greve, mas mantêm mobilização",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-do-estado-de-sp-finalizam-greve-mas-mantem-mobilizacao",
+    "data": "2026-04-13T17:43:00.000Z",
+    "resumo": "Os professores da rede estadual de São Paulo decidiram em assembleia, na última sexta-feira (10) finalizar a paralisação iniciada na quinta-feira (9)....",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1685692 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: período para pedir isenção da taxa começa hoje",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-periodo-para-pedir-isencao-da-taxa-comeca-hoje",
@@ -78,15 +87,6 @@
     "data": "2026-04-08T20:14:00.000Z",
     "resumo": "Professores e funcionários administrativos das redes municipal e estadual de educação do Rio de Janeiro marcaram para esta quinta-feira (9) uma parali...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685139 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professora sofre ferimentos durante ataque a uma escola em Suzano",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professora-sofre-ferimentos-durante-ataque-uma-escola-em-suzano",
-    "data": "2026-04-07T21:33:00.000Z",
-    "resumo": "Uma professora foi ferida no começo da tarde desta terça-feira (7) na Escola Municipal de Ensino Fundamental Professora Ignez de Castro Almeida Mayer,...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1685139&o=rss",
     "lido": false
   }
 ]
