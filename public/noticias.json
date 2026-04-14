@@ -1,5 +1,14 @@
 [
   {
+    "id": "1685961 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Lula diz que país não precisa de escola cívico-militar na educação",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/lula-diz-que-pais-nao-precisa-de-escola-civico-militar-na-educacao",
+    "data": "2026-04-14T21:10:00.000Z",
+    "resumo": "Ao sancionar o Plano Nacional de Educação (PNE), nesta terça-feira (14), no Palácio do Planalto, o presidente Luiz Inácio Lula da Silva afirmou que o ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1685711 at https://agenciabrasil.ebc.com.br",
     "titulo": "Olimpíada de Professores de Matemática abre as inscrições",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/olimpiada-de-professores-de-matematica-abre-inscricoes",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/pnd-2026-professores-poderao-se-inscrever-partir-de-15-de-junho",
     "data": "2026-04-08T20:58:00.000Z",
     "resumo": "As pessoas com formação em licenciatura que queiram lecionar em escolas da rede pública poderão se inscrever na Prova Nacional Docente (PND) de 2026, ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685283 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professores da rede de SP fazem paralisação nesta quinta e sexta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-da-rede-de-sp-fazem-paralisacao-nesta-quinta-e-sexta-feira",
-    "data": "2026-04-08T20:44:00.000Z",
-    "resumo": "O Sindicato dos Professores do Ensino Oficial do Estado de São Paulo (Apeosp) convocou uma paralisação dos docentes da rede para esta quinta e sexta-f...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
