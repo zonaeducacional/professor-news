@@ -1,5 +1,14 @@
 [
   {
+    "id": "1686000 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Plano Nacional de Educação é marco para o país, dizem especialistas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/plano-nacional-de-educacao-e-marco-para-o-pais-dizem-especialistas",
+    "data": "2026-04-15T11:28:00.000Z",
+    "resumo": "Entidades ligadas ao setor do ensino e aprendizagem no Brasil consideram que o novo Plano Nacional de Educação (PNE), assinado nessa terça (14) pelo p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1685981 at https://agenciabrasil.ebc.com.br",
     "titulo": "Plano Nacional prevê 10% do PIB para educação; veja outras metas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/plano-nacional-preve-10-do-pib-para-educacao-veja-outras-metas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/universidade-do-mar-se-torna-realidade-no-rio-de-janeiro",
     "data": "2026-04-09T18:24:00.000Z",
     "resumo": "O Movimento Baía Viva, o Núcleo Interdisciplinar para o Desenvolvimento Social da Universidade Federal do Rio de Janeiro (Nides/UFRJ) e a Petrobras ap...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685382 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC Livros soma 122 mil empréstimos gratuitos em apenas uma semana",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-soma-122-mil-emprestimos-gratuitos-em-apenas-uma-semana",
-    "data": "2026-04-09T17:28:00.000Z",
-    "resumo": "A plataforma MEC Livros do Ministério da Educação (MEC) registrou 122 mil empréstimos gratuitos de obras literárias, desde o anúncio da nova ferrament...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
