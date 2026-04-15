@@ -1,5 +1,14 @@
 [
   {
+    "id": "1686036 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: saiba a documentação para justificar ausência em 2025",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-saiba-documentacao-para-justificar-ausencia-em-2025",
+    "data": "2026-04-15T14:33:00.000Z",
+    "resumo": "O candidato que obteve a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2025 e não compareceu às provas nos doi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1686000 at https://agenciabrasil.ebc.com.br",
     "titulo": "Plano Nacional de Educação é marco para o país, dizem especialistas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/plano-nacional-de-educacao-e-marco-para-o-pais-dizem-especialistas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-estaduais-e-municipais-do-rio-fazem-paralisacao-de-24h",
     "data": "2026-04-09T23:36:00.000Z",
     "resumo": "Professores e funcionários administrativos das redes de educação municipal e estadual do Rio de Janeiro realizaram nesta quinta-feira (9) uma paralisa...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685392 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Universidade do Mar se torna realidade no Rio de Janeiro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/universidade-do-mar-se-torna-realidade-no-rio-de-janeiro",
-    "data": "2026-04-09T18:24:00.000Z",
-    "resumo": "O Movimento Baía Viva, o Núcleo Interdisciplinar para o Desenvolvimento Social da Universidade Federal do Rio de Janeiro (Nides/UFRJ) e a Petrobras ap...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
