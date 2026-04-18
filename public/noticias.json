@@ -1,5 +1,14 @@
 [
   {
+    "id": "1686592 at https://agenciabrasil.ebc.com.br",
+    "titulo": "SP: ato critica uso de escola pública em filme contra Paulo Freire",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/sp-ato-critica-uso-de-escola-publica-em-filme-contra-paulo-freire",
+    "data": "2026-04-18T20:29:00.000Z",
+    "resumo": "Professores, pais de alunos, sindicatos e parlamentares fizeram neste sábado (18), na capital paulista, um ato contra a utilização de uma escola infan...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1686188 at https://agenciabrasil.ebc.com.br",
     "titulo": "CNPq anuncia edital com R$ 120 milhões para bolsas de pesquisas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/cnpq-anuncia-edital-com-r-120-milhoes-para-bolsas-para-pesquisas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/censo-maior-parte-de-alunos-cotistas-nas-federais-conclui-graduacao",
     "data": "2026-04-11T15:39:00.000Z",
     "resumo": "O Censo da Educação Superior (2024), organizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), 49% dos alunos que...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685525 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professores poderão participar de olimpíada inédita de matemática",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-poderao-participar-de-olimpiada-inedita-de-matematica",
-    "data": "2026-04-11T12:04:00.000Z",
-    "resumo": "O Instituto de Matemática Pura e Aplicada (Impa) abre de 4 a 29 de maio inscrições para a 1ª Olimpíada dos Professores da Obmep Mirim. \nA Obmep Mirim,...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
