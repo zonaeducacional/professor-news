@@ -1,5 +1,14 @@
 [
   {
+    "id": "1686904 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC Livros: biblioteca digital já tem mais de meio milhão de usuários",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios",
+    "data": "2026-04-22T20:01:00.000Z",
+    "resumo": "Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibilizada pelo Ministério da Educação (MEC), o MEC Livros. Cerca de 263 mil ob...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1686897 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para vagas remanescentes do Fies vão até 29 de abril",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/lula-diz-que-pais-nao-precisa-de-escola-civico-militar-na-educacao",
     "data": "2026-04-14T21:10:00.000Z",
     "resumo": "Ao sancionar o Plano Nacional de Educação (PNE), nesta terça-feira (14), no Palácio do Planalto, o presidente Luiz Inácio Lula da Silva afirmou que o ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685711 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Olimpíada de Professores de Matemática abre as inscrições",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/olimpiada-de-professores-de-matematica-abre-inscricoes",
-    "data": "2026-04-13T17:57:00.000Z",
-    "resumo": "A 3ª edição da Olimpíada de Professores de Matemática do Brasil (OPMBr) – Edição Anos Finais do Ensino Fundamental está com inscrições abertas até 17 ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
