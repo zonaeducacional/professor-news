@@ -1,5 +1,14 @@
 [
   {
+    "id": "1686875 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: período para pedir isenção da taxa termina nesta sexta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-periodo-para-pedir-isencao-da-taxa-termina-nesta-sexta",
+    "data": "2026-04-22T14:14:00.000Z",
+    "resumo": "O prazo para os interessados solicitarem a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 termina nesta se...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1686598 at https://agenciabrasil.ebc.com.br",
     "titulo": " Plataforma do BB reduz em 72% perda de comida em escolas públicas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/plataforma-do-bb-reduz-em-72-perda-de-comida-em-escolas-publicas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-do-estado-de-sp-finalizam-greve-mas-mantem-mobilizacao",
     "data": "2026-04-13T17:43:00.000Z",
     "resumo": "Os professores da rede estadual de São Paulo decidiram em assembleia, na última sexta-feira (10) finalizar a paralisação iniciada na quinta-feira (9)....",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685692 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: período para pedir isenção da taxa começa hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-periodo-para-pedir-isencao-da-taxa-comeca-hoje",
-    "data": "2026-04-13T13:20:00.000Z",
-    "resumo": "O prazo para que as pessoas interessadas em solicitar a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 e p...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
