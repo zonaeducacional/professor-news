@@ -1,5 +1,14 @@
 [
   {
+    "id": "1686959 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Encontro debate importância do ensino de jornalismo diante de IA ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professora-diante-de-ia-e-fakes-curso-de-jornalismo-deve-ser-critico",
+    "data": "2026-04-23T10:45:00.000Z",
+    "resumo": "Os avanços das tecnologias de inteligência artificial (as IAs) e também da desinformação impõem às faculdades de jornalismo a necessidade de potencial...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1686904 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC Livros: biblioteca digital já tem mais de meio milhão de usuários",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/plano-nacional-preve-10-do-pib-para-educacao-veja-outras-metas",
     "data": "2026-04-14T22:56:00.000Z",
     "resumo": "Ampliar o investimento público em educação para 7,5% do Produto Interno Bruto (PIB) do país em sete anos e chegar a 10% do PIB em uma década. Essa é u...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1685961 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Lula diz que país não precisa de escola cívico-militar na educação",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/lula-diz-que-pais-nao-precisa-de-escola-civico-militar-na-educacao",
-    "data": "2026-04-14T21:10:00.000Z",
-    "resumo": "Ao sancionar o Plano Nacional de Educação (PNE), nesta terça-feira (14), no Palácio do Planalto, o presidente Luiz Inácio Lula da Silva afirmou que o ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
