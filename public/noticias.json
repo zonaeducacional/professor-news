@@ -1,5 +1,14 @@
 [
   {
+    "id": "1687207 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Após acordo com reitoria, funcionários da USP encerram greve",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/apos-acordo-com-reitoria-funcionarios-da-usp-encerram-greve",
+    "data": "2026-04-24T23:45:00.000Z",
+    "resumo": "Os servidores técnicos e administrativos da Universidade de São Paulo (USP) encerraram a greve iniciada há 10 dias, após acordo entre a reitoria da Un...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1687154 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC prorroga prazo para pedir isenção da taxa de inscrição do Enem",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-prorroga-prazo-para-pedir-isencao-da-taxa-de-inscricao-do-enem",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/plataforma-do-bb-reduz-em-72-perda-de-comida-em-escolas-publicas",
     "data": "2026-04-19T14:50:00.000Z",
     "resumo": "Uma plataforma digital criada pelo Banco do Brasil (BB) está ajudando prefeituras a reduzir o desperdício de alimentos em escolas públicas. Chamada de...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1686592 at https://agenciabrasil.ebc.com.br",
-    "titulo": "SP: ato critica uso de escola pública em filme contra Paulo Freire",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/sp-ato-critica-uso-de-escola-publica-em-filme-contra-paulo-freire",
-    "data": "2026-04-18T20:29:00.000Z",
-    "resumo": "Professores, pais de alunos, sindicatos e parlamentares fizeram neste sábado (18), na capital paulista, um ato contra a utilização de uma escola infan...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
