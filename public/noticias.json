@@ -1,5 +1,14 @@
 [
   {
+    "id": "1687450 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Ministério da Educação inaugura sede do IFSP em Presidente Prudente",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/ministerio-da-educacao-inaugura-sede-do-ifsp-em-presidente-prudente",
+    "data": "2026-04-27T22:17:00.000Z",
+    "resumo": "O Ministério da Educação inaugurou nesta segunda-feira (27) a sede própria do Campus Presidente Prudente do Instituto Federal de São Paulo (IFSP), no ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1687409 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prefeitura de Osasco joga no lixo livros de biblioteca municipal",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prefeitura-de-osasco-joga-no-lixo-livros-de-biblioteca-municipal",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professora-diante-de-ia-e-fakes-curso-de-jornalismo-deve-ser-critico",
     "data": "2026-04-23T10:45:00.000Z",
     "resumo": "Os avanços das tecnologias de inteligência artificial (as IAs) e também da desinformação impõem às faculdades de jornalismo a necessidade de potencial...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1686904 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC Livros: biblioteca digital já tem mais de meio milhão de usuários",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios",
-    "data": "2026-04-22T20:01:00.000Z",
-    "resumo": "Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibilizada pelo Ministério da Educação (MEC), o MEC Livros. Cerca de 263 mil ob...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
