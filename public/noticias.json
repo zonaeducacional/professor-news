@@ -1,5 +1,14 @@
 [
   {
+    "id": "1687409 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prefeitura de Osasco joga no lixo livros de biblioteca municipal",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prefeitura-de-osasco-joga-no-lixo-livros-de-biblioteca-municipal",
+    "data": "2026-04-27T18:20:00.000Z",
+    "resumo": "A prefeitura de Osasco, na região metropolitana de São Paulo, jogou no lixo centenas de livros da Biblioteca Pública Monteiro Lobato. O descarte do ma...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1687259 at https://agenciabrasil.ebc.com.br",
     "titulo": "Movimento escoteiro reúne mais de 4 mil pessoas em evento no Rio",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/movimento-escoteiro-reune-mais-de-4-mil-pessoas-em-evento-no-rio",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios",
     "data": "2026-04-22T20:01:00.000Z",
     "resumo": "Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibilizada pelo Ministério da Educação (MEC), o MEC Livros. Cerca de 263 mil ob...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1686897 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para vagas remanescentes do Fies vão até 29 de abril",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril",
-    "data": "2026-04-22T18:42:00.000Z",
-    "resumo": "Estão abertas as inscrições para o processo seletivo das vagas remanescentes do Fundo de Financiamento Estudantil (Fies) referente ao primeiro semestr...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
