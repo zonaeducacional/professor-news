@@ -1,5 +1,14 @@
 [
   {
+    "id": "1687497 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prazo para isenção de taxa do Enem 2026 termina nesta quinta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-isencao-de-taxa-do-enem-2026-termina-nesta-quinta-feira",
+    "data": "2026-04-28T13:49:00.000Z",
+    "resumo": "O prazo para os interessados em solicitar a isenção da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) 2026 termina às 23 horas e 59 minuto...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1687450 at https://agenciabrasil.ebc.com.br",
     "titulo": "Ministério da Educação inaugura sede do IFSP em Presidente Prudente",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/ministerio-da-educacao-inaugura-sede-do-ifsp-em-presidente-prudente",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-tera-acervo-ampliado-para-25-mil-obras",
     "data": "2026-04-24T00:28:00.000Z",
     "resumo": "O Ministério da Educação informou que irá ampliar de 8 mil para 25 mil livros o acervo do MEC Livros, plataforma permite acesso gratuito a livros. \nO ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1686959 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Encontro debate importância do ensino de jornalismo diante de IA ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professora-diante-de-ia-e-fakes-curso-de-jornalismo-deve-ser-critico",
-    "data": "2026-04-23T10:45:00.000Z",
-    "resumo": "Os avanços das tecnologias de inteligência artificial (as IAs) e também da desinformação impõem às faculdades de jornalismo a necessidade de potencial...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
