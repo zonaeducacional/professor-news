@@ -1,5 +1,23 @@
 [
   {
+    "id": "1687598 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Censo: 17% de creches e pré-escolas têm itens básicos para funcionar",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/censo-17-de-creches-e-pre-escolas-tem-itens-basicos-para-funcionar",
+    "data": "2026-04-29T10:53:00.000Z",
+    "resumo": "Em todo o país, menos de duas em cada dez unidades de ensino infantil públicas tem todos os itens considerados básicos para o funcionamento adequado. ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1687597 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Uma em cada 10 crianças de 4 e 5 anos não vai à creche em 876 cidades",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/uma-em-cada-10-criancas-de-4-e-5-anos-nao-vai-creche-em-875-cidades",
+    "data": "2026-04-29T10:50:00.000Z",
+    "resumo": "Apesar de a matrícula em unidades de educação infantil a partir dos 4 anos de idade ser obrigatória no país, ainda há crianças fora da escola. Em 16% ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1687497 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prazo para isenção de taxa do Enem 2026 termina nesta quinta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-isencao-de-taxa-do-enem-2026-termina-nesta-quinta-feira",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-pedir-isencao-da-inscricao-do-enem-2026-termina-nesta-sexta",
     "data": "2026-04-24T16:06:00.000Z",
     "resumo": "O prazo para os interessados solicitarem a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 termina nesta se...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1687110 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Alunos da USP protestam por melhores condições de moradia e refeições",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/alunos-da-usp-protestam-por-melhores-condicoes-de-moradia-e-refeicoes",
-    "data": "2026-04-24T00:58:00.000Z",
-    "resumo": "Estudantes da Universidade de São Paulo (USP) fizeram nesta quinta-feira (23) um protesto por melhores políticas de permanência dos estudantes, como a...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1687110&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1687106 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC Livros terá acervo ampliado para 25 mil obras",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-tera-acervo-ampliado-para-25-mil-obras",
-    "data": "2026-04-24T00:28:00.000Z",
-    "resumo": "O Ministério da Educação informou que irá ampliar de 8 mil para 25 mil livros o acervo do MEC Livros, plataforma permite acesso gratuito a livros. \nO ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
