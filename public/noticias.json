@@ -1,5 +1,14 @@
 [
   {
+    "id": "1687795 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: último dia para pedir isenção da taxa de inscrição",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-ultimo-dia-para-pedir-isencao-da-taxa-de-inscricao",
+    "data": "2026-04-30T15:15:00.000Z",
+    "resumo": "Os interessados em ter a isenção da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) 2026 devem fazer a solicitação ao Instituto Nacional de...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1687622 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para vagas remanescentes do Fies terminam hoje",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-para-vagas-remanescentes-do-fies-terminam-hoje",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/apos-acordo-com-reitoria-funcionarios-da-usp-encerram-greve",
     "data": "2026-04-24T23:45:00.000Z",
     "resumo": "Os servidores técnicos e administrativos da Universidade de São Paulo (USP) encerraram a greve iniciada há 10 dias, após acordo entre a reitoria da Un...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1687154 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC prorroga prazo para pedir isenção da taxa de inscrição do Enem",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-prorroga-prazo-para-pedir-isencao-da-taxa-de-inscricao-do-enem",
-    "data": "2026-04-24T16:46:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) prorrogaram o prazo para o pedido de ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
