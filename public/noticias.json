@@ -1,5 +1,23 @@
 [
   {
+    "id": "1687701 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inscrições de estudantes na Obmep Mirim ficam abertas até 8 de junho",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-de-estudantes-na-obmep-mirim-ficam-abertas-ate-8-de-junho",
+    "data": "2026-05-02T20:53:00.000Z",
+    "resumo": "As escolas públicas e privadas de todo o Brasil têm até o dia 8 de junho para inscrever alunos do 2º ao 5º ano do ensino fundamental na Olimpíada de M...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1687525 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Iniciativa aposta no protagonismo social em escolas de Petrópolis",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/iniciativa-aposta-no-protagonismo-social-em-escolas-de-petropolis",
+    "data": "2026-05-02T20:52:00.000Z",
+    "resumo": "Cerca de 100 alunos de escolas públicas da região do Alto da Independência, em Petrópolis, estão participando de um projeto educacional que busca esti...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1687795 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: último dia para pedir isenção da taxa de inscrição",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-ultimo-dia-para-pedir-isencao-da-taxa-de-inscricao",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/movimento-escoteiro-reune-mais-de-4-mil-pessoas-em-evento-no-rio",
     "data": "2026-04-26T17:33:00.000Z",
     "resumo": "O Grande Jogo Regional 2026, maior evento do calendário escoteiro fluminense, reúne neste domingo (26), no Aterro do Flamengo, 4.372 crianças, adolesc...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1687233 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Campanha em escolas do DF alerta para prevenção de desastre climático",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/campanha-em-escolas-do-df-alerta-para-prevencao-de-desastre-climatico",
-    "data": "2026-04-25T18:33:00.000Z",
-    "resumo": "Alunos, educadores, comunidades e iniciativas populares da capital federal participaram, ao longo dos últimos dois dias, da 9ª Campanha Nacional #Apre...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1687207 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Após acordo com reitoria, funcionários da USP encerram greve",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/apos-acordo-com-reitoria-funcionarios-da-usp-encerram-greve",
-    "data": "2026-04-24T23:45:00.000Z",
-    "resumo": "Os servidores técnicos e administrativos da Universidade de São Paulo (USP) encerraram a greve iniciada há 10 dias, após acordo entre a reitoria da Un...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
