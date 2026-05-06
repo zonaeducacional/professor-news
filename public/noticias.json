@@ -1,5 +1,14 @@
 [
   {
+    "id": "1688610 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Olimpíada escolar antirracista recebe inscrições até a próxima sexta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/olimpiada-escolar-antirracista-recebe-inscricoes-ate-proxima-sexta",
+    "data": "2026-05-06T21:46:00.000Z",
+    "resumo": "Terminam na próxima sexta-feira (8) as inscrições para a Olimpíada Brasileira de Africanidades e Povos Originários (Obapo), que visa reconhecer a inse...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1688569 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fiocruz abre concurso literário para adolescentes de 13 a 16 anos",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fiocruz-abre-concurso-literario-para-adolescentes-de-13-16-anos",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/iniciativa-aposta-no-protagonismo-social-em-escolas-de-petropolis",
     "data": "2026-05-02T20:52:00.000Z",
     "resumo": "Cerca de 100 alunos de escolas públicas da região do Alto da Independência, em Petrópolis, estão participando de um projeto educacional que busca esti...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1687795 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: último dia para pedir isenção da taxa de inscrição",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-ultimo-dia-para-pedir-isencao-da-taxa-de-inscricao",
-    "data": "2026-04-30T15:15:00.000Z",
-    "resumo": "Os interessados em ter a isenção da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) 2026 devem fazer a solicitação ao Instituto Nacional de...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
