@@ -1,5 +1,14 @@
 [
   {
+    "id": "1688594 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enfrentamento à violência é desafio para 71,7% dos gestores de escolas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enfrentamento-violencia-e-desafio-para-717-dos-gestores-de-escolas",
+    "data": "2026-05-07T00:01:00.000Z",
+    "resumo": "Sete em cada dez gestores de escolas públicas (71,7%) relatam dificuldade em dialogar no ambiente escolar sobre o enfrentamento às violências, como bu...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1688610 at https://agenciabrasil.ebc.com.br",
     "titulo": "Olimpíada escolar antirracista recebe inscrições até a próxima sexta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/olimpiada-escolar-antirracista-recebe-inscricoes-ate-proxima-sexta",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-de-estudantes-na-obmep-mirim-ficam-abertas-ate-8-de-junho",
     "data": "2026-05-02T20:53:00.000Z",
     "resumo": "As escolas públicas e privadas de todo o Brasil têm até o dia 8 de junho para inscrever alunos do 2º ao 5º ano do ensino fundamental na Olimpíada de M...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1687525 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Iniciativa aposta no protagonismo social em escolas de Petrópolis",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/iniciativa-aposta-no-protagonismo-social-em-escolas-de-petropolis",
-    "data": "2026-05-02T20:52:00.000Z",
-    "resumo": "Cerca de 100 alunos de escolas públicas da região do Alto da Independência, em Petrópolis, estão participando de um projeto educacional que busca esti...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
