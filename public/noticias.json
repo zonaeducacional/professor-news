@@ -1,5 +1,14 @@
 [
   {
+    "id": "1688744 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026: MEC divulga resultado de vagas remanescentes",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-mec-divulga-resultado-de-vagas-remanescentes",
+    "data": "2026-05-07T20:12:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) divulgou nesta quinta-feira (7) o resultado da chamada única dos estudantes que se candidataram a vagas remanescentes d...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1688711 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026: DF, estados e municípios têm até dia 31 para aderir à prova",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/pnd-2026-df-estados-e-municipios-tem-ate-dia-31-para-aderir-prova",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/revalida-20261-nota-de-corte-da-primeira-fase-e-de-59-pontos",
     "data": "2026-05-04T20:28:00.000Z",
     "resumo": "A nota de corte da prova objetiva da primeira etapa do Exame do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educaçã...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688212 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para formação de professores de matemática vão até o dia 15",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inscricoes-para-formacao-de-professores-de-matematica-vao-ate-o-dia-15",
-    "data": "2026-05-03T17:02:00.000Z",
-    "resumo": "O Ministério da Educação (MEC), com o apoio da Universidade Federal do Ceará (UFC), recebe até o dia 15 de maio inscrições para o curso de aperfeiçoam...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
