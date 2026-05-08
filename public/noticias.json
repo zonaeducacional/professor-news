@@ -1,5 +1,14 @@
 [
   {
+    "id": "1688860 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professores de SP rejeitam proposta da prefeitura e greve continua",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/professoress-de-sp-rejeitam-proposta-da-prefeitura-e-greve-continua",
+    "data": "2026-05-08T21:57:00.000Z",
+    "resumo": "Professores e outros servidores da Educação da rede municipal de São Paulo rejeitaram a proposta de reajuste salarial feita pela prefeitura e decidira...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1688860&o=rss",
+    "lido": false
+  },
+  {
     "id": "1688846 at https://agenciabrasil.ebc.com.br",
     "titulo": "USP: alunos mantêm ocupação de reitoria e pedem reabertura de diálogo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/usp-alunos-mantem-ocupacao-de-reitoria-e-pedem-reabertura-de-dialogo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/estudo-revela-que-53-das-familias-raramente-leem-para-crianca",
     "data": "2026-05-05T23:38:00.000Z",
     "resumo": "Estudo internacional desenvolvido pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE) e divulgado nesta terça-feira (5) aponta que 5...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688476 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC enviará equipe de especialistas ao Acre após ataque em escola",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mec-enviara-equipe-de-especialistas-ao-acre-apos-ataque-em-escola",
-    "data": "2026-05-05T23:04:00.000Z",
-    "resumo": "O ministro da Educação, Leonardo Barchini, determinou o envio ao Acre de uma equipe do Programa Escola que Protege, após um ataque a tiros em uma esco...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
