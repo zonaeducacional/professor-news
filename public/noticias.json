@@ -1,5 +1,14 @@
 [
   {
+    "id": "1688931 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PM desocupa estudantes da reitoria da USP",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/policia-militar-desocupa-estudantes-da-reitoria-da-usp",
+    "data": "2026-05-10T15:51:00.000Z",
+    "resumo": "A Polícia Militar (PM) fez, na madrugada deste domingo (10), a desocupação do saguão da Reitoria da Universidade de São Paulo (USP), ocupado por aprox...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1688860 at https://agenciabrasil.ebc.com.br",
     "titulo": "Professores de SP rejeitam proposta da prefeitura e greve continua",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/professoress-de-sp-rejeitam-proposta-da-prefeitura-e-greve-continua",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fiocruz-abre-concurso-literario-para-adolescentes-de-13-16-anos",
     "data": "2026-05-06T17:28:00.000Z",
     "resumo": "O 4° Concurso Portinho Livre de Literatura Infantojuvenil está com inscrições abertas até o dia 29 de maio. Podem participar estudantes de todo o Bras...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688481 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudo revela que 53% das famílias raramente leem para criança",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/estudo-revela-que-53-das-familias-raramente-leem-para-crianca",
-    "data": "2026-05-05T23:38:00.000Z",
-    "resumo": "Estudo internacional desenvolvido pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE) e divulgado nesta terça-feira (5) aponta que 5...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
