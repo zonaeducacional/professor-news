@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689098 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Desenrola Fies: estudante pode renegociar dívida a partir desta quarta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-estudantes-com-contrato-ate-2017-podem-renegociar-dividas",
+    "data": "2026-05-12T12:35:00.000Z",
+    "resumo": "Os estudantes com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir de quarta-feira (13), por meio do Desenro...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689005 at https://agenciabrasil.ebc.com.br",
     "titulo": "Capes abre inscrições para formação de professores de inglês nos EUA ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/capes-abre-inscricoes-para-formacao-nos-eua-de-professores-de-ingles",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-mec-divulga-resultado-de-vagas-remanescentes",
     "data": "2026-05-07T20:12:00.000Z",
     "resumo": "O Ministério da Educação (MEC) divulgou nesta quinta-feira (7) o resultado da chamada única dos estudantes que se candidataram a vagas remanescentes d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688711 at https://agenciabrasil.ebc.com.br",
-    "titulo": "PND 2026: DF, estados e municípios têm até dia 31 para aderir à prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/pnd-2026-df-estados-e-municipios-tem-ate-dia-31-para-aderir-prova",
-    "data": "2026-05-07T16:26:00.000Z",
-    "resumo": "As redes públicas de ensino interessadas em utilizar as notas obtidas pelos candidatos na Prova Nacional Docente (PND) de 2026 para selecionar profess...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
