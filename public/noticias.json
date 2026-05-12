@@ -1,5 +1,23 @@
 [
   {
+    "id": "1689178 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Unesco: matrículas no ensino superior mais que dobraram no mundo ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/unesco-matriculas-no-ensino-superior-mais-que-dobraram-no-mundo",
+    "data": "2026-05-12T21:03:00.000Z",
+    "resumo": "O total de estudantes matriculados no ensino superior em todo o mundo mais que dobrou nas últimas duas décadas, passando de 100 milhões, em 2000, para...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1689174 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Mães e pais na pós-graduação vão ter prorrogação de período de bolsas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/maes-e-pais-na-pos-graduacao-vao-ter-prorrogacao-de-periodo-de-bolsas",
+    "data": "2026-05-12T20:43:00.000Z",
+    "resumo": "Uma nova legislação do Ministério da Educação vai permitir que bolsistas de mestrado, doutorado e pós-doutorado tenham ampliação da licença em casos d...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689098 at https://agenciabrasil.ebc.com.br",
     "titulo": "Desenrola Fies: estudante pode renegociar dívida a partir desta quarta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-estudantes-com-contrato-ate-2017-podem-renegociar-dividas",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/encceja-2026-inscricao-pode-ser-feita-ate-dia-15-de-maio",
     "data": "2026-05-08T18:26:00.000Z",
     "resumo": "As inscrições gratuitas para o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 estão abertas até a próxima sexta-f...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688746 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: pré-selecionados devem validar informações até segunda",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-pre-selecionados-devem-validar-informacoes-ate-segunda",
-    "data": "2026-05-08T10:02:00.000Z",
-    "resumo": "O estudante de ensino superior pré-selecionado no processo de oferta de vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referente ao ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688744 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: MEC divulga resultado de vagas remanescentes",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-mec-divulga-resultado-de-vagas-remanescentes",
-    "data": "2026-05-07T20:12:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) divulgou nesta quinta-feira (7) o resultado da chamada única dos estudantes que se candidataram a vagas remanescentes d...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
