@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689277 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Desenrola: renegociação de dívidas do Fies começa nesta quarta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/desenrola-renegociacao-de-dividas-do-fies-comeca-nesta-quarta-feira",
+    "data": "2026-05-13T13:35:00.000Z",
+    "resumo": "As pessoas com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir desta quarta-feira (13), por meio do Desenro...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689178 at https://agenciabrasil.ebc.com.br",
     "titulo": "Unesco: matrículas no ensino superior mais que dobraram no mundo ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/unesco-matriculas-no-ensino-superior-mais-que-dobraram-no-mundo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/usp-alunos-mantem-ocupacao-de-reitoria-e-pedem-reabertura-de-dialogo",
     "data": "2026-05-08T21:04:00.000Z",
     "resumo": "Estudantes da Universidade de São Paulo (USP) mantiveram nesta sexta-feira (8) a ocupação da reitoria da instituição, reivindicando a reabertura de di...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688826 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Encceja 2026: inscrição pode ser feita até dia 15 de maio",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/encceja-2026-inscricao-pode-ser-feita-ate-dia-15-de-maio",
-    "data": "2026-05-08T18:26:00.000Z",
-    "resumo": "As inscrições gratuitas para o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 estão abertas até a próxima sexta-f...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
