@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689282 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Divulgado resultado de pedido de isenção da inscrição para o Enem 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/divulgado-resultado-de-pedido-de-isencao-da-inscricao-para-o-enem-2026",
+    "data": "2026-05-13T14:40:00.000Z",
+    "resumo": "As pessoas que solicitaram isenção da taxa de inscrição para o Exame Nacional do Ensino Médio (Enem) de 2026 podem conferir, a partir desta quarta-fei...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689277 at https://agenciabrasil.ebc.com.br",
     "titulo": "Desenrola: renegociação de dívidas do Fies começa nesta quarta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/desenrola-renegociacao-de-dividas-do-fies-comeca-nesta-quarta-feira",
@@ -78,15 +87,6 @@
     "data": "2026-05-08T21:57:00.000Z",
     "resumo": "Professores e outros servidores da Educação da rede municipal de São Paulo rejeitaram a proposta de reajuste salarial feita pela prefeitura e decidira...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1688860&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1688846 at https://agenciabrasil.ebc.com.br",
-    "titulo": "USP: alunos mantêm ocupação de reitoria e pedem reabertura de diálogo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/usp-alunos-mantem-ocupacao-de-reitoria-e-pedem-reabertura-de-dialogo",
-    "data": "2026-05-08T21:04:00.000Z",
-    "resumo": "Estudantes da Universidade de São Paulo (USP) mantiveram nesta sexta-feira (8) a ocupação da reitoria da instituição, reivindicando a reabertura de di...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
