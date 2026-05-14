@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689458 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inep recebe recursos para pedidos de isenções do Enem 2026 até dia 19",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inep-recebe-recursos-para-pedidos-de-isencoes-do-enem-2026-ate-dia-19",
+    "data": "2026-05-14T16:05:00.000Z",
+    "resumo": "Os candidatos que tiveram negado o pedido de isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 podem entrar c...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689375 at https://agenciabrasil.ebc.com.br",
     "titulo": "Encceja 2026: prazo de inscrição termina sexta-feira (15)",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/encceja-2026-prazo-de-inscricao-termina-sexta-feira-15",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/revalida-candidatos-ja-podem-conferir-local-da-prova-pratica",
     "data": "2026-05-11T16:19:00.000Z",
     "resumo": "Os candidatos da segunda etapa do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira 2025/2 ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688964 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: pré-selecionados devem validar dados da inscrição até hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-pre-selecionados-devem-validar-dados-da-inscricao-ate-hoje",
-    "data": "2026-05-11T13:45:00.000Z",
-    "resumo": "O prazo para que o estudante de ensino superior pré-selecionado para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referente ao ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
