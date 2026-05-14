@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689404 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Ato de alunos da USP cobra diálogo com reitoria",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/ato-de-alunos-da-usp-cobra-dialogo-com-reitoria",
+    "data": "2026-05-13T23:28:00.000Z",
+    "resumo": "Os estudantes da Universidade de São Paulo realizaram um novo ato na noite desta quarta-feira (13) na região central da capital paulista para pedir di...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689282 at https://agenciabrasil.ebc.com.br",
     "titulo": "Divulgado resultado de pedido de isenção da inscrição para o Enem 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/divulgado-resultado-de-pedido-de-isencao-da-inscricao-para-o-enem-2026",
@@ -78,15 +87,6 @@
     "data": "2026-05-10T15:51:00.000Z",
     "resumo": "A Polícia Militar (PM) fez, na madrugada deste domingo (10), a desocupação do saguão da Reitoria da Universidade de São Paulo (USP), ocupado por aprox...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1688860 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professores de SP rejeitam proposta da prefeitura e greve continua",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/professoress-de-sp-rejeitam-proposta-da-prefeitura-e-greve-continua",
-    "data": "2026-05-08T21:57:00.000Z",
-    "resumo": "Professores e outros servidores da Educação da rede municipal de São Paulo rejeitaram a proposta de reajuste salarial feita pela prefeitura e decidira...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1688860&o=rss",
     "lido": false
   }
 ]
