@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689620 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026: MEC convoca até 29 de maio candidatos da lista de espera ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-mec-convoca-ate-29-de-maio-candidatos-da-lista-de-espera",
+    "data": "2026-05-15T23:05:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) começou a convocar, nesta sexta-feira (15), os candidatos participantes da lista de espera para as vagas remanescentes ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689614 at https://agenciabrasil.ebc.com.br",
     "titulo": "Segunda etapa do Revalida ocorre neste fim de semana",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/segunda-etapa-do-revalida-ocorre-neste-fim-de-semana",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/unesco-matriculas-no-ensino-superior-mais-que-dobraram-no-mundo",
     "data": "2026-05-12T21:03:00.000Z",
     "resumo": "O total de estudantes matriculados no ensino superior em todo o mundo mais que dobrou nas últimas duas décadas, passando de 100 milhões, em 2000, para...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689174 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Mães e pais na pós-graduação vão ter prorrogação de período de bolsas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/maes-e-pais-na-pos-graduacao-vao-ter-prorrogacao-de-periodo-de-bolsas",
-    "data": "2026-05-12T20:43:00.000Z",
-    "resumo": "Uma nova legislação do Ministério da Educação vai permitir que bolsistas de mestrado, doutorado e pós-doutorado tenham ampliação da licença em casos d...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
