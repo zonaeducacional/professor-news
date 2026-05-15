@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689614 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Segunda etapa do Revalida ocorre neste fim de semana",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/segunda-etapa-do-revalida-ocorre-neste-fim-de-semana",
+    "data": "2026-05-15T21:54:00.000Z",
+    "resumo": "A prova prática da segunda etapa do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira 2025/...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689604 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para Olimpíada de Professores de Matemática vão até domingo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inscricoes-para-olimpiada-de-professores-de-matematica-vao-ate-domingo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/maes-e-pais-na-pos-graduacao-vao-ter-prorrogacao-de-periodo-de-bolsas",
     "data": "2026-05-12T20:43:00.000Z",
     "resumo": "Uma nova legislação do Ministério da Educação vai permitir que bolsistas de mestrado, doutorado e pós-doutorado tenham ampliação da licença em casos d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689098 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Desenrola Fies: estudante pode renegociar dívida a partir desta quarta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-estudantes-com-contrato-ate-2017-podem-renegociar-dividas",
-    "data": "2026-05-12T12:35:00.000Z",
-    "resumo": "Os estudantes com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir de quarta-feira (13), por meio do Desenro...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
