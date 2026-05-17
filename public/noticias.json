@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689502 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Iniciativas tentam facilitar acesso e permanência de mães na ciência",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/iniciativas-tentam-facilitar-acesso-e-permanencia-de-maes-na-ciencia",
+    "data": "2026-05-17T12:50:00.000Z",
+    "resumo": "Há mais de 20 anos, o Brasil forma mais doutoras do que doutores e ainda assim as mulheres continuam sendo minoria entre os professores de graduação e...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689620 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies 2026: MEC convoca até 29 de maio candidatos da lista de espera ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-mec-convoca-ate-29-de-maio-candidatos-da-lista-de-espera",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/desenrola-renegociacao-de-dividas-do-fies-comeca-nesta-quarta-feira",
     "data": "2026-05-13T13:35:00.000Z",
     "resumo": "As pessoas com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir desta quarta-feira (13), por meio do Desenro...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689178 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Unesco: matrículas no ensino superior mais que dobraram no mundo ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/unesco-matriculas-no-ensino-superior-mais-que-dobraram-no-mundo",
-    "data": "2026-05-12T21:03:00.000Z",
-    "resumo": "O total de estudantes matriculados no ensino superior em todo o mundo mais que dobrou nas últimas duas décadas, passando de 100 milhões, em 2000, para...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
