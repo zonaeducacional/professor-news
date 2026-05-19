@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689929 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: termina hoje prazo de recurso para isenção de taxa de inscrição",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-termina-hoje-prazo-de-recurso-para-isencao-de-taxa-de-inscricao",
+    "data": "2026-05-19T17:35:00.000Z",
+    "resumo": "O prazo para a apresentação de recurso para o indeferimento do pedido de isenção da taxa de inscrição para o Exame Nacional do Ensino Médio 2026 (Enem...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689860 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC publica calendário do Censo Escolar da Educação Básica 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mec-publica-calendario-do-censo-escolar-da-educacao-basica-2026",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/encceja-2026-prazo-de-inscricao-termina-sexta-feira-15",
     "data": "2026-05-14T10:32:00.000Z",
     "resumo": "O prazo para que os interessados se inscrevam no Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 termina nesta sex...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689404 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Ato de alunos da USP cobra diálogo com reitoria",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/ato-de-alunos-da-usp-cobra-dialogo-com-reitoria",
-    "data": "2026-05-13T23:28:00.000Z",
-    "resumo": "Os estudantes da Universidade de São Paulo realizaram um novo ato na noite desta quarta-feira (13) na região central da capital paulista para pedir di...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
