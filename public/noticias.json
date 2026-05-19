@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689817 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem terá inscrição automática para alunos do 3º ano da rede pública",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-tera-inscricao-automatica-para-alunos-do-3o-ano-da-rede-publica",
+    "data": "2026-05-18T23:54:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) anunciou nesta segunda-feira (8) que os alunos concluintes do ensino médio da rede pública terão inscrição automática n...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689502 at https://agenciabrasil.ebc.com.br",
     "titulo": "Iniciativas tentam facilitar acesso e permanência de mães na ciência",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/iniciativas-tentam-facilitar-acesso-e-permanencia-de-maes-na-ciencia",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/divulgado-resultado-de-pedido-de-isencao-da-inscricao-para-o-enem-2026",
     "data": "2026-05-13T14:40:00.000Z",
     "resumo": "As pessoas que solicitaram isenção da taxa de inscrição para o Exame Nacional do Ensino Médio (Enem) de 2026 podem conferir, a partir desta quarta-fei...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689277 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Desenrola: renegociação de dívidas do Fies começa nesta quarta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/desenrola-renegociacao-de-dividas-do-fies-comeca-nesta-quarta-feira",
-    "data": "2026-05-13T13:35:00.000Z",
-    "resumo": "As pessoas com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir desta quarta-feira (13), por meio do Desenro...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
