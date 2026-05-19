@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689860 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC publica calendário do Censo Escolar da Educação Básica 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mec-publica-calendario-do-censo-escolar-da-educacao-basica-2026",
+    "data": "2026-05-19T13:34:00.000Z",
+    "resumo": "Gestores da educação básica podem acessar, a partir desta terça-feira (19), o cronograma de atividades do censo escolar 2026. De acordo com a Portaria...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689817 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem terá inscrição automática para alunos do 3º ano da rede pública",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-tera-inscricao-automatica-para-alunos-do-3o-ano-da-rede-publica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/ato-de-alunos-da-usp-cobra-dialogo-com-reitoria",
     "data": "2026-05-13T23:28:00.000Z",
     "resumo": "Os estudantes da Universidade de São Paulo realizaram um novo ato na noite desta quarta-feira (13) na região central da capital paulista para pedir di...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689282 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Divulgado resultado de pedido de isenção da inscrição para o Enem 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/divulgado-resultado-de-pedido-de-isencao-da-inscricao-para-o-enem-2026",
-    "data": "2026-05-13T14:40:00.000Z",
-    "resumo": "As pessoas que solicitaram isenção da taxa de inscrição para o Exame Nacional do Ensino Médio (Enem) de 2026 podem conferir, a partir desta quarta-fei...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
