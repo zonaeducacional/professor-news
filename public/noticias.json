@@ -1,5 +1,14 @@
 [
   {
+    "id": "1689959 at https://agenciabrasil.ebc.com.br",
+    "titulo": "É preciso desaprender para conviver com a IA, explica Silvio Meira ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/e-preciso-desaprender-para-conviver-com-ia-explica-silvio-meira",
+    "data": "2026-05-19T20:19:00.000Z",
+    "resumo": "No começo dos anos de 1990, um grupo de artistas incomodados com o marasmo cultural em Pernambuco escreveu o manifesto Caranguejos com Cérebro. Nascia...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689929 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem: termina hoje prazo de recurso para isenção de taxa de inscrição",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-termina-hoje-prazo-de-recurso-para-isencao-de-taxa-de-inscricao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inep-recebe-recursos-para-pedidos-de-isencoes-do-enem-2026-ate-dia-19",
     "data": "2026-05-14T16:05:00.000Z",
     "resumo": "Os candidatos que tiveram negado o pedido de isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 podem entrar c...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689375 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Encceja 2026: prazo de inscrição termina sexta-feira (15)",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/encceja-2026-prazo-de-inscricao-termina-sexta-feira-15",
-    "data": "2026-05-14T10:32:00.000Z",
-    "resumo": "O prazo para que os interessados se inscrevam no Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 termina nesta sex...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
