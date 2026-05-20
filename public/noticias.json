@@ -1,5 +1,14 @@
 [
   {
+    "id": "1690106 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prova Nacional Docente: 65% são aprovados e estão aptos a lecionar",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/prova-nacional-docente-65-sao-aprovados-e-estao-aptos-a-lecionar",
+    "data": "2026-05-20T20:15:00.000Z",
+    "resumo": "Balanço do Ministério da Educação mostra que 65% dos participantes na Prova Nacional Docente (PND) 2025 foram considerados proficientes, ou seja, alca...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1689959 at https://agenciabrasil.ebc.com.br",
     "titulo": "É preciso desaprender para conviver com a IA, explica Silvio Meira ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/e-preciso-desaprender-para-conviver-com-ia-explica-silvio-meira",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/encceja-2026-prazo-de-inscricao-gratuita-termina-nesta-sexta-feira",
     "data": "2026-05-15T10:05:00.000Z",
     "resumo": "O prazo para os interessados se inscreverem gratuitamente no Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 termi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689458 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inep recebe recursos para pedidos de isenções do Enem 2026 até dia 19",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inep-recebe-recursos-para-pedidos-de-isencoes-do-enem-2026-ate-dia-19",
-    "data": "2026-05-14T16:05:00.000Z",
-    "resumo": "Os candidatos que tiveram negado o pedido de isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 podem entrar c...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
