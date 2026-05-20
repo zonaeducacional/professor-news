@@ -1,5 +1,14 @@
 [
   {
+    "id": "1690128 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Em ato na capital paulista, estudantes criticam políticas educacionais",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/em-ato-na-capital-paulista-estudantes-criticam-politicas-educacionais",
+    "data": "2026-05-20T22:04:00.000Z",
+    "resumo": "Em um ato chamado pelos diretórios acadêmicos da USP, Unesp e Unicamp, estudantes ocuparam as ruas da zona oeste da cidade de São Paulo na tarde desta...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1690106 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prova Nacional Docente: 65% são aprovados e estão aptos a lecionar",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/prova-nacional-docente-65-sao-aprovados-e-estao-aptos-a-lecionar",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inscricoes-para-olimpiada-de-professores-de-matematica-vao-ate-domingo",
     "data": "2026-05-15T20:37:00.000Z",
     "resumo": "Os professores de matemática do 6º ao 9º ano das redes públicas de educação podem se inscrever até domingo (17) na terceira edição da Olimpíada de Pro...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689433 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Encceja 2026: prazo de inscrição gratuita termina nesta sexta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/encceja-2026-prazo-de-inscricao-gratuita-termina-nesta-sexta-feira",
-    "data": "2026-05-15T10:05:00.000Z",
-    "resumo": "O prazo para os interessados se inscreverem gratuitamente no Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 termi...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
