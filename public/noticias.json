@@ -1,5 +1,14 @@
 [
   {
+    "id": "1690144 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Formação de professores a distância mostra desempenho 53,1% inferior",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/formacao-de-professores-distancia-mostra-desempenho-531-inferior",
+    "data": "2026-05-21T00:05:00.000Z",
+    "resumo": "Dados divulgados pelo Ministério da Educação (MEC) nesta quarta-feira (20) mostram que 53,1% dos concluintes de cursos de licenciaturas na modalidade ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1690128 at https://agenciabrasil.ebc.com.br",
     "titulo": "Em ato na capital paulista, estudantes criticam políticas educacionais",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/em-ato-na-capital-paulista-estudantes-criticam-politicas-educacionais",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/segunda-etapa-do-revalida-ocorre-neste-fim-de-semana",
     "data": "2026-05-15T21:54:00.000Z",
     "resumo": "A prova prática da segunda etapa do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira 2025/...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689604 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para Olimpíada de Professores de Matemática vão até domingo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inscricoes-para-olimpiada-de-professores-de-matematica-vao-ate-domingo",
-    "data": "2026-05-15T20:37:00.000Z",
-    "resumo": "Os professores de matemática do 6º ao 9º ano das redes públicas de educação podem se inscrever até domingo (17) na terceira edição da Olimpíada de Pro...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
