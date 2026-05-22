@@ -1,5 +1,14 @@
 [
   {
+    "id": "1690514 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Mensalidades do ensino superior privado caem 4,3% em 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mensalidades-do-ensino-superior-privado-caem-43-em-2026",
+    "data": "2026-05-22T20:16:00.000Z",
+    "resumo": "Os preços das mensalidades dos cursos de graduação em instituições privadas de ensino superior caíram em 2026 em comparação a 2025, de acordo com estu...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1690441 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC lança Sisu+ para preencher vagas no ensino superior público",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mec-lanca-sisu-para-preencher-vagas-no-ensino-superior-publico",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-tera-inscricao-automatica-para-alunos-do-3o-ano-da-rede-publica",
     "data": "2026-05-18T23:54:00.000Z",
     "resumo": "O Ministério da Educação (MEC) anunciou nesta segunda-feira (8) que os alunos concluintes do ensino médio da rede pública terão inscrição automática n...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689502 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Iniciativas tentam facilitar acesso e permanência de mães na ciência",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/iniciativas-tentam-facilitar-acesso-e-permanencia-de-maes-na-ciencia",
-    "data": "2026-05-17T12:50:00.000Z",
-    "resumo": "Há mais de 20 anos, o Brasil forma mais doutoras do que doutores e ainda assim as mulheres continuam sendo minoria entre os professores de graduação e...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
