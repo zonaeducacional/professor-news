@@ -1,5 +1,23 @@
 [
   {
+    "id": "1690441 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC lança Sisu+ para preencher vagas no ensino superior público",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mec-lanca-sisu-para-preencher-vagas-no-ensino-superior-publico",
+    "data": "2026-05-22T18:11:00.000Z",
+    "resumo": "Os estudantes interessados em ocupar uma vaga em um curso de graduação em uma instituição pública de ensino superior, no segundo semestre deste ano, t...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1690431 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: inscrições começam na segunda; provas serão em novembro ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-2026-inscricoes-comecam-na-segunda-provas-serao-em-novembro",
+    "data": "2026-05-22T16:45:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) publicou nesta sexta-feira (22) o edital do Exame Nacional do Ensino Médio (Enem) 2026. As inscrições começam na próxim...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1690144 at https://agenciabrasil.ebc.com.br",
     "titulo": "Metade dos professores formados em EAD tem desempenho insuficiente",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/metade-dos-professores-formados-em-ead-tem-desempenho-insuficiente",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/iniciativas-tentam-facilitar-acesso-e-permanencia-de-maes-na-ciencia",
     "data": "2026-05-17T12:50:00.000Z",
     "resumo": "Há mais de 20 anos, o Brasil forma mais doutoras do que doutores e ainda assim as mulheres continuam sendo minoria entre os professores de graduação e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689620 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: MEC convoca até 29 de maio candidatos da lista de espera ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-mec-convoca-ate-29-de-maio-candidatos-da-lista-de-espera",
-    "data": "2026-05-15T23:05:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) começou a convocar, nesta sexta-feira (15), os candidatos participantes da lista de espera para as vagas remanescentes ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1689614 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Segunda etapa do Revalida ocorre neste fim de semana",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/segunda-etapa-do-revalida-ocorre-neste-fim-de-semana",
-    "data": "2026-05-15T21:54:00.000Z",
-    "resumo": "A prova prática da segunda etapa do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira 2025/...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
