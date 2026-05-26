@@ -1,5 +1,14 @@
 [
   {
+    "id": "1690974 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies: convocação para vagas remanescentes termina na sexta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-convocacao-para-vagas-remanescentes-termina-na-sexta-feira",
+    "data": "2026-05-26T19:21:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) convoca até esta sexta-feira (29) os candidatos participantes da lista de espera para as vagas remanescentes do Fundo d...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1690853 at https://agenciabrasil.ebc.com.br",
     "titulo": "Metade dos estudantes não vê debate antirracista na escola, diz estudo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/metade-dos-estudantes-nao-ve-debate-antirracista-na-escola-diz-estudo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mec-lanca-sisu-para-preencher-vagas-no-ensino-superior-publico",
     "data": "2026-05-22T18:11:00.000Z",
     "resumo": "Os estudantes interessados em ocupar uma vaga em um curso de graduação em uma instituição pública de ensino superior, no segundo semestre deste ano, t...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1690431 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: inscrições começam na segunda; provas serão em novembro ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-2026-inscricoes-comecam-na-segunda-provas-serao-em-novembro",
-    "data": "2026-05-22T16:45:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) publicou nesta sexta-feira (22) o edital do Exame Nacional do Ensino Médio (Enem) 2026. As inscrições começam na próxim...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
