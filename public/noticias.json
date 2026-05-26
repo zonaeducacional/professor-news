@@ -1,5 +1,14 @@
 [
   {
+    "id": "1690794 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudo aponta avanços na educação infantil em linguagem e matemática",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/estudo-aponta-avancos-na-educacao-infantil-em-linguagem-e-matematica",
+    "data": "2026-05-25T22:04:00.000Z",
+    "resumo": "As redes municipais de ensino, responsáveis pela gestão da educação infantil, adotam mais estratégias em letramento e experiências com a linguagem do ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1690730 at https://agenciabrasil.ebc.com.br",
     "titulo": "Resultados de recursos do Enem 2026 já estão disponíveis",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/resultados-de-recursos-do-enem-2026-ja-estao-disponiveis",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/metade-dos-professores-formados-em-ead-tem-desempenho-insuficiente",
     "data": "2026-05-21T00:05:00.000Z",
     "resumo": "Dados divulgados pelo Ministério da Educação (MEC) nesta quarta-feira (20) mostram que 53,1% dos concluintes de cursos de licenciaturas na modalidade ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1690128 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Em ato na capital paulista, estudantes criticam políticas educacionais",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/em-ato-na-capital-paulista-estudantes-criticam-politicas-educacionais",
-    "data": "2026-05-20T22:04:00.000Z",
-    "resumo": "Em um ato chamado pelos diretórios acadêmicos da USP, Unesp e Unicamp, estudantes ocuparam as ruas da zona oeste da cidade de São Paulo na tarde desta...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
