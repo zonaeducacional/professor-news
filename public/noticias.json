@@ -1,5 +1,14 @@
 [
   {
+    "id": "1691122 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Começa primeira etapa do Censo da Educação Básica 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/comeca-primeira-etapa-do-censo-da-educacao-basica-2026",
+    "data": "2026-05-27T14:24:00.000Z",
+    "resumo": "Escolas de todo o país – públicas ou privadas – precisam repassar ao Ministério da Educação (MEC), a partir desta terça-feira (27), dados sobre matríc...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1691071 at https://agenciabrasil.ebc.com.br",
     "titulo": "Senado aprova MP que estabelece piso de R$ 5.130 para professores",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/senado-aprova-mp-que-estabelece-piso-de-r-5130-para-professores",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/unilab-e-instituto-maria-da-penha-abrem-turma-de-educacao-em-genero",
     "data": "2026-05-24T14:37:00.000Z",
     "resumo": "Professoras e professores da rede pública de ensino podem se inscrever no curso Maria da Penha: Educação em Direitos Humanos nas Escolas até o dia 13 ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1690604 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Brasil supera 100 mil escolas públicas com internet gratuita",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/brasil-supera-100-mil-escolas-publicas-com-internet-gratuita",
-    "data": "2026-05-23T17:48:00.000Z",
-    "resumo": "O Brasil ultrapassou a marca de 100 mil escolas públicas com acesso à internet gratuita e de qualidade para uso pedagógico. Segundo dados atualizados ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
