@@ -1,5 +1,14 @@
 [
   {
+    "id": "1691326 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inep divulga regras para seleção de certificadores para provas de 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inep-divulga-regras-para-selecao-de-certificadores-para-provas-de-2026",
+    "data": "2026-05-28T15:30:00.000Z",
+    "resumo": "Foi publicada nesta quarta-feira (27) a chamada pública aos interessados em parte da Rede Nacional de Certificadores (RNC), do Instituto Nacional de E...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1691122 at https://agenciabrasil.ebc.com.br",
     "titulo": "Começa primeira etapa do Censo da Educação Básica 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/comeca-primeira-etapa-do-censo-da-educacao-basica-2026",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/pe-de-meia-2026-pagamento-da-terceira-parcela-do-comeca-nesta-segunda",
     "data": "2026-05-25T10:44:00.000Z",
     "resumo": "Os estudantes beneficiários do programa Pé-de-Meia de 2026, que atingiram pelo menos 80% de frequência nas aulas entre março e abril começarão a receb...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1690680 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Unilab e Instituto Maria da Penha abrem turma de educação em gênero ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/unilab-e-instituto-maria-da-penha-abrem-turma-de-educacao-em-genero",
-    "data": "2026-05-24T14:37:00.000Z",
-    "resumo": "Professoras e professores da rede pública de ensino podem se inscrever no curso Maria da Penha: Educação em Direitos Humanos nas Escolas até o dia 13 ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
