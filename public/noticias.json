@@ -1,5 +1,32 @@
 [
   {
+    "id": "1691526 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: inscrições vão até 5 de junho",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-2026-inscricoes-vao-ate-5-de-junho",
+    "data": "2026-05-29T15:29:00.000Z",
+    "resumo": "Falta uma semana para terminar o prazo de inscrições para o Exame Nacional do Ensino Médio (Enem) 2026. Os interessados devem se inscrever até a próxi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1691514 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies: convocação para vagas remanescentes termina hoje",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-convocacao-para-vagas-remanescentes-termina-hoje",
+    "data": "2026-05-29T14:18:00.000Z",
+    "resumo": "O prazo de convocação dos candidatos participantes da lista de espera para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies) do prime...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1691506 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Governo publica lei que cria Universidade Federal Indígena",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/governo-publica-lei-que-cria-universidade-federal-indigena",
+    "data": "2026-05-29T13:08:00.000Z",
+    "resumo": "Povos tradicionais de todo o país passam a contar, a partir desta sexta-feira (29), com a Universidade Federal Indígena (Unind). De acordo com a Lei n...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1691456 at https://agenciabrasil.ebc.com.br",
     "titulo": "MDIC terá cursos de comércio exterior para mulheres e pessoas negras",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mdic-tera-cursos-de-comercio-exterior-para-mulheres-e-pessoas-negras",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/metade-dos-estudantes-nao-ve-debate-antirracista-na-escola-diz-estudo",
     "data": "2026-05-26T10:42:00.000Z",
     "resumo": "O trabalho \"A herança da cultura negra na formação do Brasil\", pedido em uma escola de Brasília a uma estudante de 15 anos, não deixa de ser uma rarid...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1690794 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudo aponta avanços na educação infantil em linguagem e matemática",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/estudo-aponta-avancos-na-educacao-infantil-em-linguagem-e-matematica",
-    "data": "2026-05-25T22:04:00.000Z",
-    "resumo": "As redes municipais de ensino, responsáveis pela gestão da educação infantil, adotam mais estratégias em letramento e experiências com a linguagem do ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1690730 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Resultados de recursos do Enem 2026 já estão disponíveis",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/resultados-de-recursos-do-enem-2026-ja-estao-disponiveis",
-    "data": "2026-05-25T15:13:00.000Z",
-    "resumo": "O resultado final dos recursos apresentados contra o indeferimento do pedido de isenção da taxa de inscrição para o Exame Nacional do Ensino Médio (En...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1690708 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: inscrições começam nesta segunda; prazo vai até 5 de junho",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-2026-inscricoes-comecam-na-segunda-prazo-vai-ate-5-de-junho",
-    "data": "2026-05-25T11:52:00.000Z",
-    "resumo": "Estudantes de todo o país podem se inscrever para o Exame Nacional do Ensino Médio (Enem) 2026, a partir desta segunda-feira (25), no site do Enem. O ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
