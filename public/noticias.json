@@ -1,5 +1,14 @@
 [
   {
+    "id": "1692145 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Em greve, servidores da Uerj apresentam demanda ao governo do RJ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/em-greve-servidores-da-uerj-apresentam-demanda-ao-governo-do-rj",
+    "data": "2026-06-03T00:32:00.000Z",
+    "resumo": "Os professores e técnicos da Universidade do Estado do Rio de Janeiro (UERJ), em greve há mais de dois meses apresentaram nesta terça-feira (2) ao sec...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1692145&o=rss",
+    "lido": false
+  },
+  {
     "id": "1692076 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026 terá atendimento especializado para TOC, ansiedade e TDAH",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-tera-atendimento-especializado-para-toc-ansiedade-e-tdah",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/senado-aprova-mp-que-estabelece-piso-de-r-5130-para-professores",
     "data": "2026-05-26T22:02:00.000Z",
     "resumo": "O Senado aprovou nesta terça-feira (26) a Medida Provisória (MP) 1.334/2026, que reajusta o piso salarial dos professores da educação básica para R$ 5...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1691067 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC contempla 504 cursinhos populares com benefícios de rede nacional",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/mec-contempla-504-cursinhos-populares-com-beneficios-de-rede-nacional",
-    "data": "2026-05-26T21:30:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) publicou, nesta terça-feira (26), o resultado da seleção de 504 novos cursinhos que integrarão a Rede Nacional de Cursi...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
