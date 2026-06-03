@@ -1,5 +1,23 @@
 [
   {
+    "id": "1692231 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC estende até dia 17 o prazo para redes de ensino aderirem à PND",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-estende-ate-dia-17-o-prazo-para-redes-de-ensino-aderirem-pnd",
+    "data": "2026-06-03T20:32:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) prorrogou até 17 de junho o prazo de adesão voluntária para as redes de ensino interessadas em usar a Prova Nacional Do...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1692223 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Adesão ao Programa Dinheiro Direto na Escola vai até 10 de junho",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/adesao-ao-programa-dinheiro-direto-na-escola-vai-ate-10-de-junho",
+    "data": "2026-06-03T19:41:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) prorrogou até 10 de junho o prazo de adesão ao Programa Dinheiro Direto na Escola Equidade (PDDE Equidade) por gestores...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1692145 at https://agenciabrasil.ebc.com.br",
     "titulo": "Em greve, servidores da Uerj apresentam demanda ao governo do RJ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/em-greve-servidores-da-uerj-apresentam-demanda-ao-governo-do-rj",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/inep-divulga-regras-para-selecao-de-certificadores-para-provas-de-2026",
     "data": "2026-05-28T15:30:00.000Z",
     "resumo": "Foi publicada nesta quarta-feira (27) a chamada pública aos interessados em parte da Rede Nacional de Certificadores (RNC), do Instituto Nacional de E...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1691122 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Começa primeira etapa do Censo da Educação Básica 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/comeca-primeira-etapa-do-censo-da-educacao-basica-2026",
-    "data": "2026-05-27T14:24:00.000Z",
-    "resumo": "Escolas de todo o país – públicas ou privadas – precisam repassar ao Ministério da Educação (MEC), a partir desta terça-feira (27), dados sobre matríc...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1691071 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Senado aprova MP que estabelece piso de R$ 5.130 para professores",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/senado-aprova-mp-que-estabelece-piso-de-r-5130-para-professores",
-    "data": "2026-05-26T22:02:00.000Z",
-    "resumo": "O Senado aprovou nesta terça-feira (26) a Medida Provisória (MP) 1.334/2026, que reajusta o piso salarial dos professores da educação básica para R$ 5...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
