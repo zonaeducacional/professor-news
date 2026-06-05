@@ -1,5 +1,14 @@
 [
   {
+    "id": "1692386 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Bienal nas Escolas entra em clima de Copa para estimular leitura no RJ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/bienal-nas-escolas-entra-em-clima-de-copa-para-estimular-leitura-no-rj",
+    "data": "2026-06-05T16:12:00.000Z",
+    "resumo": "Em clima de Copa do Mundo, os organizadores da Bienal do Livro do Rio de Janeiro realizam neste ano a primeira edição da Bienal nas Escolas fora do an...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1692233 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: inscrições estão abertas até hoje na Página do Participante",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-inscricoes-estao-abertas-ate-hoje-na-pagina-do-participante",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/enem-2026-inscricoes-vao-ate-5-de-junho",
     "data": "2026-05-29T15:29:00.000Z",
     "resumo": "Falta uma semana para terminar o prazo de inscrições para o Exame Nacional do Ensino Médio (Enem) 2026. Os interessados devem se inscrever até a próxi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1691514 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies: convocação para vagas remanescentes termina hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-convocacao-para-vagas-remanescentes-termina-hoje",
-    "data": "2026-05-29T14:18:00.000Z",
-    "resumo": "O prazo de convocação dos candidatos participantes da lista de espera para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies) do prime...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
