@@ -1,5 +1,23 @@
 [
   {
+    "id": "1692600 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC Livros empresta mais de 3 mil títulos por dia; veja os mais lidos",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livros-empresta-mais-de-3-mil-titulos-por-dia-veja-os-mais-lidos",
+    "data": "2026-06-08T21:33:00.000Z",
+    "resumo": "A plataforma MEC Livros alcançou a marca de 468 mil obras literárias acessadas gratuitamente desde o lançamento da ferramenta, em abril deste ano, o q...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1692596 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enamed 2026: inscrições estarão abertas de 15 a 29 de junho",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enamed-2026-inscricoes-estarao-abertas-de-15-29-de-junho",
+    "data": "2026-06-08T21:12:00.000Z",
+    "resumo": "As inscrições para o Exame Nacional de Avaliação da Formação Médica (Enamed) de 2026 poderão ser feitas entre os dias 15 e 29 de junho, exclusivamente...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1692585 at https://agenciabrasil.ebc.com.br",
     "titulo": "Abertas inscrições para 5ª Olimpíada Nacional de Eficiência Energética",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/abertas-inscricoes-para-5a-olimpiada-nacional-de-eficiencia-energetica",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-inscricoes-estao-abertas-ate-hoje-na-pagina-do-participante",
     "data": "2026-06-05T10:05:00.000Z",
     "resumo": "Os interessados em participar do Exame Nacional do Ensino Médio (Enem) 2026 devem se ater ao prazo de inscrição que termina às 23h59 desta sexta-feira...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692248 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: estudante do Pé-de-Meia é isento da taxa de inscrição",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-estudante-do-pe-de-meia-e-isento-da-taxa-de-inscricao",
-    "data": "2026-06-04T13:26:00.000Z",
-    "resumo": "Os participantes do programa Pé-de-Meia que concluem o ensino médio em 2026 são isentos da taxa de inscrição do Exame Nacional do Ensino Médio (Enem)....",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1691954 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: inscrições ficam abertas até sexta-feira na internet",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-inscricoes-estao-abertas-ate-sexta-na-internet",
-    "data": "2026-06-04T13:02:00.000Z",
-    "resumo": "O prazo de inscrições para o Exame Nacional do Ensino Médio (Enem) 2026 termina na sexta-feira (5).\nOs interessados devem se inscrever exclusivamente ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
