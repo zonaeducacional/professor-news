@@ -1,5 +1,14 @@
 [
   {
+    "id": "1692634 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudantes encerram greve de quase dois meses na USP",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudantes-encerram-greve-de-quase-dois-meses-na-usp",
+    "data": "2026-06-09T12:16:00.000Z",
+    "resumo": "Os alunos da Universidade de São Paulo (USP), por meio do Diretório Central dos Estudantes (DCE), anunciaram na noite desta segunda-feira (8) o fim da...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1692600 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC Livros empresta mais de 3 mil títulos por dia; veja os mais lidos",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livros-empresta-mais-de-3-mil-titulos-por-dia-veja-os-mais-lidos",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/bienal-nas-escolas-entra-em-clima-de-copa-para-estimular-leitura-no-rj",
     "data": "2026-06-05T16:12:00.000Z",
     "resumo": "Em clima de Copa do Mundo, os organizadores da Bienal do Livro do Rio de Janeiro realizam neste ano a primeira edição da Bienal nas Escolas fora do an...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692233 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: inscrições estão abertas até hoje na Página do Participante",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-inscricoes-estao-abertas-ate-hoje-na-pagina-do-participante",
-    "data": "2026-06-05T10:05:00.000Z",
-    "resumo": "Os interessados em participar do Exame Nacional do Ensino Médio (Enem) 2026 devem se ater ao prazo de inscrição que termina às 23h59 desta sexta-feira...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
