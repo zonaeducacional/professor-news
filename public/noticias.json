@@ -1,5 +1,14 @@
 [
   {
+    "id": "1693054 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: prazo de inscrições termina nesta sexta-feira ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-prazo-de-inscricoes-termina-nesta-sexta-feira",
+    "data": "2026-06-11T19:30:00.000Z",
+    "resumo": "O prazo prorrogado de inscrição no Exame Nacional do Ensino Médio (Enem) 2026 termina às 23 horas e 59 minutos desta sexta-feira (12), no horário de B...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1692696 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC libera consulta a vagas no ensino superior pelo Sisu+",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-libera-consulta-vagas-no-ensino-superior-pelo-sisu",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/midr-abre-inscricoes-para-o-premio-melhores-praticas-em-jogo",
     "data": "2026-06-06T20:15:00.000Z",
     "resumo": "Estão abertas até o dia 30 de agosto as inscrições para o prêmio Melhores Práticas do Desenvolvimento em Jogo. Podem participar professores e facilita...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692447 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: prazo de inscrição é prorrogado até dia 12 de junho",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-prazo-de-inscricao-e-prorrogado-ate-dia-12-de-junho",
-    "data": "2026-06-06T12:58:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) prorrogaram o prazo de inscrição para...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
