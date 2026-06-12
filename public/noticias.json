@@ -1,5 +1,14 @@
 [
   {
+    "id": "1693225 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Instituições têm até 15 de junho para aderir ao Fies do 2º semestre",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/instituicoes-tem-ate-15-de-junho-para-aderir-ao-fies-do-2o-semestre",
+    "data": "2026-06-12T15:29:00.000Z",
+    "resumo": "Instituições privadas de educação superior têm até as 23 horas e 59 minutos desta segunda-feira (15) para aderir ao processo seletivo do Fundo de Fina...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693087 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para o Enem terminam nesta sexta na página do participante",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricoes-para-o-enem-terminam-nesta-sexta-na-pagina-do-participante",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/escolas-de-sp-abrem-inscricoes-para-alimentacao-durante-ferias",
     "data": "2026-06-08T17:49:00.000Z",
     "resumo": "A partir desta segunda-feira (8), estão abertas as inscrições para alimentação durante o período de férias nas escolas estaduais de São Paulo. Os fami...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692572 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC Idiomas: nova plataforma oferta inglês e espanhol gratuitamente",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-idiomas-nova-plataforma-oferta-ingles-e-espanhol-gratuitamente",
-    "data": "2026-06-08T15:35:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) lançou o MEC Idiomas, plataforma gratuita de estudos de inglês e espanhol. \nA ferramenta disponibiliza lições interativ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
