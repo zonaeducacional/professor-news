@@ -1,5 +1,14 @@
 [
   {
+    "id": "1693087 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inscrições para o Enem terminam nesta sexta na página do participante",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricoes-para-o-enem-terminam-nesta-sexta-na-pagina-do-participante",
+    "data": "2026-06-12T10:30:00.000Z",
+    "resumo": "Os interessados em participar do Exame Nacional do Ensino Médio (Enem) 2026 devem se inscrever até as 23 horas e 59 minutos desta sexta-feira (12), no...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693054 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: prazo de inscrições termina nesta sexta-feira ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-prazo-de-inscricoes-termina-nesta-sexta-feira",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-idiomas-nova-plataforma-oferta-ingles-e-espanhol-gratuitamente",
     "data": "2026-06-08T15:35:00.000Z",
     "resumo": "O Ministério da Educação (MEC) lançou o MEC Idiomas, plataforma gratuita de estudos de inglês e espanhol. \nA ferramenta disponibiliza lições interativ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692487 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Ministério abre inscrição para prêmio Melhores Práticas em Jogo",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/midr-abre-inscricoes-para-o-premio-melhores-praticas-em-jogo",
-    "data": "2026-06-06T20:15:00.000Z",
-    "resumo": "Estão abertas até o dia 30 de agosto as inscrições para o prêmio Melhores Práticas do Desenvolvimento em Jogo. Podem participar professores e facilita...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
