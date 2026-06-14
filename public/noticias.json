@@ -1,5 +1,14 @@
 [
   {
+    "id": "1693300 at https://agenciabrasil.ebc.com.br",
+    "titulo": "\"Estudante deve errar, idealizar e construir\", diz professora premiada",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudante-deve-errar-idealizar-e-construir-diz-professora-premiada",
+    "data": "2026-06-14T14:30:00.000Z",
+    "resumo": "Professora em uma escola pública municipal paulistana, Débora Garofalo começou, em 2015, um projeto de robótica com sucata para alunos do ensino funda...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693225 at https://agenciabrasil.ebc.com.br",
     "titulo": "Instituições têm até 15 de junho para aderir ao Fies do 2º semestre",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/instituicoes-tem-ate-15-de-junho-para-aderir-ao-fies-do-2o-semestre",
@@ -78,15 +87,6 @@
     "data": "2026-06-08T18:07:00.000Z",
     "resumo": "A Olimpíada Nacional de Eficiência Energética (ONEE) 2026 abriu inscrições gratuitas nesta segunda-feira (8) para estudantes e professores de todo o B...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1692585&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1692584 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Escolas de SP abrem inscrições para alimentação durante as férias",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/escolas-de-sp-abrem-inscricoes-para-alimentacao-durante-ferias",
-    "data": "2026-06-08T17:49:00.000Z",
-    "resumo": "A partir desta segunda-feira (8), estão abertas as inscrições para alimentação durante o período de férias nas escolas estaduais de São Paulo. Os fami...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
