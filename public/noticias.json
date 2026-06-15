@@ -1,5 +1,41 @@
 [
   {
+    "id": "1693417 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Sisu+ 2026: inscrições para vagas do 2º semestre abrem nesta segunda",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/sisu-2026-inscricoes-para-vagas-do-2o-semestre-abrem-nesta-segunda",
+    "data": "2026-06-15T17:13:00.000Z",
+    "resumo": "Os estudantes que participaram de pelo menos uma edição do Exame Nacional do Ensino Médio (Enem) nos últimos três anos (2023, 2024 e 2025) já podem se...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1693403 at https://agenciabrasil.ebc.com.br",
+    "titulo": "EBC e IFRN inauguram rádio pública com conteúdos educativos em Natal",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/ebc-e-ifrn-inauguram-radio-publica-com-conteudos-educativos-em-natal",
+    "data": "2026-06-15T16:04:00.000Z",
+    "resumo": "A população de Natal ganhou uma nova emissora pública de rádio com o início das transmissões da Rádio IFRN FM, vinculada ao Instituto Federal de Educa...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1693398 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Candidatos ao Enem 2026 devem pagar taxa de inscrição até quarta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-ao-enem-2026-devem-pagar-taxa-de-inscricao-ate-quarta-feira",
+    "data": "2026-06-15T15:22:00.000Z",
+    "resumo": "O prazo para os candidatos ao Exame Nacional do ensino Médio (Enem) de 2026 pagarem a taxa de inscrição termina nesta quarta-feira (17).\nO valor é de ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1693394 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies do 2º semestre: prazo de adesão de instituições termina hoje",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/fies-do-2o-semestre-prazo-de-adesao-de-instituicoes-termina-hoje",
+    "data": "2026-06-15T15:04:00.000Z",
+    "resumo": "O prazo para que as instituições privadas de educação superior aderirem ao processo seletivo do Fundo de Financiamento Estudantil (Fies) referente ao ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693300 at https://agenciabrasil.ebc.com.br",
     "titulo": "\"Estudante deve errar, idealizar e construir\", diz professora premiada",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudante-deve-errar-idealizar-e-construir-diz-professora-premiada",
@@ -51,42 +87,6 @@
     "data": "2026-06-09T14:33:00.000Z",
     "resumo": "As instituições privadas de educação superior interessadas em aderir ao processo seletivo do Fundo de Financiamento Estudantil (Fies) referente ao 2º ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692634 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudantes encerram greve de quase dois meses na USP",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudantes-encerram-greve-de-quase-dois-meses-na-usp",
-    "data": "2026-06-09T12:16:00.000Z",
-    "resumo": "Os alunos da Universidade de São Paulo (USP), por meio do Diretório Central dos Estudantes (DCE), anunciaram na noite desta segunda-feira (8) o fim da...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692600 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC Livros empresta mais de 3 mil títulos por dia; veja os mais lidos",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livros-empresta-mais-de-3-mil-titulos-por-dia-veja-os-mais-lidos",
-    "data": "2026-06-08T21:33:00.000Z",
-    "resumo": "A plataforma MEC Livros alcançou a marca de 468 mil obras literárias acessadas gratuitamente desde o lançamento da ferramenta, em abril deste ano, o q...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692596 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enamed 2026: inscrições estarão abertas de 15 a 29 de junho",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enamed-2026-inscricoes-estarao-abertas-de-15-29-de-junho",
-    "data": "2026-06-08T21:12:00.000Z",
-    "resumo": "As inscrições para o Exame Nacional de Avaliação da Formação Médica (Enamed) de 2026 poderão ser feitas entre os dias 15 e 29 de junho, exclusivamente...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692585 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Abertas inscrições para 5ª Olimpíada Nacional de Eficiência Energética",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/abertas-inscricoes-para-5a-olimpiada-nacional-de-eficiencia-energetica",
-    "data": "2026-06-08T18:07:00.000Z",
-    "resumo": "A Olimpíada Nacional de Eficiência Energética (ONEE) 2026 abriu inscrições gratuitas nesta segunda-feira (8) para estudantes e professores de todo o B...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1692585&o=rss",
     "lido": false
   }
 ]
