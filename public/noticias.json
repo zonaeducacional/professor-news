@@ -1,5 +1,14 @@
 [
   {
+    "id": "1693609 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Candidatos a residência médica já podem se inscrever para o Enare 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-residencia-medica-ja-podem-se-inscrever-para-o-enare-2026",
+    "data": "2026-06-16T22:34:00.000Z",
+    "resumo": "As inscrições para o Exame Nacional de Residência (Enare) 2026/2027 estão abertas desde esta segunda-feira (15), exclusivamente na página do exame no ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693507 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: prazo para pagamento da taxa de inscrição termina na quarta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-prazo-para-pagamento-da-taxa-de-inscricao-termina-na-quarta",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/instituicoes-tem-ate-15-de-junho-para-aderir-ao-fies-do-2o-semestre",
     "data": "2026-06-12T15:29:00.000Z",
     "resumo": "Instituições privadas de educação superior têm até as 23 horas e 59 minutos desta segunda-feira (15) para aderir ao processo seletivo do Fundo de Fina...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693087 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para o Enem terminam nesta sexta na página do participante",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricoes-para-o-enem-terminam-nesta-sexta-na-pagina-do-participante",
-    "data": "2026-06-12T10:30:00.000Z",
-    "resumo": "Os interessados em participar do Exame Nacional do Ensino Médio (Enem) 2026 devem se inscrever até as 23 horas e 59 minutos desta sexta-feira (12), no...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
