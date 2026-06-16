@@ -1,5 +1,23 @@
 [
   {
+    "id": "1693507 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: prazo para pagamento da taxa de inscrição termina na quarta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-prazo-para-pagamento-da-taxa-de-inscricao-termina-na-quarta",
+    "data": "2026-06-16T15:42:00.000Z",
+    "resumo": "O prazo para o pagamento do boleto da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 termina nesta quarta-feira (17).\nO valor é R$...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1693504 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prazo para gestor de educação aderir à PND 2026 termina nesta quarta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/prazo-para-gestor-de-educacao-aderir-pnd-2026-termina-nesta-quarta",
+    "data": "2026-06-16T15:33:00.000Z",
+    "resumo": "O prazo de adesão das redes de ensino interessadas em usar a nota de participantes na Prova Nacional Docente (PND) para selecionar professores para a ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693452 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enamed recebe inscrições para edição de 2026 até dia 29 de junho",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enamed-recebe-inscricoes-para-edicao-de-2026-ate-29-de-junho",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricoes-para-o-enem-terminam-nesta-sexta-na-pagina-do-participante",
     "data": "2026-06-12T10:30:00.000Z",
     "resumo": "Os interessados em participar do Exame Nacional do Ensino Médio (Enem) 2026 devem se inscrever até as 23 horas e 59 minutos desta sexta-feira (12), no...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693054 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: prazo de inscrições termina nesta sexta-feira ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-prazo-de-inscricoes-termina-nesta-sexta-feira",
-    "data": "2026-06-11T19:30:00.000Z",
-    "resumo": "O prazo prorrogado de inscrição no Exame Nacional do Ensino Médio (Enem) 2026 termina às 23 horas e 59 minutos desta sexta-feira (12), no horário de B...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1692696 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC libera consulta a vagas no ensino superior pelo Sisu+",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-libera-consulta-vagas-no-ensino-superior-pelo-sisu",
-    "data": "2026-06-09T19:05:00.000Z",
-    "resumo": "Os estudantes interessados em participar do Sisu+ (a etapa complementar e inédita do Sistema de Seleção Unificada) já podem consultar as vagas disponí...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
