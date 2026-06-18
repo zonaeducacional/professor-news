@@ -1,5 +1,14 @@
 [
   {
+    "id": "1693799 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudantes protestam contra cortes nas universidades de SP",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudantes-protestam-contra-cortes-nas-universidades-de-sp",
+    "data": "2026-06-17T23:37:00.000Z",
+    "resumo": "Estudantes protestaram na noite desta quarta-feira (17) contra cortes de recursos das universidades públicas paulistas. A manifestação ocupou as pista...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693699 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: MEC amplia prazo para pagar taxa de inscrição até dia 22",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-mec-amplia-prazo-para-pagar-taxa-de-inscricao-ate-dia-22",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/ebc-e-ifrn-inauguram-radio-publica-com-conteudos-educativos-em-natal",
     "data": "2026-06-15T16:04:00.000Z",
     "resumo": "A população de Natal ganhou uma nova emissora pública de rádio com o início das transmissões da Rádio IFRN FM, vinculada ao Instituto Federal de Educa...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693398 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Candidatos ao Enem 2026 devem pagar taxa de inscrição até quarta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-ao-enem-2026-devem-pagar-taxa-de-inscricao-ate-quarta-feira",
-    "data": "2026-06-15T15:22:00.000Z",
-    "resumo": "O prazo para os candidatos ao Exame Nacional do ensino Médio (Enem) de 2026 pagarem a taxa de inscrição termina nesta quarta-feira (17).\nO valor é de ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
