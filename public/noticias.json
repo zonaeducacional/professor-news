@@ -1,5 +1,14 @@
 [
   {
+    "id": "1693834 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Governo cria política nacional para estudantes com altas habilidades ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/governo-cria-politica-nacional-para-estudantes-com-altas-habilidades",
+    "data": "2026-06-18T13:31:00.000Z",
+    "resumo": "O governo federal sancionou nesta quinta-feira (18) a Política Nacional para Estudantes com Altas Habilidades ou Superdotação. A Lei nº 15.436 cria ta...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693799 at https://agenciabrasil.ebc.com.br",
     "titulo": "Estudantes protestam contra cortes nas universidades de SP",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudantes-protestam-contra-cortes-nas-universidades-de-sp",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/sisu-2026-inscricoes-para-vagas-do-2o-semestre-abrem-nesta-segunda",
     "data": "2026-06-15T17:13:00.000Z",
     "resumo": "Os estudantes que participaram de pelo menos uma edição do Exame Nacional do Ensino Médio (Enem) nos últimos três anos (2023, 2024 e 2025) já podem se...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693403 at https://agenciabrasil.ebc.com.br",
-    "titulo": "EBC e IFRN inauguram rádio pública com conteúdos educativos em Natal",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/ebc-e-ifrn-inauguram-radio-publica-com-conteudos-educativos-em-natal",
-    "data": "2026-06-15T16:04:00.000Z",
-    "resumo": "A população de Natal ganhou uma nova emissora pública de rádio com o início das transmissões da Rádio IFRN FM, vinculada ao Instituto Federal de Educa...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
