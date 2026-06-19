@@ -1,5 +1,14 @@
 [
   {
+    "id": "1694038 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enamed será requisito para exercício da medicina no Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enamed-sera-requisito-para-exercicio-da-medicina-no-brasil",
+    "data": "2026-06-19T21:20:00.000Z",
+    "resumo": "Os estudantes que se formarem em medicina somente vão poder realizar sua inscrição no Conselho Regional de Medicina (CRM) se tiverem rendimento sufici...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1693838 at https://agenciabrasil.ebc.com.br",
     "titulo": "IBGE: país tem 8,4 milhões de analfabetos, menor número desde 2016",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/ibge-pais-tem-84-milhoes-de-analfabetos-menor-numero-desde-2016",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-residencia-medica-ja-podem-se-inscrever-para-o-enare-2026",
     "data": "2026-06-16T22:34:00.000Z",
     "resumo": "As inscrições para o Exame Nacional de Residência (Enare) 2026/2027 estão abertas desde esta segunda-feira (15), exclusivamente na página do exame no ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693507 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: prazo para pagamento da taxa de inscrição termina na quarta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-prazo-para-pagamento-da-taxa-de-inscricao-termina-na-quarta",
-    "data": "2026-06-16T15:42:00.000Z",
-    "resumo": "O prazo para o pagamento do boleto da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 termina nesta quarta-feira (17).\nO valor é R$...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
