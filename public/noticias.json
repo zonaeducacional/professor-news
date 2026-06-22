@@ -1,5 +1,23 @@
 [
   {
+    "id": "1694183 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Candidatos ao Enem têm até a noite desta segunda para pagar inscrição",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-ao-enem-tem-ate-noite-desta-segunda-para-pagar-inscricao",
+    "data": "2026-06-22T13:11:00.000Z",
+    "resumo": "Os candidatos ao Exame Nacional do Ensino Médio (Enem) 2026 até as 23 horas e 59 minutos desta segunda-feira (22) para pagar os R$ 85 da taxa de inscr...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1694145 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: professores podem se inscrever a partir de segunda-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pnd-2026-professores-podem-se-inscrever-partir-de-segunda-feira",
+    "data": "2026-06-22T12:13:00.000Z",
+    "resumo": "As inscrições para a Prova Nacional Docente (PND) de 2026 estarão abertas de 22 de junho a 3 de julho, e devem ser feitas exclusivamente pelo Sistema ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694105 at https://agenciabrasil.ebc.com.br",
     "titulo": "Estudo revela preservação de tecidos de pterossauro por 113 milhões ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudo-revela-preservacao-de-tecidos-de-pterossauro-por-113-milhoes",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-mec-amplia-prazo-para-pagar-taxa-de-inscricao-ate-dia-22",
     "data": "2026-06-17T14:25:00.000Z",
     "resumo": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) anunciaram, na manhã desta quarta-fei...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693696 at https://agenciabrasil.ebc.com.br",
-    "titulo": "PND 2026: gestores de educação têm até esta quarta para aderir à prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pnd-2026-gestores-de-educacao-tem-ate-esta-quarta-para-aderir-prova",
-    "data": "2026-06-17T14:08:00.000Z",
-    "resumo": "Redes de ensino interessadas em usar a nota de participantes na Prova Nacional Docente (PND) a fim de selecionar professores da educação básica têm at...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693552 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Natureza e saberes tradicionais guiam projeto premiado em escola rural",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/natureza-e-saberes-tradicionais-guiam-projeto-premiado-em-escola-rural",
-    "data": "2026-06-17T11:22:00.000Z",
-    "resumo": "A partir da transformação de quintais e áreas verdes em espaços de aprendizagem, a Escola Municipal do Campo Profª Andréa Ferraz de Oliveira, em Itara...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
