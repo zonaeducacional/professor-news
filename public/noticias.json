@@ -1,5 +1,14 @@
 [
   {
+    "id": "1694394 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Conselho Nacional de Educação atualiza regras do ensino integral",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/conselho-nacional-de-educacao-atualiza-regras-do-ensino-integral",
+    "data": "2026-06-23T11:32:00.000Z",
+    "resumo": "O Conselho Nacional de Educação (CNE) alterou diretrizes do ensino integral na educação básica e definiu prazo até 31 de outubro para que cada rede at...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694183 at https://agenciabrasil.ebc.com.br",
     "titulo": "Candidatos ao Enem têm até a noite desta segunda para pagar inscrição",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-ao-enem-tem-ate-noite-desta-segunda-para-pagar-inscricao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudantes-protestam-contra-cortes-nas-universidades-de-sp",
     "data": "2026-06-17T23:37:00.000Z",
     "resumo": "Estudantes protestaram na noite desta quarta-feira (17) contra cortes de recursos das universidades públicas paulistas. A manifestação ocupou as pista...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693699 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: MEC amplia prazo para pagar taxa de inscrição até dia 22",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-mec-amplia-prazo-para-pagar-taxa-de-inscricao-ate-dia-22",
-    "data": "2026-06-17T14:25:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) anunciaram, na manhã desta quarta-fei...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
