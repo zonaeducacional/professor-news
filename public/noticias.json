@@ -1,5 +1,23 @@
 [
   {
+    "id": "1694617 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC: queda do analfabetismo no Brasil é ligada a políticas na educação",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-queda-do-analfabetismo-no-brasil-e-ligada-politicas-na-educacao",
+    "data": "2026-06-24T21:17:00.000Z",
+    "resumo": "O ministro da Educação, Leonardo Barchini, confirmou nesta quarta-feira (24), em Fortaleza, que o Brasil atingiu a menor taxa de analfabetismo de sua ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1694612 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prova Nacional Docente tem adesão de mais de 2 mil redes de ensino",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/prova-nacional-docente-tem-adesao-de-mais-de-2-mil-redes-de-ensino",
+    "data": "2026-06-24T20:33:00.000Z",
+    "resumo": "O Ministério da Educação informou que 2.031 entes federativos aderiram voluntariamente à Prova Nacional Docente (PND) em 2026. O número representa uma...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694394 at https://agenciabrasil.ebc.com.br",
     "titulo": "Conselho Nacional de Educação atualiza regras do ensino integral",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/conselho-nacional-de-educacao-atualiza-regras-do-ensino-integral",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/sisu-inscricoes-para-concorrer-vagas-do-2o-semestre-terminam-hoje",
     "data": "2026-06-19T12:02:00.000Z",
     "resumo": "Os candidatos interessados nas vagas do Sistema de Seleção Unificada (Sisu+), a etapa inédita e complementar do Sisu, podem se inscrever até as 23h59 ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693834 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Governo cria política nacional para estudantes com altas habilidades ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/governo-cria-politica-nacional-para-estudantes-com-altas-habilidades",
-    "data": "2026-06-18T13:31:00.000Z",
-    "resumo": "O governo federal sancionou nesta quinta-feira (18) a Política Nacional para Estudantes com Altas Habilidades ou Superdotação. A Lei nº 15.436 cria ta...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693799 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudantes protestam contra cortes nas universidades de SP",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudantes-protestam-contra-cortes-nas-universidades-de-sp",
-    "data": "2026-06-17T23:37:00.000Z",
-    "resumo": "Estudantes protestaram na noite desta quarta-feira (17) contra cortes de recursos das universidades públicas paulistas. A manifestação ocupou as pista...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
