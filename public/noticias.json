@@ -1,5 +1,14 @@
 [
   {
+    "id": "1694749 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Brasil tem duas escolas finalistas no Prêmio Melhores Escolas do Mundo",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/brasil-tem-duas-escolas-finalistas-no-premio-melhores-escolas-do-mundo",
+    "data": "2026-06-25T21:20:00.000Z",
+    "resumo": "Duas escolas brasileiras estão entre as 50 melhores escolas do mundo: a Escola Municipal GET IV Centenário, no Rio de Janeiro, e a Escola Baniwa Kalip...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694684 at https://agenciabrasil.ebc.com.br",
     "titulo": "Mais de 10 mil professores foram contratados com nota da PND de 2025",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mais-de-10-mil-professores-foram-contratados-com-nota-da-pnd-de-2025",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/ibge-pais-tem-84-milhoes-de-analfabetos-menor-numero-desde-2016",
     "data": "2026-06-19T13:02:00.000Z",
     "resumo": "Em 2025, o Brasil tinha 8,4 milhões de pessoas com 15 anos ou mais de idade analfabetas, correspondendo a uma taxa de analfabetismo de 4,9% - a menor ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693977 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Governo fixa em R$ 5,1 mil novo piso nacional do magistério",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/governo-fixa-em-r-51-mil-novo-piso-nacional-do-magisterio",
-    "data": "2026-06-19T13:00:00.000Z",
-    "resumo": "O governo federal sancionou nesta sexta-feira (19) lei que fixa em R$ 5,1 mil o novo piso salarial para profissionais da educação básica. A atualizaçã...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
