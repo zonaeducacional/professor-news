@@ -1,5 +1,14 @@
 [
   {
+    "id": "1694684 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Mais de 10 mil professores foram contratados com nota da PND de 2025",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mais-de-10-mil-professores-foram-contratados-com-nota-da-pnd-de-2025",
+    "data": "2026-06-25T14:25:00.000Z",
+    "resumo": "A nota da Prova Nacional Docente (PND) contribuiu para o ingresso de mais de 10 mil professores nas redes estaduais e municipais de ensino de todo o p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694617 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC: queda do analfabetismo no Brasil é ligada a políticas na educação",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-queda-do-analfabetismo-no-brasil-e-ligada-politicas-na-educacao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/governo-fixa-em-r-51-mil-novo-piso-nacional-do-magisterio",
     "data": "2026-06-19T13:00:00.000Z",
     "resumo": "O governo federal sancionou nesta sexta-feira (19) lei que fixa em R$ 5,1 mil o novo piso salarial para profissionais da educação básica. A atualizaçã...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693962 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Sisu+: inscrições para concorrer a vagas do 2º semestre terminam hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/sisu-inscricoes-para-concorrer-vagas-do-2o-semestre-terminam-hoje",
-    "data": "2026-06-19T12:02:00.000Z",
-    "resumo": "Os candidatos interessados nas vagas do Sistema de Seleção Unificada (Sisu+), a etapa inédita e complementar do Sisu, podem se inscrever até as 23h59 ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
