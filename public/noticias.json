@@ -1,5 +1,14 @@
 [
   {
+    "id": "1694791 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
+    "data": "2026-06-26T10:35:00.000Z",
+    "resumo": "Os números referentes ao desempenho de estudantes que concluíram o ensino médio na rede pública do país apresentaram melhora entre 2022 e 2025. O índi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694768 at https://agenciabrasil.ebc.com.br",
     "titulo": "Aprendizagem evoluiu de ações emergenciais para políticas formalizadas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/aprendizagem-evoluiu-de-acoes-emergenciais-para-politicas-formalizadas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudo-revela-preservacao-de-tecidos-de-pterossauro-por-113-milhoes",
     "data": "2026-06-21T15:44:00.000Z",
     "resumo": "Um novo mecanismo global de fossilização capaz de preservar tecidos moles e até esteroides, moléculas orgânicas extremamente frágeis, em um pterossaur...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694038 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enamed será requisito para exercício da medicina no Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enamed-sera-requisito-para-exercicio-da-medicina-no-brasil",
-    "data": "2026-06-19T21:20:00.000Z",
-    "resumo": "Os estudantes que se formarem em medicina somente vão poder realizar sua inscrição no Conselho Regional de Medicina (CRM) se tiverem rendimento sufici...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
