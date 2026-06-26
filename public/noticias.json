@@ -1,5 +1,14 @@
 [
   {
+    "id": "1694768 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Aprendizagem evoluiu de ações emergenciais para políticas formalizadas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/aprendizagem-evoluiu-de-acoes-emergenciais-para-politicas-formalizadas",
+    "data": "2026-06-25T23:36:00.000Z",
+    "resumo": "A agenda nacional pela recomposição das aprendizagens evoluiu de ações emergenciais, como aquelas adotadas para mitigar os impactos da pandemia de Cov...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694749 at https://agenciabrasil.ebc.com.br",
     "titulo": "Brasil tem duas escolas finalistas no Prêmio Melhores Escolas do Mundo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/brasil-tem-duas-escolas-finalistas-no-premio-melhores-escolas-do-mundo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enamed-sera-requisito-para-exercicio-da-medicina-no-brasil",
     "data": "2026-06-19T21:20:00.000Z",
     "resumo": "Os estudantes que se formarem em medicina somente vão poder realizar sua inscrição no Conselho Regional de Medicina (CRM) se tiverem rendimento sufici...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1693838 at https://agenciabrasil.ebc.com.br",
-    "titulo": "IBGE: país tem 8,4 milhões de analfabetos, menor número desde 2016",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/ibge-pais-tem-84-milhoes-de-analfabetos-menor-numero-desde-2016",
-    "data": "2026-06-19T13:02:00.000Z",
-    "resumo": "Em 2025, o Brasil tinha 8,4 milhões de pessoas com 15 anos ou mais de idade analfabetas, correspondendo a uma taxa de analfabetismo de 4,9% - a menor ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
