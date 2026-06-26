@@ -1,5 +1,23 @@
 [
   {
+    "id": "1694850 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Desenrola: R$ 5,5 bilhões de dívidas foram renegociadas pela Caixa",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/desenrola-r-55-bilhoes-de-dividas-foram-renegociadas-pela-caixa",
+    "data": "2026-06-26T15:35:00.000Z",
+    "resumo": "A Caixa Econômica Federal divulgou, nesta sexta-feira (26), que R$ 5,5 bilhões de dívidas foram renegociadas através do programa Novo Desenrola Brasil...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1694830 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: candidatos podem conferir resultado de atendimento especial",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-candidatos-podem-conferir-resultado-de-atendimento-especial",
+    "data": "2026-06-26T15:04:00.000Z",
+    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulgou, nesta sexta-feira (26), o resultado do atendimento especiali...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694791 at https://agenciabrasil.ebc.com.br",
     "titulo": "Censo Escolar: Brasil reduz índices de reprovação, abandono e atraso",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-ao-enem-tem-ate-noite-desta-segunda-para-pagar-inscricao",
     "data": "2026-06-22T13:11:00.000Z",
     "resumo": "Os candidatos ao Exame Nacional do Ensino Médio (Enem) 2026 têm até as 23 horas e 59 minutos desta segunda-feira (22) para pagar os R$ 85 da taxa de i...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694145 at https://agenciabrasil.ebc.com.br",
-    "titulo": "PND 2026: professores podem se inscrever a partir desta segunda-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pnd-2026-professores-podem-se-inscrever-partir-de-segunda-feira",
-    "data": "2026-06-22T12:13:00.000Z",
-    "resumo": "As inscrições para a Prova Nacional Docente (PND) de 2026 estarão abertas de 22 de junho a 3 de julho, e devem ser feitas exclusivamente pelo Sistema ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694105 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudo revela preservação de tecidos de pterossauro por 113 milhões ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/estudo-revela-preservacao-de-tecidos-de-pterossauro-por-113-milhoes",
-    "data": "2026-06-21T15:44:00.000Z",
-    "resumo": "Um novo mecanismo global de fossilização capaz de preservar tecidos moles e até esteroides, moléculas orgânicas extremamente frágeis, em um pterossaur...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
