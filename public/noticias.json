@@ -1,5 +1,14 @@
 [
   {
+    "id": "1694862 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enare: inscrições para residência de acesso direto terminam segunda",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enare-inscricoes-para-residencia-de-acesso-direto-terminam-segunda",
+    "data": "2026-06-26T16:16:00.000Z",
+    "resumo": "As inscrições para o Exame Nacional de Residência (Enare) 2026/2027 continuam até a segunda-feira (29) para as especialidades com acesso direto à resi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1694850 at https://agenciabrasil.ebc.com.br",
     "titulo": "Desenrola: R$ 5,5 bilhões de dívidas foram renegociadas pela Caixa",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/desenrola-r-55-bilhoes-de-dividas-foram-renegociadas-pela-caixa",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/conselho-nacional-de-educacao-atualiza-regras-do-ensino-integral",
     "data": "2026-06-23T11:32:00.000Z",
     "resumo": "O Conselho Nacional de Educação (CNE) alterou diretrizes do ensino integral na educação básica e definiu prazo até 31 de outubro para que cada rede at...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694183 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Candidatos ao Enem têm até a noite desta segunda para pagar inscrição",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/candidatos-ao-enem-tem-ate-noite-desta-segunda-para-pagar-inscricao",
-    "data": "2026-06-22T13:11:00.000Z",
-    "resumo": "Os candidatos ao Exame Nacional do Ensino Médio (Enem) 2026 têm até as 23 horas e 59 minutos desta segunda-feira (22) para pagar os R$ 85 da taxa de i...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
