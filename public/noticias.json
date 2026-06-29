@@ -1,5 +1,14 @@
 [
   {
+    "id": "1695160 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Instituto de Pesquisas do Exército na Amazônia é inaugurado em Manaus",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/instituto-de-pesquisas-do-exercito-na-amazonia-e-inaugurado-em-manaus",
+    "data": "2026-06-29T20:43:00.000Z",
+    "resumo": "A sede do Instituto de Pesquisas do Exército na Amazônia (Ipeam) foi inaugurada nesta segunda-feira (29), no Centro Gestor e Operacional do Sistema de...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1695111 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC Livros oferece mais 7,8 mil obras em inglês e espanhol",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livro-oferece-mais-78-mil-obras-em-ingles-e-espanhol",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/brasil-tem-duas-escolas-finalistas-no-premio-melhores-escolas-do-mundo",
     "data": "2026-06-25T21:20:00.000Z",
     "resumo": "Quatro escolas brasileiras estão entre as 50 melhores escolas do mundo: a Escola Municipal GET IV Centenário, no Rio de Janeiro; a Escola Baniwa Kalip...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694684 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Mais de 10 mil professores foram contratados com nota da PND de 2025",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mais-de-10-mil-professores-foram-contratados-com-nota-da-pnd-de-2025",
-    "data": "2026-06-25T14:25:00.000Z",
-    "resumo": "A nota da Prova Nacional Docente (PND) contribuiu para o ingresso de mais de 10 mil professores nas redes estaduais e municipais de ensino de todo o p...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
