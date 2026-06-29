@@ -1,5 +1,32 @@
 [
   {
+    "id": "1695111 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC Livros oferece mais 7,8 mil obras em inglês e espanhol",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livro-oferece-mais-78-mil-obras-em-ingles-e-espanhol",
+    "data": "2026-06-29T16:11:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) ampliou o acervo do MEC Livros, com a disponibilização gratuita de 7.832 obras nas versões originais, em inglês e espan...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1695110 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: professores podem se inscrever até sexta-feira (3)",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pnd-2026-professores-podem-se-inscrever-ate-sexta-feira-3",
+    "data": "2026-06-29T15:53:00.000Z",
+    "resumo": "As inscrições para a Prova Nacional Docente (PND) de 2026 estarão abertas até sexta-feira (3),exclusivamente pela internet no site do Instituto Nacion...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1695100 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia 2026: pagamento da quarta parcela começa nesta segunda",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pe-de-meia-2026-pagamento-da-quarta-parcela-comeca-nesta-segunda",
+    "data": "2026-06-29T15:02:00.000Z",
+    "resumo": "Os estudantes beneficiários do programa Pé-de-Meia de 2026 que atingiram pelo menos 80% de frequência nas aulas em abril deste ano começarão a receber...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1695086 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrição para residência médica estão abertas até hoje",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricao-para-residencia-medica-estao-abertas-ate-hoje",
@@ -14,15 +41,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enare-inscricoes-para-residencia-de-acesso-direto-terminam-segunda",
     "data": "2026-06-26T16:16:00.000Z",
     "resumo": "As inscrições para o Exame Nacional de Residência (Enare) 2026/2027 continuam até a segunda-feira (29) para as especialidades com acesso direto à resi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694850 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Desenrola: R$ 5,5 bilhões de dívidas foram renegociadas pela Caixa",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/desenrola-r-55-bilhoes-de-dividas-foram-renegociadas-pela-caixa",
-    "data": "2026-06-26T15:35:00.000Z",
-    "resumo": "A Caixa Econômica Federal divulgou, nesta sexta-feira (26), que R$ 5,5 bilhões de dívidas foram renegociadas através do programa Novo Desenrola Brasil...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   },
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mais-de-10-mil-professores-foram-contratados-com-nota-da-pnd-de-2025",
     "data": "2026-06-25T14:25:00.000Z",
     "resumo": "A nota da Prova Nacional Docente (PND) contribuiu para o ingresso de mais de 10 mil professores nas redes estaduais e municipais de ensino de todo o p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694617 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC: queda do analfabetismo no Brasil é ligada a políticas na educação",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-queda-do-analfabetismo-no-brasil-e-ligada-politicas-na-educacao",
-    "data": "2026-06-24T21:17:00.000Z",
-    "resumo": "O ministro da Educação, Leonardo Barchini, confirmou nesta quarta-feira (24), em Fortaleza, que o Brasil atingiu a menor taxa de analfabetismo de sua ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694612 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prova Nacional Docente tem adesão de mais de 2 mil redes de ensino",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/prova-nacional-docente-tem-adesao-de-mais-de-2-mil-redes-de-ensino",
-    "data": "2026-06-24T20:33:00.000Z",
-    "resumo": "O Ministério da Educação informou que 2.031 entes federativos aderiram voluntariamente à Prova Nacional Docente (PND) em 2026. O número representa uma...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
