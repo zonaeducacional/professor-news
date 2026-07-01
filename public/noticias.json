@@ -1,5 +1,14 @@
 [
   {
+    "id": "1695462 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Nascidos em maio e junho recebem parcela do Pé-de-Meia, nesta quarta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/nascidos-em-maio-e-junho-recebem-parcela-do-pe-de-meia-nesta-quarta",
+    "data": "2026-07-01T14:55:00.000Z",
+    "resumo": "Os estudantes beneficiários do Programa Pé-de-Meia nascidos em maio e junho recebem nesta quarta-feira (1º) a quarta parcela do incentivo frequência.\n...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1695381 at https://agenciabrasil.ebc.com.br",
     "titulo": "Lei que restringe uso de celulares já é adotada por 92% das escolas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/lei-que-restringe-uso-de-celulares-ja-e-adotada-por-92-das-escolas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/censo-escolar-brasil-reduz-reprovacao-abandono-e-atraso-estudantil",
     "data": "2026-06-26T10:35:00.000Z",
     "resumo": "Os números referentes ao desempenho de estudantes que concluíram o ensino médio na rede pública do país apresentaram melhora entre 2022 e 2025. O índi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694768 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Aprendizagem evoluiu de ações emergenciais para políticas formalizadas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/aprendizagem-evoluiu-de-acoes-emergenciais-para-politicas-formalizadas",
-    "data": "2026-06-25T23:36:00.000Z",
-    "resumo": "A agenda nacional pela recomposição das aprendizagens evoluiu de ações emergenciais, como aquelas adotadas para mitigar os impactos da pandemia de Cov...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
