@@ -1,8 +1,17 @@
 [
   {
+    "id": "1695681 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia paga quarta parcela aos nascidos em julho e agosto",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pe-de-meia-paga-quarta-parcela-aos-nascidos-em-julho-e-agosto",
+    "data": "2026-07-02T14:36:00.000Z",
+    "resumo": "Os estudantes beneficiários do programa Pé-de-Meia nascidos em julho e agosto recebem nesta quinta-feira (2) a quarta parcela do incentivo frequência,...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1695663 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Matrículas em creches avançam 11% em quase uma década",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/matriculas-em-creches-avancam-11-em-quase-uma-decada",
+    "titulo": "Matrículas em creches avançam 36% em quase uma década",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/matriculas-em-creches-avancam-36%25-em-quase-uma-decada",
     "data": "2026-07-02T11:28:00.000Z",
     "resumo": "No Brasil, em 2025, 9,4 milhões de crianças de 0 a 5 anos de idade estavam matriculadas em escolas ou creches, de acordo com o módulo Educação da Pesq...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enare-inscricoes-para-residencia-de-acesso-direto-terminam-segunda",
     "data": "2026-06-26T16:16:00.000Z",
     "resumo": "As inscrições para o Exame Nacional de Residência (Enare) 2026/2027 continuam até a segunda-feira (29) para as especialidades com acesso direto à resi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1694830 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: candidatos podem conferir resultado de atendimento especial",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-2026-candidatos-podem-conferir-resultado-de-atendimento-especial",
-    "data": "2026-06-26T15:04:00.000Z",
-    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulgou, nesta sexta-feira (26), o resultado do atendimento especiali...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
