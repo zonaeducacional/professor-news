@@ -1,5 +1,14 @@
 [
   {
+    "id": "1695796 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia: nascidos em setembro e outubro recebem parcela",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pe-de-meia-nascidos-em-setembro-e-outubro-recebem-parcela",
+    "data": "2026-07-03T12:47:00.000Z",
+    "resumo": "Estudantes beneficiários do programa Pé-de-Meia de 2026 nascidos em setembro e outubro recebem nesta sexta-feira (3) a quarta parcela do incentivo fre...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1695796&o=rss",
+    "lido": false
+  },
+  {
     "id": "1695788 at https://agenciabrasil.ebc.com.br",
     "titulo": "PF faz operação contra desvios na Universidade Federal Fluminense",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pf-faz-operacao-contra-desvios-na-universidade-federal-fluminense",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2022-12/governadora-do-ceara-assumira-secretaria-executiva-do-mec-em-janeiro",
     "data": "2022-12-28T00:09:00.000Z",
     "resumo": "Escolhido para assumir o Ministério da Educação a partir de 1º de janeiro, Camilo Santana anunciou hoje (27) que, em sua gestão, a atual governadora d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1499929 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC antecipa prazos de inscrições do Sisu, Prouni e Fies",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2022-12/mec-antecipa-prazos-de-inscricoes-do-sisu-prouni-e-fies",
-    "data": "2022-12-26T17:54:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) antecipou os calendários de inscrições para os primeiros processos seletivos do Sistema de Seleção Unificada (Sisu), do...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
