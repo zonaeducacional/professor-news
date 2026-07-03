@@ -27,15 +27,6 @@
     "lido": false
   },
   {
-    "id": "1695788 at https://agenciabrasil.ebc.com.br",
-    "titulo": "PF faz operação contra desvios na Universidade Federal Fluminense",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pf-faz-operacao-contra-desvios-na-universidade-federal-fluminense",
-    "data": "2026-07-03T10:32:00.000Z",
-    "resumo": "A Polícia Federal cumpriu nessa quinta-feira (2) mandando de busca e apreensão como parte da segunda fase da Operação Quadro Negro. A finalidade é ide...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1695788&o=rss",
-    "lido": false
-  },
-  {
     "id": "1695729 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para Prova Nacional Docente terminam nesta sexta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-prova-nacional-docente-terminam-nesta-sexta-feira",
@@ -86,6 +77,15 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2022-12/inep-disponibiliza-painel-de-estatisticas-da-educacao-superior",
     "data": "2022-12-28T13:55:00.000Z",
     "resumo": "A consulta as principais estatísticas e aos indicadores do Censo da Educação Superior já pode ser feita por meio do Painel de BI (Business Intelligenc...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1500111 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Novo governo terá como desafio recompor orçamento da educação",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2022-12/novo-governo-tera-como-desafio-recompor-orcamento-da-educacao",
+    "data": "2022-12-28T10:33:00.000Z",
+    "resumo": "A recomposição orçamentária da educação e a garantia da execução de estratégias consideradas fundamentais como o Programa Nacional do Livro Didático (...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
