@@ -1,5 +1,14 @@
 [
   {
+    "id": "1695983 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: inscrição gratuita para o 2º semestre começa nesta terça",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-inscricao-gratuita-para-o-2o-semestre-comeca-nesta-terca",
+    "data": "2026-07-06T14:07:00.000Z",
+    "resumo": "As inscrições gratuitas para o processo seletivo do Programa Universidade para Todos (Prouni) do segundo semestre começam nesta terça-feira (7) e irão...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1695969 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia 2026: nascidos em novembro e dezembro recebem 4ª parcela",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pe-de-meia-2026-nascidos-em-novembro-e-dezembro-recebem-4a-parcela",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/matriculas-em-creches-avancam-36%25-em-quase-uma-decada",
     "data": "2026-07-02T11:28:00.000Z",
     "resumo": "No Brasil, em 2025, 9,4 milhões de crianças de 0 a 5 anos de idade estavam matriculadas em escolas ou creches, de acordo com o módulo Educação da Pesq...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1695462 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Nascidos em maio e junho recebem parcela do Pé-de-Meia, nesta quarta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/nascidos-em-maio-e-junho-recebem-parcela-do-pe-de-meia-nesta-quarta",
-    "data": "2026-07-01T14:55:00.000Z",
-    "resumo": "Os estudantes beneficiários do Programa Pé-de-Meia nascidos em maio e junho recebem nesta quarta-feira (1º) a quarta parcela do incentivo frequência.\n...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
