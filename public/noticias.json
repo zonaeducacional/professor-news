@@ -1,5 +1,14 @@
 [
   {
+    "id": "1696065 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inscrições para Prouni 2026 do 2º semestre estão abertas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-prouni-2026-do-2o-semestre-estao-abertas",
+    "data": "2026-07-07T14:01:00.000Z",
+    "resumo": "Os interessados em uma bolsa de estudos pelo Programa Universidade para Todos (Prouni) já podem se inscrever no processo seletivo do segundo semestre....",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1696007 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enare: inscrição para residência médica com pré-requisito segue até 4ª",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enare-inscricao-para-residencia-medica-com-pre-requisito-segue-ate-4a",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-prova-nacional-docente-terminam-nesta-sexta-feira",
     "data": "2026-07-02T16:44:00.000Z",
     "resumo": "Os interessados em se inscrever na Prova Nacional Docente (PND) de 2026 devem ficar atentos ao prazo final: às 23h59, desta sexta-feira (3).\nO process...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1695709 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: inscrições para o 2º semestre serão de 14 a 17 de julho",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/fies-2026-inscricoes-para-segundo-semestre-serao-de-14-17-de-julho",
-    "data": "2026-07-02T15:31:00.000Z",
-    "resumo": "As inscrições gratuitas para o processo seletivo do Fundo de Financiamento Estudantil (Fies) do segundo semestre de 2026 estarão abertas entre os dias...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
