@@ -1,5 +1,14 @@
 [
   {
+    "id": "1696300 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Perder fôlego ao subir escada pode ser sinal de insuficiência cardíaca",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/perder-folego-ao-subir-escada-pode-ser-sinal-de-insuficiencia-cardiaca",
+    "data": "2026-07-09T13:12:00.000Z",
+    "resumo": "Perder o fôlego ao subir uma escada pode não ser apenas falta de condicionamento físico. Nesta quinta-feira (09), a Sociedade Brasileira de Cardiologi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1696232 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições de gestores para formação em tempo integral vão até dia 16",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-de-gestores-para-formacao-em-tempo-integral-vao-ate-dia-16",
@@ -78,15 +87,6 @@
     "data": "2026-07-03T16:45:00.000Z",
     "resumo": "Os candidatos do Exame Nacional do Ensino Médio (Enem) de 2026 que tiveram reprovada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísi...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1695830 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026 tem mais de 5 milhões de inscritos",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enem-2026-tem-mais-de-5-milhoes-de-inscritos",
-    "data": "2026-07-03T15:35:00.000Z",
-    "resumo": "O Exame Nacional do Ensino Médio de 2026 tem 5.055.818 inscritos confirmados, de acordo com o balanço preliminar divulgado pelo Ministério da Educação...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1695830&o=rss",
     "lido": false
   }
 ]
