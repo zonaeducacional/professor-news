@@ -1,11 +1,20 @@
 [
   {
-    "id": "1696300 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Perder fôlego ao subir escada pode ser sinal de insuficiência cardíaca",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/perder-folego-ao-subir-escada-pode-ser-sinal-de-insuficiencia-cardiaca",
-    "data": "2026-07-09T13:12:00.000Z",
-    "resumo": "Perder o fôlego ao subir uma escada pode não ser apenas falta de condicionamento físico. Nesta quinta-feira (09), a Sociedade Brasileira de Cardiologi...",
+    "id": "1696319 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: inscrição gratuita para o 2º semestre termina nesta sexta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-inscricao-gratuita-para-o-2o-semestre-termina-nesta-sexta",
+    "data": "2026-07-09T15:49:00.000Z",
+    "resumo": "As inscrições gratuitas para o processo seletivo do Programa Universidade para Todos (Prouni) do segundo semestre terminam às 23h59 desta sexta-feira ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1696314 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: prazo de inscrição termina nesta sexta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-prazo-de-inscricao-termina-nesta-sexta-feira",
+    "data": "2026-07-09T15:00:00.000Z",
+    "resumo": "O prazo para as inscrições para a Prova Nacional Docente (PND) 2026 terminará às 23h59, desta sexta-feira (10).\nO processo de inscrição deve ser feito...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1696314&o=rss",
     "lido": false
   },
   {
@@ -78,15 +87,6 @@
     "data": "2026-07-03T20:58:00.000Z",
     "resumo": "Quase 40 anos depois de entrar no ar com um transmissor que cabia em uma caixa de sapatos, a Universidade Federal do Rio de Janeiro (UFRJ) inaugurou n...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1695881&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1695835 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: recurso de atendimento especializado deve ser feito até hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enem-recurso-de-atendimento-especializado-deve-ser-feito-ate-hoje",
-    "data": "2026-07-03T16:45:00.000Z",
-    "resumo": "Os candidatos do Exame Nacional do Ensino Médio (Enem) de 2026 que tiveram reprovada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
