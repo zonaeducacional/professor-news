@@ -1,5 +1,14 @@
 [
   {
+    "id": "1696397 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026 tem último dia de inscrição nesta sexta-feira ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-tem-ultimo-dia-para-inscricao-nesta-sexta-feira",
+    "data": "2026-07-10T14:25:00.000Z",
+    "resumo": "A segunda edição da Prova Nacional Docente - PND 2026 - tem inscrições abertas até às 23h59 desta sexta-feira (10). O prazo, que terminaria no último ...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1696397&o=rss",
+    "lido": false
+  },
+  {
     "id": "1696386 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni 2026: último dia de inscrição para o 2º semestre é hoje",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-ultimo-dia-de-inscricao-para-o-2o-semestre-e-hoje",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-prazo-de-inscricao-e-prorrogado-ate-sexta-feira",
     "data": "2026-07-06T16:29:00.000Z",
     "resumo": "As inscrições para a Prova Nacional Docente (PND) 2026 terminam às 23h59 desta sexta-feira (10), após o prazo ser prorrogado na última sexta (3), no h...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1695983 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: inscrição gratuita para o 2º semestre começa nesta terça",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-inscricao-gratuita-para-o-2o-semestre-comeca-nesta-terca",
-    "data": "2026-07-06T14:07:00.000Z",
-    "resumo": "As inscrições gratuitas para o processo seletivo do Programa Universidade para Todos (Prouni) do segundo semestre começam nesta terça-feira (7) e irão...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
