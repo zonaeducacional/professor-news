@@ -1,5 +1,14 @@
 [
   {
+    "id": "1696566 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inscrições para o Fies do segundo semestre começam na terça-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-o-fies-do-segundo-semestre-comecam-na-terca-feira",
+    "data": "2026-07-13T15:08:00.000Z",
+    "resumo": "Começam nesta terça-feira (14) as inscrições para o processo seletivo do Fundo de Financiamento Estudantil (Fies) do segundo semestre de 2026. Os inte...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1696529 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni recebe inscrições até este domingo para o 2º semestre de 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-inscricoes-ate-este-domingo-para-o-2o-semestre-de-2026",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enamed-reaberto-prazo-de-recurso-de-atendimento-especializado",
     "data": "2026-07-09T17:16:00.000Z",
     "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) reabriu o prazo para que os candidatos do Exame Nacional de Avaliação ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1696319 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: inscrição gratuita para o 2º semestre termina nesta sexta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-inscricao-gratuita-para-o-2o-semestre-termina-nesta-sexta",
-    "data": "2026-07-09T15:49:00.000Z",
-    "resumo": "As inscrições gratuitas para o processo seletivo do Programa Universidade para Todos (Prouni) do segundo semestre terminam às 23h59 desta sexta-feira ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
