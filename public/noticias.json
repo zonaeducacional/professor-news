@@ -1,5 +1,23 @@
 [
   {
+    "id": "1696615 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies: inscrições para edição do segundo semestre vão até 17 de julho",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/fies-inscricoes-para-edicao-do-segundo-semestre-vao-ate-17-de-julho",
+    "data": "2026-07-14T10:07:00.000Z",
+    "resumo": "Estudantes interessados em participar do processo seletivo ao Fundo de Financiamento Estudantil do segundo semestre de 2026 tem até o dia 17 de julho ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1696588 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Taxa da Prova Nacional Docente (PND) deve ser paga nesta terça-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/taxa-da-prova-nacional-docente-pnd-deve-ser-paga-nesta-terca-feira",
+    "data": "2026-07-14T09:49:00.000Z",
+    "resumo": "Termina nesta terça-feira (14) o prazo para o pagamento da inscrição para a Prova Nacional Docente (PND) 2026. O valor da taxa é R$ 85.\nO pagamento da...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1696566 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para o Fies do segundo semestre começam na terça-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-o-fies-do-segundo-semestre-comecam-na-terca-feira",
@@ -69,24 +87,6 @@
     "data": "2026-07-10T14:25:00.000Z",
     "resumo": "A segunda edição da Prova Nacional Docente - PND 2026 - tem inscrições abertas até às 23h59 desta sexta-feira (10). O prazo, que terminaria no último ...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1696397&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1696386 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026: último dia de inscrição para o 2º semestre é hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-2026-ultimo-dia-de-inscricao-para-o-2o-semestre-e-hoje",
-    "data": "2026-07-10T12:47:00.000Z",
-    "resumo": "O estudante que quer uma bolsa de estudo para cursar graduação em faculdade privada deve ficar atento ao prazo final das inscrições gratuitas para o p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1696331 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enamed: reaberto prazo de recurso de atendimento especializado",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enamed-reaberto-prazo-de-recurso-de-atendimento-especializado",
-    "data": "2026-07-09T17:16:00.000Z",
-    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) reabriu o prazo para que os candidatos do Exame Nacional de Avaliação ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
