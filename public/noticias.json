@@ -1,5 +1,14 @@
 [
   {
+    "id": "1696791 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Educação financeira pode ser incluída no currículo escolar",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/educacao-financeira-pode-ser-incluida-no-curriculo-escolar",
+    "data": "2026-07-16T00:57:00.000Z",
+    "resumo": "A inclusão da educação financeira como tema no currículo dos ensinos fundamental e médio foi aprovada nesta quarta-feira (15), no plenário do Senado F...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1696755 at https://agenciabrasil.ebc.com.br",
     "titulo": "Votação do Estatuto do Aprendiz é adiada após pedidos de vista na CAS",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/votacao-do-estatuto-do-aprendiz-e-adiada-apos-pedidos-de-vista-na-cas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-inscricoes-ate-este-domingo-para-o-2o-semestre-de-2026",
     "data": "2026-07-12T14:02:00.000Z",
     "resumo": "As inscrições para o processo seletivo do Programa Universidade para Todos (Prouni) do segundo semestre terminam às 23h59 deste domingo (12), no horár...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1696262 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Afogamentos estão entre principais causas de mortes de crianças",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/afogamentos-estao-entre-principais-causas-de-mortes-de-criancas",
-    "data": "2026-07-12T13:00:00.000Z",
-    "resumo": "Afogamentos estão entre as principais causas de morte de crianças no Brasil, segundo alerta da Sociedade Brasileira de Salvamento Aquático (Sobrasa), ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
