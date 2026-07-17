@@ -1,5 +1,14 @@
 [
   {
+    "id": "1696838 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inscrições para edição do segundo semestre do Fies 2026 terminam hoje",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-edicao-do-segundo-semestre-do-fies-2026-terminam-hoje",
+    "data": "2026-07-17T10:08:00.000Z",
+    "resumo": "Termina nesta quinta-feira (17) o prazo para inscrição no processo seletivo do Fundo de Financiamento Estudantil (Fies) do segundo semestre de 2026. O...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1696800 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrições para Fies terminam nesta sexta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-fies-terminam-nesta-sexta-feira",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/taxa-da-prova-nacional-docente-pnd-deve-ser-paga-nesta-terca-feira",
     "data": "2026-07-14T09:49:00.000Z",
     "resumo": "Termina nesta terça-feira (14) o prazo para o pagamento da inscrição para a Prova Nacional Docente (PND) 2026. O valor da taxa é R$ 85.\nO pagamento da...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1696566 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para o Fies do segundo semestre começam na terça-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-o-fies-do-segundo-semestre-comecam-na-terca-feira",
-    "data": "2026-07-13T15:08:00.000Z",
-    "resumo": "Começam nesta terça-feira (14) as inscrições para o processo seletivo do Fundo de Financiamento Estudantil (Fies) do segundo semestre de 2026. Os inte...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
