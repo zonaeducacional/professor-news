@@ -1,5 +1,14 @@
 [
   {
+    "id": "1697167 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: divulgado resultado de recursos de atendimento especializado",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-divulgado-resultado-de-recursos-de-atendimento-especializado",
+    "data": "2026-07-21T17:01:00.000Z",
+    "resumo": "Os participantes da Prova Nacional Docente (PND) de 2026 que entraram com recurso contra o resultado da solicitação de atendimento especializado já po...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1697096 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni recebe 529,7 mil inscrições para o segundo semestre de 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-5297-mil-inscricoes-para-o-segundo-semestre-de-2026",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enare-inscricao-para-residencia-com-pre-requisito-termina-hoje",
     "data": "2026-07-15T13:25:00.000Z",
     "resumo": "Os interessados em participar do Exame Nacional de Residência (Enare) 2026/2027 para programas com exigência de pré-requisito têm até as 23h59 desta q...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1696637 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Mais de 54% dos graduandos já abandonaram curso para cuidar dos filhos",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/mais-de-54-dos-graduandos-ja-abandonaram-curso-para-cuidar-dos-filhos",
-    "data": "2026-07-14T14:56:00.000Z",
-    "resumo": "Mais da metade (54,4%) das alunas e dos alunos de graduação já teve que trancar a matrícula ou mesmo desistir dos estudos para dar conta de cuidados c...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
