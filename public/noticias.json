@@ -1,5 +1,14 @@
 [
   {
+    "id": "1697243 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prazo do Diagnóstico de Equidade do MEC termina nesta quarta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prazo-do-diagnostico-de-equidade-do-mec-termina-nesta-quarta-feira",
+    "data": "2026-07-22T17:20:00.000Z",
+    "resumo": "O prazo para que as redes estaduais e municipais de ensino participem do Diagnóstico Equidade 2026 termina nesta quarta-feira (22), após ser prorrogad...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1697167 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026: divulgado resultado de recursos de atendimento especializado",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/pnd-2026-divulgado-resultado-de-recursos-de-atendimento-especializado",
@@ -78,15 +87,6 @@
     "data": "2026-07-15T15:46:00.000Z",
     "resumo": "O resultado da primeira chamada do Programa Universidade para Todos (Prouni) do segundo semestre de 2026 foi divulgado nesta quarta-feira (15). Os can...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1696740&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1696729 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enare: inscrição para residência com pré-requisito termina hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enare-inscricao-para-residencia-com-pre-requisito-termina-hoje",
-    "data": "2026-07-15T13:25:00.000Z",
-    "resumo": "Os interessados em participar do Exame Nacional de Residência (Enare) 2026/2027 para programas com exigência de pré-requisito têm até as 23h59 desta q...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
