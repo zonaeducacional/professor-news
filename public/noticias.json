@@ -1,5 +1,14 @@
 [
   {
+    "id": "1697684 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Coleta de dados do Censo Escolar se encerra na sexta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/coleta-de-dados-do-censo-escolar-se-encerra-na-sexta-feira",
+    "data": "2026-07-27T14:44:00.000Z",
+    "resumo": "O período de coleta de dados da primeira etapa do Censo Escolar da Educação Básica 2026 termina nesta sexta-feira (31).\nNesta fase, as escolas deverão...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1697669 at https://agenciabrasil.ebc.com.br",
     "titulo": "Celpe-Bras: inscrição para 2ª edição do exame começa nesta segunda",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/celpe-bras-inscricao-para-2a-edicao-do-exame-comeca-nesta-segunda",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/redes-de-educacao-devem-enviar-dados-de-equidade-ao-mec-ate-quarta",
     "data": "2026-07-19T17:03:00.000Z",
     "resumo": "Termina na próxima quarta-feira (22), o prazo para que as redes estaduais e municipais de ensino enviem as informações do Diagnóstico Equidade 2026, c...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1696838 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para edição do segundo semestre do Fies 2026 terminam hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-edicao-do-segundo-semestre-do-fies-2026-terminam-hoje",
-    "data": "2026-07-17T10:08:00.000Z",
-    "resumo": "Termina nesta sexta-feira (17) o prazo para inscrição no processo seletivo do Fundo de Financiamento Estudantil (Fies) do segundo semestre de 2026. Os...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
