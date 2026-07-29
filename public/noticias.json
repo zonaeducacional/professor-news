@@ -1,5 +1,14 @@
 [
   {
+    "id": "1698010 at https://agenciabrasil.ebc.com.br",
+    "titulo": "UFF recebe maior feira científica da América Latina nesta semana",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/uff-recebe-maior-feira-cientitica-da-america-latina-nesta-semana",
+    "data": "2026-07-29T17:21:00.000Z",
+    "resumo": "Universidades, instituições de ensino e pesquisa, agências de fomento, museus e empresas privadas estão entre os 67 expositores que levaram estandes a...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1697956 at https://agenciabrasil.ebc.com.br",
     "titulo": "Universidades têm até sábado para pedir implantação de Cuidoteca ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/universidades-tem-ate-sabado-para-pedir-implantacao-de-cuidoteca",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-5297-mil-inscricoes-para-o-segundo-semestre-de-2026",
     "data": "2026-07-21T10:50:00.000Z",
     "resumo": "O Programa Universidade para Todos (Prouni) recebeu 529.786 inscrições para as vagas do segundo semestre de 2026, segundo balanço divulgado pelo Minis...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1697090 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni 2026/2: prazo para confirmar informações termina na sexta ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-20262-prazo-para-confirmar-informacoes-termina-na-sexta",
-    "data": "2026-07-20T17:37:00.000Z",
-    "resumo": "Os candidatos pré-selecionados na primeira chamada do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 devem, até sexta-feira...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
