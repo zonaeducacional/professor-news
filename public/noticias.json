@@ -1,5 +1,14 @@
 [
   {
+    "id": "1697956 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Universidades tem até sábado para pedir implantação de Cuidoteca ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/universidades-tem-ate-sabado-para-pedir-implantacao-de-cuidoteca",
+    "data": "2026-07-29T10:10:00.000Z",
+    "resumo": "Universidades federais têm até sábado (1º/8) para pedir a implantação de cuidotecas nos campi. A finalidade da candidatura é poder oferecer acolhiment...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1697956&o=rss",
+    "lido": false
+  },
+  {
     "id": "1697684 at https://agenciabrasil.ebc.com.br",
     "titulo": "Coleta de dados do Censo Escolar se encerra na sexta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/coleta-de-dados-do-censo-escolar-se-encerra-na-sexta-feira",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-20262-prazo-para-confirmar-informacoes-termina-na-sexta",
     "data": "2026-07-20T17:37:00.000Z",
     "resumo": "Os candidatos pré-selecionados na primeira chamada do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 devem, até sexta-feira...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1696964 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Redes de educação devem enviar dados sobre equidade ao MEC até quarta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/redes-de-educacao-devem-enviar-dados-de-equidade-ao-mec-ate-quarta",
-    "data": "2026-07-19T17:03:00.000Z",
-    "resumo": "Termina na próxima quarta-feira (22), o prazo para que as redes estaduais e municipais de ensino enviem as informações do Diagnóstico Equidade 2026, c...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
