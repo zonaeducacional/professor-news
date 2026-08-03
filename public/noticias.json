@@ -1,5 +1,14 @@
 [
   {
+    "id": "1698435 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Celpe-Bras: inscrições para segunda edição estão abertas até dia 6",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/celpe-bras-inscricoes-para-segunda-edicao-estao-abertas-ate-dia-6",
+    "data": "2026-08-03T15:26:00.000Z",
+    "resumo": "As inscrições para a segunda edição de 2026 do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) vão até as 23h59 da pró...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1698404 at https://agenciabrasil.ebc.com.br",
     "titulo": "Encceja 2026: alunos já podem consultar cartilha de redação",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/encceja-2026-alunos-ja-podem-consultar-cartilha-de-redacao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-olimpiada-de-eficiencia-energetica-estao-abertas",
     "data": "2026-07-29T20:34:00.000Z",
     "resumo": "As inscrições para a 5ª edição da Olimpíada Nacional de Eficiência Energética (ONEE) 2026 estão abertas até 15 de setembro.\nPodem participar alunos do...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698010 at https://agenciabrasil.ebc.com.br",
-    "titulo": "UFF recebe maior feira científica da América Latina nesta semana",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/uff-recebe-maior-feira-cientitica-da-america-latina-nesta-semana",
-    "data": "2026-07-29T17:21:00.000Z",
-    "resumo": "Universidades, instituições de ensino e pesquisa, agências de fomento, museus e empresas privadas estão entre os 67 expositores que levaram estandes a...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
