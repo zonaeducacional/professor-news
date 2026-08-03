@@ -1,5 +1,14 @@
 [
   {
+    "id": "1698445 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026: estudantes devem completar informações até esta terça",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/fies-2026-estudantes-devem-completar-informacoes-ate-esta-terca",
+    "data": "2026-08-03T16:38:00.000Z",
+    "resumo": "Os pré-selecionados ao Fundo de Financiamento Estudantil (Fies) para o segundo semestre tem até as 23 horas e 59 minutos desta terça-feira (4) para co...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1698435 at https://agenciabrasil.ebc.com.br",
     "titulo": "Celpe-Bras: inscrições para segunda edição estão abertas até dia 6",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/celpe-bras-inscricoes-para-segunda-edicao-estao-abertas-ate-dia-6",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/confira-lista-de-pre-selecionados-para-o-fies-do-2o-semestre",
     "data": "2026-07-31T00:16:00.000Z",
     "resumo": "O Ministério da Educação divulgou nesta quinta-feira (30) a lista de candidatos pré-selecionados na chamada única do Fundo de Financiamento Estudantil...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698030 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para Olimpíada de Eficiência Energética estão abertas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-olimpiada-de-eficiencia-energetica-estao-abertas",
-    "data": "2026-07-29T20:34:00.000Z",
-    "resumo": "As inscrições para a 5ª edição da Olimpíada Nacional de Eficiência Energética (ONEE) 2026 estão abertas até 15 de setembro.\nPodem participar alunos do...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
