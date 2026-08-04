@@ -1,5 +1,14 @@
 [
   {
+    "id": "1698563 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Impacto das telas na saúde mental já é debatido em 80% das escolas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/impacto-das-telas-na-saude-mental-ja-e-debatido-em-80-das-escolas",
+    "data": "2026-08-04T15:23:00.000Z",
+    "resumo": "O debate sobre os impactos das tecnologias digitais na saúde mental dos estudantes já faz parte da agenda de oito em cada dez escolas brasileiras. A p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1698445 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies 2026: estudantes devem completar informações até esta terça",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/fies-2026-estudantes-devem-completar-informacoes-ate-esta-terca",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/censo-escolar-2026-coleta-de-dados-da-1a-etapa-termina-nesta-sexta",
     "data": "2026-07-31T10:01:00.000Z",
     "resumo": "As escolas devem coletar os dados da primeira etapa do Censo Escolar da Educação Básica 2026 até esta sexta-feira (31). Nesta etapa, são informados os...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698163 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Confira a lista de pré-selecionados para o Fies do 2º semestre",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/confira-lista-de-pre-selecionados-para-o-fies-do-2o-semestre",
-    "data": "2026-07-31T00:16:00.000Z",
-    "resumo": "O Ministério da Educação divulgou nesta quinta-feira (30) a lista de candidatos pré-selecionados na chamada única do Fundo de Financiamento Estudantil...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
