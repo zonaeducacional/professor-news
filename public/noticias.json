@@ -1,5 +1,23 @@
 [
   {
+    "id": "1698680 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: divulgado resultado de nova chamada para o 2º semestre",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-divulgado-resultado-de-nova-chamada-para-o-2o-semestre",
+    "data": "2026-08-05T12:43:00.000Z",
+    "resumo": "Estudantes que participam do processo seletivo do Programa Universidade para Todos (Prouni), referente ao segundo semestre de 2026, já podem conferir ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1698679 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inscrições para exame de proficiência em português terminam quinta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/inscricoes-para-exame-de-proficiencia-em-portugues-terminam-quinta",
+    "data": "2026-08-05T12:15:00.000Z",
+    "resumo": "As inscrições para a segunda edição de 2026 do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) seguem abertas até as 2...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1698563 at https://agenciabrasil.ebc.com.br",
     "titulo": "Impacto das telas na saúde mental já é debatido em 80% das escolas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/impacto-das-telas-na-saude-mental-ja-e-debatido-em-80-das-escolas",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/fies-pre-selecionados-tem-ate-terca-para-complementar-informacoes",
     "data": "2026-07-31T14:56:00.000Z",
     "resumo": "Os pré-selecionados no processo seletivo do Fundo de Financiamento Estudantil (Fies) para o segundo semestre devem complementar as informações de suas...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698161 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Universidades federais têm até sábado para pedir cuidotecas ao MEC",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/universidades-federais-tem-ate-sabado-para-pedir-cuidotecas-ao-mec",
-    "data": "2026-07-31T12:30:00.000Z",
-    "resumo": "O prazo para as universidades federais se candidatarem à implantação de cuidotecas em seus campus termina neste sábado (1º). O espaço oferecerá acolhi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698158 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Censo Escolar 2026: coleta de dados da 1ª etapa termina nesta sexta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/censo-escolar-2026-coleta-de-dados-da-1a-etapa-termina-nesta-sexta",
-    "data": "2026-07-31T10:01:00.000Z",
-    "resumo": "As escolas devem coletar os dados da primeira etapa do Censo Escolar da Educação Básica 2026 até esta sexta-feira (31). Nesta etapa, são informados os...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
