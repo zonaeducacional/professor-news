@@ -1,5 +1,14 @@
 [
   {
+    "id": "1698915 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni abre prazo para comprovar informações da inscrição",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-abre-prazo-para-comprovar-informacoes-da-inscricao",
+    "data": "2026-08-06T15:37:00.000Z",
+    "resumo": "Está aberto o prazo para que os estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni) referente ao segundo semes...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1698901 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enade: prazo de recurso para atendimento especial termina nesta sexta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-prazo-de-recurso-para-atendimento-especial-termina-nesta-sexta",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/estudantes-de-todo-o-pais-participam-da-jornada-de-foguetes-2026",
     "data": "2026-08-02T16:03:00.000Z",
     "resumo": "Começa nesta segunda-feira (3), no Hotel Fazenda Ribeirão, em Barra do Piraí, no Rio de Janeiro, a Jornada de Foguetes 2026, que reúne equipes dos alu...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698279 at https://agenciabrasil.ebc.com.br",
-    "titulo": "SBPC promove Dia da Família na Ciência neste sábado",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/SBPC-promove-dia-da-familia-na-ciencia-neste-sabado",
-    "data": "2026-07-31T19:35:00.000Z",
-    "resumo": "O último dia da 78ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (SBPC), neste sábado (1º), será dedicado ao Dia da Família na Ci...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
