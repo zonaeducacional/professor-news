@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699048 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior",
+    "data": "2026-08-09T13:45:00.000Z",
+    "resumo": "Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência ac...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699070 at https://agenciabrasil.ebc.com.br",
     "titulo": "Candidatos do Encceja 2026 podem consultar o cartão de inscrição",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/impacto-das-telas-na-saude-mental-ja-e-debatido-em-80-das-escolas",
     "data": "2026-08-04T15:23:00.000Z",
     "resumo": "O debate sobre os impactos das tecnologias digitais na saúde mental dos estudantes já faz parte da agenda de oito em cada dez escolas brasileiras. A p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698445 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: estudantes devem completar informações até esta terça",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/fies-2026-estudantes-devem-completar-informacoes-ate-esta-terca",
-    "data": "2026-08-03T16:38:00.000Z",
-    "resumo": "Os pré-selecionados ao Fundo de Financiamento Estudantil (Fies) para o segundo semestre tem até as 23 horas e 59 minutos desta terça-feira (4) para co...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
