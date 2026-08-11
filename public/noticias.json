@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699362 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudante cria jogo para apresentar funções do Ministério Público",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-cria-jogo-para-apresentar-funcoes-do-ministerio-publico",
+    "data": "2026-08-11T20:23:00.000Z",
+    "resumo": "Em meio a grandes marcas de tecnologia e inovação, a ideia de um universitário de 19 anos movimentou o estande do Ministério Público do Estado do Rio ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699262 at https://agenciabrasil.ebc.com.br",
     "titulo": "Consulta pública sobre educação a distância vai até sexta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/consulta-publica-sobre-educacao-distancia-vai-ate-sexta-feira",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-prazo-de-recurso-para-atendimento-especial-termina-nesta-sexta",
     "data": "2026-08-06T14:32:00.000Z",
     "resumo": "Os participantes inscritos no Exame Nacional de Desempenho dos Estudantes (Enade) 2026 para cursos de bacharelado e tecnologia que tiveram negado o pe...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698841 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Ideb mostra avanço da educação básica no país",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/ideb-mostra-avanco-da-educacao-basica-no-pais",
-    "data": "2026-08-06T00:40:00.000Z",
-    "resumo": "O Índice de Desenvolvimento da Educação Básica (Ideb) 2025 registrou a maior evolução acumulada em 20 anos. As três etapas do ensino avaliadas (anos i...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
