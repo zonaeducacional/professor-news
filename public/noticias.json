@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699557 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni 2026: prazo para comprovar inscrição termina nesta sexta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-prazo-para-comprovar-inscricao-termina-nesta-sexta",
+    "data": "2026-08-13T15:35:00.000Z",
+    "resumo": "Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem comprovar...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699362 at https://agenciabrasil.ebc.com.br",
     "titulo": "Estudante cria jogo para apresentar funções do Ministério Público",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-cria-jogo-para-apresentar-funcoes-do-ministerio-publico",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-abre-prazo-para-comprovar-informacoes-da-inscricao",
     "data": "2026-08-06T15:37:00.000Z",
     "resumo": "Está aberto o prazo para que os estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni) referente ao segundo semes...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698901 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enade: prazo de recurso para atendimento especial termina nesta sexta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-prazo-de-recurso-para-atendimento-especial-termina-nesta-sexta",
-    "data": "2026-08-06T14:32:00.000Z",
-    "resumo": "Os participantes inscritos no Exame Nacional de Desempenho dos Estudantes (Enade) 2026 para cursos de bacharelado e tecnologia que tiveram negado o pe...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
