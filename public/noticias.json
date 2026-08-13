@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699605 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Publicadas novas regras para atividades de residência médica ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/publicadas-novas-regras-para-atividades-de-residencia-medica",
+    "data": "2026-08-13T21:02:00.000Z",
+    "resumo": "Os residentes em área profissional da saúde passam a ter segurança jurídica para participar de programas de pós-graduação lato sensu, mestrados, douto...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699557 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni: prazo para confirmar dados de inscrição termina nesta sexta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-prazo-para-comprovar-inscricao-termina-nesta-sexta",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/fies-comeca-convocar-nesta-sexta-estudantes-em-lista-de-espera",
     "data": "2026-08-07T15:29:00.000Z",
     "resumo": "A convocação de estudantes que estão na lista de espera do processo seletivo do Fundo de Financiamento Estudantil (Fies) começa a ser divulgada nesta ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1698915 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni abre prazo para comprovar informações da inscrição",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-abre-prazo-para-comprovar-informacoes-da-inscricao",
-    "data": "2026-08-06T15:37:00.000Z",
-    "resumo": "Está aberto o prazo para que os estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni) referente ao segundo semes...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
