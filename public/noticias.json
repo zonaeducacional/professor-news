@@ -1,7 +1,16 @@
 [
   {
+    "id": "1699648 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudante deve comprovar até hoje informações de inscrição no Prouni ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-deve-comprovar-ate-hoje-informacoes-de-inscricao-no-prouni",
+    "data": "2026-08-14T13:25:00.000Z",
+    "resumo": "Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem ficar ate...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699634 at https://agenciabrasil.ebc.com.br",
-    "titulo": "UFRJ revoga titulo de Doutor Honoris Causa de embaixador amerericano",
+    "titulo": "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/ufrj-revoga-titulo-de-doutor-honoris-causa-de-embaixador-amerericano",
     "data": "2026-08-14T10:32:00.000Z",
     "resumo": "O Conselho Universitário da Universidade Federal do Rio de Janeiro (UFRJ) aprovou, nessa quinta-feira, (13), a revogação do título de Doutor Honoris C...",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao",
     "data": "2026-08-07T18:57:00.000Z",
     "resumo": "Os candidatos do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podem consultar o local onde farão a prova, no...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699066 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Saeb 2025: Brasil recupera nível pré-pandemia, mas ainda tem gargalos",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/saeb-2025-brasil-recupera-nivel-pre-pandemia-mas-ainda-tem-gargalos",
-    "data": "2026-08-07T18:20:00.000Z",
-    "resumo": "Os resultados nas avaliações do Sistema de Avaliação da Educação Básica (Saeb) 2025, divulgados nesta quarta-feira (5) pelo Ministério da Educação (ME...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
