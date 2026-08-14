@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699634 at https://agenciabrasil.ebc.com.br",
+    "titulo": "UFRJ revoga titulo de Doutor Honoris Causa de embaixador amerericano",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/ufrj-revoga-titulo-de-doutor-honoris-causa-de-embaixador-amerericano",
+    "data": "2026-08-14T10:32:00.000Z",
+    "resumo": "O Conselho Universitário da Universidade Federal do Rio de Janeiro (UFRJ) aprovou, nessa quinta-feira, (13), a revogação do título de Doutor Honoris C...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699605 at https://agenciabrasil.ebc.com.br",
     "titulo": "Publicadas novas regras para atividades de residência médica ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/publicadas-novas-regras-para-atividades-de-residencia-medica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/saeb-2025-brasil-recupera-nivel-pre-pandemia-mas-ainda-tem-gargalos",
     "data": "2026-08-07T18:20:00.000Z",
     "resumo": "Os resultados nas avaliações do Sistema de Avaliação da Educação Básica (Saeb) 2025, divulgados nesta quarta-feira (5) pelo Ministério da Educação (ME...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699031 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies começa a convocar nesta sexta estudantes em lista de espera",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/fies-comeca-convocar-nesta-sexta-estudantes-em-lista-de-espera",
-    "data": "2026-08-07T15:29:00.000Z",
-    "resumo": "A convocação de estudantes que estão na lista de espera do processo seletivo do Fundo de Financiamento Estudantil (Fies) começa a ser divulgada nesta ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
