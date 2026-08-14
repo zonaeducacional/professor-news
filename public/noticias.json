@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699651 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enade divulga resultado de recurso sobre atendimento especializado",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado",
+    "data": "2026-08-14T14:07:00.000Z",
+    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulga nesta sexta-feira (14) o resultado final dos recursos contra o...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699648 at https://agenciabrasil.ebc.com.br",
     "titulo": "Estudante deve comprovar até hoje informações de inscrição no Prouni ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-deve-comprovar-ate-hoje-informacoes-de-inscricao-no-prouni",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior",
     "data": "2026-08-09T13:45:00.000Z",
     "resumo": "Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência ac...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699070 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Candidatos do Encceja 2026 podem consultar o cartão de inscrição",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao",
-    "data": "2026-08-07T18:57:00.000Z",
-    "resumo": "Os candidatos do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podem consultar o local onde farão a prova, no...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
