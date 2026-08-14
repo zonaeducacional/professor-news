@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699695 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Na era da IA, inclusão digital deve ser crítica, defende educadora",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora",
+    "data": "2026-08-14T18:09:00.000Z",
+    "resumo": "O crescente uso de tecnologias como a internet, com destaque para a inteligência artificial (IA), deve ser acompanhado de pensamento crítico e não ape...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699651 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enade divulga resultado de recurso sobre atendimento especializado",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-pre-selecionado-deve-comprovar-informacao-ate-sexta-feira",
     "data": "2026-08-10T14:47:00.000Z",
     "resumo": "O prazo para que os estudantes pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), referente ao segundo semestre de 2026...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699048 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Jovens negros do Rio e da Bahia recebem bolsa para estudar no exterior",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior",
-    "data": "2026-08-09T13:45:00.000Z",
-    "resumo": "Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência ac...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
