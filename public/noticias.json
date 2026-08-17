@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699895 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Palacete Imperial acumula denúncias de abandono no centro do Rio ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/palacete-imperial-acumula-denuncias-de-abandono-no-centro-do-rio",
+    "data": "2026-08-17T18:45:00.000Z",
+    "resumo": "Quem circula pelo centro do Rio de Janeiro, perto da região do Campo de Santana, pode observar um prédio centenário da cidade em completo estado de ab...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1699895&o=rss",
+    "lido": false
+  },
+  {
     "id": "1699880 at https://agenciabrasil.ebc.com.br",
     "titulo": "Encceja é no próximo domingo; saiba como consultar locais de provas ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/encceja-e-no-proximo-domingo-saiba-como-consultar-locais-de-provas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-cria-jogo-para-apresentar-funcoes-do-ministerio-publico",
     "data": "2026-08-11T20:23:00.000Z",
     "resumo": "Em meio a grandes marcas de tecnologia e inovação, a ideia de um universitário de 19 anos movimentou o estande do Ministério Público do Estado do Rio ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699262 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Consulta pública sobre educação a distância vai até sexta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/consulta-publica-sobre-educacao-distancia-vai-ate-sexta-feira",
-    "data": "2026-08-10T20:09:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) recebe até a próxima sexta-feira (14) as contribuições da consulta pública sobre o novo marco regulatório dos cursos de...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
