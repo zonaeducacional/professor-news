@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699880 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Encceja é no próximo domingo; saiba como consultar locais de provas ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/encceja-e-no-proximo-domingo-saiba-como-consultar-locais-de-provas",
+    "data": "2026-08-17T16:55:00.000Z",
+    "resumo": "As provas do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) serão aplicadas no domingo (23) em todos os estados e no D...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699689 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inscrição para vestibular da Fuvest começa nesta segunda-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/inscricao-para-vestibular-da-fuvest-come%C3%A7a-nesta-segunda-%2817%29",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/consulta-publica-sobre-educacao-distancia-vai-ate-sexta-feira",
     "data": "2026-08-10T20:09:00.000Z",
     "resumo": "O Ministério da Educação (MEC) recebe até a próxima sexta-feira (14) as contribuições da consulta pública sobre o novo marco regulatório dos cursos de...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699238 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Alunos do Prouni podem solicitar bolsa permanência de R$ 700 por mês",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/alunos-do-prouni-podem-solicitar-bolsa-permanencia-de-r-700-por-mes",
-    "data": "2026-08-10T17:12:00.000Z",
-    "resumo": "Os estudantes beneficiários de bolsa integral do Programa Universidade para Todos matriculados em cursos superiores presenciais integrais podem solici...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
