@@ -1,5 +1,14 @@
 [
   {
+    "id": "1699972 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Instituto Natura Brasil analisa Ideb 2025 de escolas 100% integral",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/instituto-natura-brasil-analisa-ideb-2025-de-escolas-100-integral",
+    "data": "2026-08-18T18:15:00.000Z",
+    "resumo": "Os resultados do Índice de Desenvolvimento da Educação Básica (Ideb) 2025 mostram que entre as 100 escolas de ensino médio de menor nível socioeconômi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699895 at https://agenciabrasil.ebc.com.br",
     "titulo": "Palacete Imperial acumula denúncias de abandono no centro do Rio ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/palacete-imperial-acumula-denuncias-de-abandono-no-centro-do-rio",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-prazo-para-comprovar-inscricao-termina-nesta-sexta",
     "data": "2026-08-13T15:35:00.000Z",
     "resumo": "Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem comprovar...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699362 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudante cria jogo para apresentar funções do Ministério Público",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-cria-jogo-para-apresentar-funcoes-do-ministerio-publico",
-    "data": "2026-08-11T20:23:00.000Z",
-    "resumo": "Em meio a grandes marcas de tecnologia e inovação, a ideia de um universitário de 19 anos movimentou o estande do Ministério Público do Estado do Rio ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
