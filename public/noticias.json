@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700013 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC lança diretrizes para ensino de arte na educação básica",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/mec-lanca-diretrizes-para-ensino-de-arte-na-educacao-basica",
+    "data": "2026-08-18T20:05:00.000Z",
+    "resumo": "A rede escolar de educação básica têm agora diretrizes para ensino de arte na educação básica brasileira. Nesta terça-feira (18), foi publicada no Diá...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1699972 at https://agenciabrasil.ebc.com.br",
     "titulo": "Ensino integral acelera aprendizado de vulneráveis ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/ensino-integral-acelera-aprendizado-de-vulner%C3%A1veisis",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/publicadas-novas-regras-para-atividades-de-residencia-medica",
     "data": "2026-08-13T21:02:00.000Z",
     "resumo": "Os residentes em área profissional da saúde passam a ter segurança jurídica para participar de programas de pós-graduação lato sensu, mestrados, douto...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699557 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni: prazo para confirmar dados de inscrição termina nesta sexta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-prazo-para-comprovar-inscricao-termina-nesta-sexta",
-    "data": "2026-08-13T15:35:00.000Z",
-    "resumo": "Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem comprovar...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
