@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700221 at https://agenciabrasil.ebc.com.br",
+    "titulo": "STJ restabelece sanções a cursos de medicina com nota baixa no Enamed",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/stj-restabelece-sancoes-cursos-de-medicina-com-nota-baixa-no-enamed",
+    "data": "2026-08-20T20:00:00.000Z",
+    "resumo": "O Superior Tribunal de Justiça (STJ) suspendeu liminarmente a decisão do Tribunal Regional Federal da 1ª Região (TRF1) e restabeleceu as medidas caute...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700184 at https://agenciabrasil.ebc.com.br",
     "titulo": "UnB muda regras de ingresso para ampliar acesso às vagas de graduação",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/unb-muda-regras-de-ingresso-para-ampliar-acesso-vagas-de-graduacao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-deve-comprovar-ate-hoje-informacoes-de-inscricao-no-prouni",
     "data": "2026-08-14T13:25:00.000Z",
     "resumo": "Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem ficar ate...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699634 at https://agenciabrasil.ebc.com.br",
-    "titulo": "UFRJ revoga titulo de Doutor Honoris Causa de embaixador americano",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/ufrj-revoga-titulo-de-doutor-honoris-causa-de-embaixador-amerericano",
-    "data": "2026-08-14T10:32:00.000Z",
-    "resumo": "O Conselho Universitário da Universidade Federal do Rio de Janeiro (UFRJ) aprovou, nessa quinta-feira, (13), a revogação do título de Doutor Honoris C...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
