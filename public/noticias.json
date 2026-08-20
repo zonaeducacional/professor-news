@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700184 at https://agenciabrasil.ebc.com.br",
+    "titulo": "UnB muda regras de ingresso para ampliar acesso às vagas de graduação",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/unb-muda-regras-de-ingresso-para-ampliar-acesso-vagas-de-graduacao",
+    "data": "2026-08-20T15:49:00.000Z",
+    "resumo": "A Universidade de Brasília (UnB) anunciou, nesta quarta-feira (19), mudanças nas formas de ingresso primário nos cursos de graduação de oferta regular...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700013 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC lança diretrizes para ensino de arte na educação básica",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/mec-lanca-diretrizes-para-ensino-de-arte-na-educacao-basica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/ufrj-revoga-titulo-de-doutor-honoris-causa-de-embaixador-amerericano",
     "data": "2026-08-14T10:32:00.000Z",
     "resumo": "O Conselho Universitário da Universidade Federal do Rio de Janeiro (UFRJ) aprovou, nessa quinta-feira, (13), a revogação do título de Doutor Honoris C...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699605 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Publicadas novas regras para atividades de residência médica ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/publicadas-novas-regras-para-atividades-de-residencia-medica",
-    "data": "2026-08-13T21:02:00.000Z",
-    "resumo": "Os residentes em área profissional da saúde passam a ter segurança jurídica para participar de programas de pós-graduação lato sensu, mestrados, douto...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
