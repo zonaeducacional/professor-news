@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700418 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Provas do Encceja são realizadas neste domingo em todo o país",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/provas-do-encceja-sao-realizadas-neste-domingo-em-todo-o-pais",
+    "data": "2026-08-23T15:49:00.000Z",
+    "resumo": "O Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 é aplicado neste domingo (23) em todos os estados brasileiros e ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700228 at https://agenciabrasil.ebc.com.br",
     "titulo": "Provas do Encceja 2026 serão aplicadas no domingo em todo o país",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/provas-do-encceja-2026-serao-aplicadas-no-domingo-em-todo-o-pais",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora",
     "data": "2026-08-14T18:09:00.000Z",
     "resumo": "O crescente uso de tecnologias como a internet, com destaque para a inteligência artificial (IA), deve ser acompanhado de pensamento crítico e não ape...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699651 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enade divulga resultado de recurso sobre atendimento especializado",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado",
-    "data": "2026-08-14T14:07:00.000Z",
-    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulga nesta sexta-feira (14) o resultado final dos recursos contra o...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
