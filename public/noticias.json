@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700501 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia começa a pagar quinta parcela de frequência nesta segunda",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-comeca-pagar-quinta-parcela-de-frequencia-nesta-segunda",
+    "data": "2026-08-24T21:45:00.000Z",
+    "resumo": "Os estudantes beneficiários do programa Pé-de-Meia de 2026 que atingiram pelo menos 80% de frequência nas aulas entre maio e junho começaram a receber...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700418 at https://agenciabrasil.ebc.com.br",
     "titulo": "Provas do Encceja são realizadas neste domingo em todo o país",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/provas-do-encceja-sao-realizadas-neste-domingo-em-todo-o-pais",
@@ -78,15 +87,6 @@
     "data": "2026-08-16T19:02:00.000Z",
     "resumo": "Começa ao meio-dia desta segunda-feira (17) o prazo de inscrição para o Vestibular 2027 da Universidade de São Paulo (USP). O processo seletivo recebe...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1699689&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1699695 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Na era da IA, inclusão digital deve ser crítica, defende educadora",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora",
-    "data": "2026-08-14T18:09:00.000Z",
-    "resumo": "O crescente uso de tecnologias como a internet, com destaque para a inteligência artificial (IA), deve ser acompanhado de pensamento crítico e não ape...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
