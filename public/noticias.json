@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700586 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Renegociação de dívidas do Fies pode ser feita até 16 de setembro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/renegociacao-de-dividas-do-fies-pode-ser-feita-ate-16-de-setembro",
+    "data": "2026-08-25T21:30:00.000Z",
+    "resumo": "A renegociação de dívidas do Fundo de Financiamento Estudantil (Fies), com descontos e condições facilitadas pelo programa Desenrola Fies 2026 pode se...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700544 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia 2026: nascidos em março e abril recebem parcela nesta terça",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-2026-nascidos-em-marco-e-abril-recebem-parcela-nesta-terca",
@@ -78,15 +87,6 @@
     "data": "2026-08-17T18:45:00.000Z",
     "resumo": "Quem circula pelo centro do Rio de Janeiro, perto da região do Campo de Santana, pode observar um prédio centenário da cidade em completo estado de ab...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1699895&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1699880 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Encceja é no próximo domingo; saiba como consultar locais de provas ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/encceja-e-no-proximo-domingo-saiba-como-consultar-locais-de-provas",
-    "data": "2026-08-17T16:55:00.000Z",
-    "resumo": "As provas do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) serão aplicadas no domingo (23) em todos os estados e no D...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
