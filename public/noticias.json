@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700625 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-maio-e-junho-recebem-parcela-nesta-quarta",
+    "data": "2026-08-26T12:05:00.000Z",
+    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em maio e junho recebem nesta quarta-feira (26) mais uma parcela do incentivo à frequênci...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1700625&o=rss",
+    "lido": false
+  },
+  {
     "id": "1700614 at https://agenciabrasil.ebc.com.br",
     "titulo": "Olimpíada de educação financeira tem última semana de inscrições",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes",
@@ -31,7 +40,7 @@
     "titulo": "Pé-de-Meia começa a pagar quinta parcela de frequência nesta segunda",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-comeca-pagar-quinta-parcela-de-frequencia-nesta-segunda",
     "data": "2026-08-24T21:45:00.000Z",
-    "resumo": "Os estudantes beneficiários do programa Pé-de-Meia de 2026 que atingiram pelo menos 80% de frequência nas aulas entre maio e junho começaram a receber...",
+    "resumo": "Os estudantes beneficiários do programa Pé-de-Meia de 2026 que atingiram pelo menos 80% de frequência e que nasceram em maio e junho começaram a receb...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   },
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/mec-lanca-diretrizes-para-ensino-de-arte-na-educacao-basica",
     "data": "2026-08-18T20:05:00.000Z",
     "resumo": "A rede escolar de educação básica tem agora diretrizes para ensino de arte na educação básica brasileira. Nesta terça-feira (18), foi publicada no Diá...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699972 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Ensino integral acelera aprendizado de vulneráveis, aponta estudo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/ensino-integral-acelera-aprendizado-de-vulner%C3%A1veis-aponta-estudo",
-    "data": "2026-08-18T18:15:00.000Z",
-    "resumo": "Os resultados do Índice de Desenvolvimento da Educação Básica (Ideb) 2025 mostram que entre as 100 escolas de ensino médio de menor nível socioeconômi...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
