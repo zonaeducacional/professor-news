@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700679 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni: candidatos têm até amanhã para registro na lista de espera",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-candidatos-tem-ate-amanha-para-registro-na-lista-de-espera",
+    "data": "2026-08-26T19:11:00.000Z",
+    "resumo": "Candidatos não selecionados nas duas chamadas regulares do Programa Universidade para Todos (Prouni) já realizadas este ano têm até as 23h59 desta qui...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700625 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-maio-e-junho-recebem-parcela-nesta-quarta",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/unb-muda-regras-de-ingresso-para-ampliar-acesso-vagas-de-graduacao",
     "data": "2026-08-20T15:49:00.000Z",
     "resumo": "A Universidade de Brasília (UnB) anunciou, nesta quarta-feira (19), mudanças nas formas de ingresso primário nos cursos de graduação de oferta regular...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700013 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC lança diretrizes para ensino de arte na educação básica",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/mec-lanca-diretrizes-para-ensino-de-arte-na-educacao-basica",
-    "data": "2026-08-18T20:05:00.000Z",
-    "resumo": "A rede escolar de educação básica tem agora diretrizes para ensino de arte na educação básica brasileira. Nesta terça-feira (18), foi publicada no Diá...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
