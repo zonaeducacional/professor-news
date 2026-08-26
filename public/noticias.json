@@ -1,5 +1,14 @@
 [
   {
+    "id": "1700614 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Olimpíada de educação financeira tem última semana de inscrições",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes",
+    "data": "2026-08-26T11:02:00.000Z",
+    "resumo": "As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia 1...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700586 at https://agenciabrasil.ebc.com.br",
     "titulo": "Renegociação de dívidas do Fies pode ser feita até 16 de setembro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/renegociacao-de-dividas-do-fies-pode-ser-feita-ate-16-de-setembro",
@@ -78,15 +87,6 @@
     "data": "2026-08-18T18:15:00.000Z",
     "resumo": "Os resultados do Índice de Desenvolvimento da Educação Básica (Ideb) 2025 mostram que entre as 100 escolas de ensino médio de menor nível socioeconômi...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1699895 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Palacete Imperial acumula denúncias de abandono no centro do Rio ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/palacete-imperial-acumula-denuncias-de-abandono-no-centro-do-rio",
-    "data": "2026-08-17T18:45:00.000Z",
-    "resumo": "Quem circula pelo centro do Rio de Janeiro, perto da região do Campo de Santana, pode observar um prédio centenário da cidade em completo estado de ab...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1699895&o=rss",
     "lido": false
   }
 ]
