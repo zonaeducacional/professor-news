@@ -1,5 +1,32 @@
 [
   {
+    "id": "1700820 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Festival mostra, no Rio de Janeiro, que a matemática é pop e divertida",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/festival-mostra-no-rio-de-janeiro-que-matematica-e-pop-e-divertida",
+    "data": "2026-08-27T19:10:00.000Z",
+    "resumo": "O Festival Nacional da Matemática (FestMat 2026) começou nesta quinta-feira (27) no Rio de Janeiro, apostando em uma linguagem pop para aproximar o pú...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1700798 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Escolas têm até 8 de setembro para escolher livros didáticos para 2027",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/escolas-tem-ate-8-de-setembro-para-escolher-livros-didaticos-para-2027",
+    "data": "2026-08-27T15:07:00.000Z",
+    "resumo": "Hora de as escolas públicas escolherem os livros didáticos, pedagógicos e literários que são utilizados pelas escolas do 1º ao 5º ano do ensino fundam...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1700798&o=rss",
+    "lido": false
+  },
+  {
+    "id": "1700767 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia paga hoje 5ª parcela a alunos nascidos em julho e agosto  ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-paga-hoje-5-parcela-a-alunos-nascidos-em-julho-e-agosto",
+    "data": "2026-08-27T14:24:00.000Z",
+    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em julho e agosto recebem nesta quinta-feira (27) mais uma parcela do incentivo à frequên...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1700679 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prouni: candidatos têm até amanhã para registro na lista de espera",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-candidatos-tem-ate-amanha-para-registro-na-lista-de-espera",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/provas-do-encceja-sao-realizadas-neste-domingo-em-todo-o-pais",
     "data": "2026-08-23T15:49:00.000Z",
     "resumo": "O Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 é aplicado neste domingo (23) em todos os estados brasileiros e ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700228 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Provas do Encceja 2026 serão aplicadas no domingo em todo o país",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/provas-do-encceja-2026-serao-aplicadas-no-domingo-em-todo-o-pais",
-    "data": "2026-08-21T10:33:00.000Z",
-    "resumo": "Os inscritos no Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 fazem as provas neste domingo (23) em todos os est...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700221 at https://agenciabrasil.ebc.com.br",
-    "titulo": "STJ restabelece sanções a cursos de medicina com nota baixa no Enamed",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/stj-restabelece-sancoes-cursos-de-medicina-com-nota-baixa-no-enamed",
-    "data": "2026-08-20T20:00:00.000Z",
-    "resumo": "O Superior Tribunal de Justiça (STJ) suspendeu liminarmente a decisão do Tribunal Regional Federal da 1ª Região (TRF1) e restabeleceu as medidas caute...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700184 at https://agenciabrasil.ebc.com.br",
-    "titulo": "UnB muda regras de ingresso para ampliar acesso às vagas de graduação",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/unb-muda-regras-de-ingresso-para-ampliar-acesso-vagas-de-graduacao",
-    "data": "2026-08-20T15:49:00.000Z",
-    "resumo": "A Universidade de Brasília (UnB) anunciou, nesta quarta-feira (19), mudanças nas formas de ingresso primário nos cursos de graduação de oferta regular...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
