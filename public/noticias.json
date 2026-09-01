@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701275 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Consulta para novo Catálogo de Cursos Técnicos do MEC termina amanhã",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/consulta-para-novo-catalogo-de-cursos-tecnicos-do-mec-termina-amanha",
+    "data": "2026-09-01T20:29:00.000Z",
+    "resumo": "Estudantes, professores, gestores públicos, a sociedade civil em geral, além de instituições de ensino, sindicatos e conselhos profissionais podem con...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701261 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026: cartão de confirmação da inscrição será divulgado no dia 9",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-de-confirmacao-da-inscricao-sera-divulgado-no-dia-9",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-paga-hoje-5-parcela-a-alunos-nascidos-em-julho-e-agosto",
     "data": "2026-08-27T14:24:00.000Z",
     "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em julho e agosto recebem nesta quinta-feira (27) mais uma parcela do incentivo à frequên...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700679 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni: candidatos têm até amanhã para registro na lista de espera",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-candidatos-tem-ate-amanha-para-registro-na-lista-de-espera",
-    "data": "2026-08-26T19:11:00.000Z",
-    "resumo": "Candidatos não selecionados nas duas chamadas regulares do Programa Universidade para Todos (Prouni) já realizadas este ano têm até as 23h59 desta qui...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
