@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701261 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: cartão de confirmação da inscrição será divulgado no dia 9",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-de-confirmacao-da-inscricao-sera-divulgado-no-dia-9",
+    "data": "2026-09-01T17:03:00.000Z",
+    "resumo": "O cartão de confirmação de inscrição na Prova Nacional Docente (PND) 2026 será divulgado no próximo dia 9 pelo Instituto Nacional de Estudos e Pesquis...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701141 at https://agenciabrasil.ebc.com.br",
     "titulo": "Conheça projetos finalistas do prêmio Educador Nota 10",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/conheca-projetos-finalistas-do-premio-educador-nota-10",
@@ -78,15 +87,6 @@
     "data": "2026-08-26T19:11:00.000Z",
     "resumo": "Candidatos não selecionados nas duas chamadas regulares do Programa Universidade para Todos (Prouni) já realizadas este ano têm até as 23h59 desta qui...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700625 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-maio-e-junho-recebem-parcela-nesta-quarta",
-    "data": "2026-08-26T12:05:00.000Z",
-    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em maio e junho recebem nesta quarta-feira (26) mais uma parcela do incentivo à frequênci...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1700625&o=rss",
     "lido": false
   }
 ]
