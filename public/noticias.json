@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701141 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Conheça projetos finalistas do prêmio Educador Nota 10",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/conheca-projetos-finalistas-do-premio-educador-nota-10",
+    "data": "2026-08-31T22:35:00.000Z",
+    "resumo": "O Prêmio Educador Nota 10, um dos mais importantes do país voltados na área da educação, divulgou os trabalhos desenvolvidos por cada um dos 12 finali...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701060 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia: nascidos em novembro e dezembro recebem parcela de R$ 200",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-novembro-e-dezembro-recebem-parcela-de-r-200",
@@ -78,15 +87,6 @@
     "data": "2026-08-26T12:05:00.000Z",
     "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em maio e junho recebem nesta quarta-feira (26) mais uma parcela do incentivo à frequênci...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1700625&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1700614 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Olimpíada de educação financeira tem última semana de inscrições",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes",
-    "data": "2026-08-26T11:02:00.000Z",
-    "resumo": "As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia 1...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
