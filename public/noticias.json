@@ -1,5 +1,32 @@
 [
   {
+    "id": "1701393 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-2026-gestor-checa-informacoes-da-1a-etapa-ate-dia-11",
+    "data": "2026-09-02T21:22:00.000Z",
+    "resumo": "Escolas das redes de ensino municipais, estaduais e do Distrito Federal poderão conferir, até 11 de setembro, as informações prestadas na primeira eta...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1701387 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professores de escolas particulares do Rio fazem greve de 24 horas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-de-escolas-particulares-no-rio-fazem-greve-de-24-horas",
+    "data": "2026-09-02T20:38:00.000Z",
+    "resumo": "Professores de escolas particulares do Rio de Janeiro cruzaram os braços nesta quarta-feira (2) em reivindicação por melhores condições de trabalho. A...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1701375 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prouni: candidatos já podem consultar selecionados em lista de espera ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prouni-candidatos-ja-podem-consultar-selecionados-em-lista-de-espera",
+    "data": "2026-09-02T19:03:00.000Z",
+    "resumo": "Os participantes do processo seletivo do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 já podem consultar o resultado da l...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701275 at https://agenciabrasil.ebc.com.br",
     "titulo": "Consulta para novo Catálogo de Cursos Técnicos do MEC termina amanhã",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/consulta-para-novo-catalogo-de-cursos-tecnicos-do-mec-termina-amanha",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-setembro-e-outubro-recebem-parcela-de-r-200",
     "data": "2026-08-28T14:17:00.000Z",
     "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em setembro e outubro recebem nesta sexta-feira (28) mais uma parcela do incentivo à freq...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700820 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Festival mostra, no Rio de Janeiro, que a matemática é pop e divertida",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/festival-mostra-no-rio-de-janeiro-que-matematica-e-pop-e-divertida",
-    "data": "2026-08-27T19:10:00.000Z",
-    "resumo": "O Festival Nacional da Matemática (FestMat 2026) começou nesta quinta-feira (27) no Rio de Janeiro, apostando em uma linguagem pop para aproximar o pú...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700798 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Escolas têm até 8 de setembro para escolher livros didáticos para 2027",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/escolas-tem-ate-8-de-setembro-para-escolher-livros-didaticos-para-2027",
-    "data": "2026-08-27T15:07:00.000Z",
-    "resumo": "Hora de as escolas públicas escolherem os livros didáticos, pedagógicos e literários que são utilizados pelas escolas do 1º ao 5º ano do ensino fundam...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1700798&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1700767 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia paga hoje 5ª parcela a alunos nascidos em julho e agosto  ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-paga-hoje-5-parcela-a-alunos-nascidos-em-julho-e-agosto",
-    "data": "2026-08-27T14:24:00.000Z",
-    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em julho e agosto recebem nesta quinta-feira (27) mais uma parcela do incentivo à frequên...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
