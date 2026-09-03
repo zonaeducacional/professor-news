@@ -1,5 +1,32 @@
 [
   {
+    "id": "1701481 at https://agenciabrasil.ebc.com.br",
+    "titulo": "São Paulo reúne especialistas em saúde mental e trabalho ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/sao-paulo-reune-especialistas-em-saude-mental-e-trabalho",
+    "data": "2026-09-03T21:02:00.000Z",
+    "resumo": "A edição deste ano do Mind Summit, na capital paulista, nos dias 16 e 17 de setembro, dará ênfase a temas como o burnout. Focado em saúde mental no mu...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1701475 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inep divulga gabarito oficial do Encceja 2026; saiba como conferir",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-divulga-gabarito-oficial-do-encceja-2026-saiba-como-conferir",
+    "data": "2026-09-03T20:26:00.000Z",
+    "resumo": "Os participantes do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podem consultar os gabaritos oficiais das p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1701472 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem PPL abre inscrições em 5 de outubro ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enem-ppl-abre-inscricoes-em-5-de-outubro",
+    "data": "2026-09-03T19:58:00.000Z",
+    "resumo": "As inscrições no Exame Nacional do Ensino Médio de 2026 de pessoas privadas de liberdade ou sob medida socioeducativa que inclua privação de liberdade...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701393 at https://agenciabrasil.ebc.com.br",
     "titulo": "Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-2026-gestor-checa-informacoes-da-1a-etapa-ate-dia-11",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-novembro-e-dezembro-recebem-parcela-de-r-200",
     "data": "2026-08-31T11:48:00.000Z",
     "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em novembro e dezembro recebem nesta segunda-feira (31) mais uma parcela do incentivo à f...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701059 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Desenrola Fies: prazo de renegociação de dívidas termina hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/desenrola-fies-prazo-de-renegociacao-de-dividas-termina-hoje",
-    "data": "2026-08-31T11:28:00.000Z",
-    "resumo": "Termina nesta segunda-feira (31) o prazo para renegociação de dívidas do Fundo de Financiamento Estudantil (Fies), com descontos e condições facilitad...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700934 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Desenrola Fies 2026: renegociação de dívidas termina nesta segunda",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/desenrola-fies-2026-renegociacao-de-dividas-termina-nesta-segunda",
-    "data": "2026-08-28T16:21:00.000Z",
-    "resumo": "A renegociação de dívidas do Fundo de Financiamento Estudantil (Fies), com descontos e condições facilitadas pelo programa Desenrola Fies 2026, pode s...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1700923 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia: nascidos em setembro e outubro recebem parcela de R$ 200",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-setembro-e-outubro-recebem-parcela-de-r-200",
-    "data": "2026-08-28T14:17:00.000Z",
-    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em setembro e outubro recebem nesta sexta-feira (28) mais uma parcela do incentivo à freq...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
