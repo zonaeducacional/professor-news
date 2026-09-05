@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701659 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Novo campus da UFSCar terá bacharelados interdisciplinares",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/novo-campus-da-ufscar-tera-bacharelados-interdisciplinares",
+    "data": "2026-09-05T21:23:00.000Z",
+    "resumo": "A Universidade Federal de São Carlos (UFSCar), no município de São José do Rio Preto (SP), terá uma nova sede. O edifício, antes uma fábrica, tem 11 m...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1701659&o=rss",
+    "lido": false
+  },
+  {
     "id": "1701598 at https://agenciabrasil.ebc.com.br",
     "titulo": "Cartões de inscrição no Enamed e Revalida estão disponíveis",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartoes-de-inscricao-no-enamed-e-revalida-estao-disponiveis",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/consulta-para-novo-catalogo-de-cursos-tecnicos-do-mec-termina-amanha",
     "data": "2026-09-01T20:29:00.000Z",
     "resumo": "Estudantes, professores, gestores públicos, a sociedade civil em geral, além de instituições de ensino, sindicatos e conselhos profissionais podem con...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701261 at https://agenciabrasil.ebc.com.br",
-    "titulo": "PND 2026: cartão de confirmação da inscrição será divulgado no dia 9",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-de-confirmacao-da-inscricao-sera-divulgado-no-dia-9",
-    "data": "2026-09-01T17:03:00.000Z",
-    "resumo": "O cartão de confirmação de inscrição na Prova Nacional Docente (PND) 2026 será divulgado no próximo dia 9 pelo Instituto Nacional de Estudos e Pesquis...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
