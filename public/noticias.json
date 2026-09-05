@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701598 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Cartões de inscrição no Enamed e Revalida estão disponíveis",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartoes-de-inscricao-no-enamed-e-revalida-estao-disponiveis",
+    "data": "2026-09-04T23:02:00.000Z",
+    "resumo": "Os cartões de confirmação de inscrição no Exame Nacional de Avaliação da Formação Médica (Enamed) e no Exame Nacional de Revalidação de Diplomas Médic...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701495 at https://agenciabrasil.ebc.com.br",
     "titulo": "Professores têm 8 mil vagas gratuitas para pós-graduação",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-tem-8-mil-vagas-gratuitas-para-pos-graduacao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-de-confirmacao-da-inscricao-sera-divulgado-no-dia-9",
     "data": "2026-09-01T17:03:00.000Z",
     "resumo": "O cartão de confirmação de inscrição na Prova Nacional Docente (PND) 2026 será divulgado no próximo dia 9 pelo Instituto Nacional de Estudos e Pesquis...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701141 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Conheça projetos finalistas do prêmio Educador Nota 10",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/conheca-projetos-finalistas-do-premio-educador-nota-10",
-    "data": "2026-08-31T22:35:00.000Z",
-    "resumo": "O Prêmio Educador Nota 10, um dos mais importantes do país voltados na área da educação, divulgou os trabalhos desenvolvidos por cada um dos 12 finali...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
