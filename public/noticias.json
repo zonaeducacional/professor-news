@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701562 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prêmio para mulheres e meninas cientistas abre inscrições até outubro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-para-mulheres-e-meninas-cientistas-abre-inscricoes-ate-outubro",
+    "data": "2026-09-06T14:21:00.000Z",
+    "resumo": "As inscrições para o Prêmio Carolina Bori Ciência & Mulheres estão abertas até o dia 30 de outubro. O objetivo é reconhecer jovens talentosas cujas pe...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701659 at https://agenciabrasil.ebc.com.br",
     "titulo": "Novo campus da UFSCar terá bacharelados interdisciplinares",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/novo-campus-da-ufscar-tera-bacharelados-interdisciplinares",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prouni-candidatos-ja-podem-consultar-selecionados-em-lista-de-espera",
     "data": "2026-09-02T19:03:00.000Z",
     "resumo": "Os participantes do processo seletivo do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 já podem consultar o resultado da l...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701275 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Consulta para novo Catálogo de Cursos Técnicos do MEC termina amanhã",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/consulta-para-novo-catalogo-de-cursos-tecnicos-do-mec-termina-amanha",
-    "data": "2026-09-01T20:29:00.000Z",
-    "resumo": "Estudantes, professores, gestores públicos, a sociedade civil em geral, além de instituições de ensino, sindicatos e conselhos profissionais podem con...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
