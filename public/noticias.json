@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701792 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pisa: Brasil reduz diferença para países ricos no desempenho escolar",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pisa-brasil-reduz-diferenca-para-paises-ricos-no-desempenho-escolar",
+    "data": "2026-09-08T09:30:00.000Z",
+    "resumo": "A educação brasileira segue com desempenho muito inferior ao de países desenvolvidos, mas a diferença caiu ao longo das últimas duas décadas. É o que ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701562 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prêmio para mulheres e meninas cientistas abre inscrições até outubro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-para-mulheres-e-meninas-cientistas-abre-inscricoes-ate-outubro",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-de-escolas-particulares-no-rio-fazem-greve-de-24-horas",
     "data": "2026-09-02T20:38:00.000Z",
     "resumo": "Professores de escolas particulares do Rio de Janeiro cruzaram os braços nesta quarta-feira (2) em reivindicação por melhores condições de trabalho. A...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701375 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prouni: candidatos já podem consultar selecionados em lista de espera ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prouni-candidatos-ja-podem-consultar-selecionados-em-lista-de-espera",
-    "data": "2026-09-02T19:03:00.000Z",
-    "resumo": "Os participantes do processo seletivo do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 já podem consultar o resultado da l...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
