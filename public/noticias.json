@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701848 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prêmio Mulheres e Ciência tem inscrições abertas até quinta-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-mulheres-e-ciencia-tem-inscricoes-abertas-ate-quinta-feira",
+    "data": "2026-09-08T18:17:00.000Z",
+    "resumo": "O 3º Prêmio Mulheres e Ciência do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) está com inscrições abertas até esta quinta-fei...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701792 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pisa: Brasil reduz diferença para países ricos no desempenho escolar",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pisa-brasil-reduz-diferenca-para-paises-ricos-no-desempenho-escolar",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-2026-gestor-checa-informacoes-da-1a-etapa-ate-dia-11",
     "data": "2026-09-02T21:22:00.000Z",
     "resumo": "Escolas das redes de ensino municipais, estaduais e do Distrito Federal poderão conferir, até 11 de setembro, as informações prestadas na primeira eta...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701387 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professores de escolas particulares do Rio fazem greve de 24 horas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-de-escolas-particulares-no-rio-fazem-greve-de-24-horas",
-    "data": "2026-09-02T20:38:00.000Z",
-    "resumo": "Professores de escolas particulares do Rio de Janeiro cruzaram os braços nesta quarta-feira (2) em reivindicação por melhores condições de trabalho. A...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
