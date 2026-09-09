@@ -1,5 +1,32 @@
 [
   {
+    "id": "1701911 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: cartão que confirma inscrição está disponível na internet",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-que-confirma-inscricao-esta-disponivel-na-internet",
+    "data": "2026-09-09T14:48:00.000Z",
+    "resumo": "Os candidatos à Prova Nacional Docente (PND) 2026 já podem consultar na internet o local do exame, marcado para o dia 20 de setembro.\nA informação est...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1701886 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Um em cada cinco estudantes já fez apostas online, mostra pesquisa",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/um-em-cada-cinco-estudantes-ja-fez-apostas-online-mostra-pesquisa",
+    "data": "2026-09-09T14:02:00.000Z",
+    "resumo": "Um total de 20,4% de alunos nos anos finais do ensino fundamental e do ensino médio diz já ter feito apostas online, as bets, informou, nesta quarta-f...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1701896 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Feira em SP reúne programas de intercâmbio e bolsas esportivas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/feira-em-sp-reune-programas-de-intercambio-e-bolsas-esportivas",
+    "data": "2026-09-09T12:45:00.000Z",
+    "resumo": "A cidade de São Paulo recebe neste sábado (12) a Feira de Educação Internacional da CI, um evento com entrada gratuita que destaca oportunidades de in...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1701896&o=rss",
+    "lido": false
+  },
+  {
     "id": "1701848 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prêmio Mulheres e Ciência tem inscrições abertas até quinta-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-mulheres-e-ciencia-tem-inscricoes-abertas-ate-quinta-feira",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/sao-paulo-reune-especialistas-em-saude-mental-e-trabalho",
     "data": "2026-09-03T21:02:00.000Z",
     "resumo": "A edição deste ano do Mind Summit, na capital paulista, nos dias 16 e 17 de setembro, dará ênfase a temas como o burnout. Focado em saúde mental no mu...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701475 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inep divulga gabarito oficial do Encceja 2026; saiba como conferir",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-divulga-gabarito-oficial-do-encceja-2026-saiba-como-conferir",
-    "data": "2026-09-03T20:26:00.000Z",
-    "resumo": "Os participantes do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podem consultar os gabaritos oficiais das p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701472 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem PPL abre inscrições em 5 de outubro ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enem-ppl-abre-inscricoes-em-5-de-outubro",
-    "data": "2026-09-03T19:58:00.000Z",
-    "resumo": "As inscrições no Exame Nacional do Ensino Médio de 2026 de pessoas privadas de liberdade ou sob medida socioeducativa que inclua privação de liberdade...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701393 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-2026-gestor-checa-informacoes-da-1a-etapa-ate-dia-11",
-    "data": "2026-09-02T21:22:00.000Z",
-    "resumo": "Escolas das redes de ensino municipais, estaduais e do Distrito Federal poderão conferir, até 11 de setembro, as informações prestadas na primeira eta...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
