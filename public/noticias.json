@@ -1,5 +1,14 @@
 [
   {
+    "id": "1701988 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Brasil melhora desempenho escolar no longo prazo, mas patamar é baixo",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/brasil-melhora-desempenho-escolar-no-longo-prazo-mas-patamar-e-baixo",
+    "data": "2026-09-10T11:02:00.000Z",
+    "resumo": "A redução da distância entre o desempenho dos estudantes brasileiros e a média dos alunos de países da Organização para a Cooperação e Desenvolvimento...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701911 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026: cartão que confirma inscrição está disponível na internet",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-que-confirma-inscricao-esta-disponivel-na-internet",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-tem-8-mil-vagas-gratuitas-para-pos-graduacao",
     "data": "2026-09-03T22:56:00.000Z",
     "resumo": "Professores da educação básica da rede pública de todo o país têm à disposição mais de 8 mil vagas em cursos de pós-graduação presenciais e gratuitos....",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701481 at https://agenciabrasil.ebc.com.br",
-    "titulo": "São Paulo reúne especialistas em saúde mental e trabalho ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/sao-paulo-reune-especialistas-em-saude-mental-e-trabalho",
-    "data": "2026-09-03T21:02:00.000Z",
-    "resumo": "A edição deste ano do Mind Summit, na capital paulista, nos dias 16 e 17 de setembro, dará ênfase a temas como o burnout. Focado em saúde mental no mu...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
