@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702026 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: candidatos terão transporte gratuito no Rio",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enem-2026-candidatos-terao-transporte-gratuito-no-rio",
+    "data": "2026-09-10T17:17:00.000Z",
+    "resumo": "Os candidatos ao Exame Nacional do Ensino Médio (Enem) no Rio de Janeiro terão passagem gratuita no transporte público nos dois dias de prova em novem...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701988 at https://agenciabrasil.ebc.com.br",
     "titulo": "Brasil melhora desempenho escolar no longo prazo, mas patamar é baixo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/brasil-melhora-desempenho-escolar-no-longo-prazo-mas-patamar-e-baixo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartoes-de-inscricao-no-enamed-e-revalida-estao-disponiveis",
     "data": "2026-09-04T23:02:00.000Z",
     "resumo": "Os cartões de confirmação de inscrição no Exame Nacional de Avaliação da Formação Médica (Enamed) e no Exame Nacional de Revalidação de Diplomas Médic...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701495 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professores têm 8 mil vagas gratuitas para pós-graduação",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-tem-8-mil-vagas-gratuitas-para-pos-graduacao",
-    "data": "2026-09-03T22:56:00.000Z",
-    "resumo": "Professores da educação básica da rede pública de todo o país têm à disposição mais de 8 mil vagas em cursos de pós-graduação presenciais e gratuitos....",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
