@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702152 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Aulas serão suspensas no DF nas sextas-feiras antes das eleições",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/aulas-serao-suspensas-no-df-nas-sextas-feiras-antes-das-eleicoes",
+    "data": "2026-09-11T20:20:00.000Z",
+    "resumo": "O governo do Distrito Federal (GDF) decidiu suspender as aulas nas redes de ensino público e privada nas duas sextas-feiras que antecedem o primeiro e...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702121 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prazo para optar por seguir na lista de espera do CNU 1 termina hoje",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prazo-para-optar-por-seguir-na-lista-de-espera-do-cnu-1-termina-hoje",
@@ -78,15 +87,6 @@
     "data": "2026-09-09T12:45:00.000Z",
     "resumo": "A cidade de São Paulo recebe neste sábado (12) a Feira de Educação Internacional da CI, um evento com entrada gratuita que destaca oportunidades de in...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1701896&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1701848 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prêmio Mulheres e Ciência tem inscrições abertas até quinta-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-mulheres-e-ciencia-tem-inscricoes-abertas-ate-quinta-feira",
-    "data": "2026-09-08T18:17:00.000Z",
-    "resumo": "O 3º Prêmio Mulheres e Ciência do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) está com inscrições abertas até esta quinta-fei...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
