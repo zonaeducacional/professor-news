@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702108 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inep divulga relação final dos aprovados no Revalida 2025/2",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-divulga-relacao-final-dos-aprovados-no-revalida-20252",
+    "data": "2026-09-11T14:04:00.000Z",
+    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou nesta sexta-feira (11) a relação final dos aprovados no Exame...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1702108&o=rss",
+    "lido": false
+  },
+  {
     "id": "1702044 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC aprova regras para as férias escolares na Copa do Mundo Feminina",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mec-aprova-regras-para-ferias-escolares-na-copa-do-mundo-feminina",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pisa-brasil-reduz-diferenca-para-paises-ricos-no-desempenho-escolar",
     "data": "2026-09-08T09:30:00.000Z",
     "resumo": "A educação brasileira segue com desempenho muito inferior ao de países desenvolvidos, mas a diferença caiu ao longo das últimas duas décadas. É o que ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701562 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prêmio para mulheres e meninas cientistas abre inscrições até outubro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-para-mulheres-e-meninas-cientistas-abre-inscricoes-ate-outubro",
-    "data": "2026-09-06T14:21:00.000Z",
-    "resumo": "As inscrições para o Prêmio Carolina Bori Ciência & Mulheres estão abertas até o dia 30 de outubro. O objetivo é reconhecer jovens talentosas cujas pe...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
