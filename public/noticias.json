@@ -63,6 +63,15 @@
     "lido": false
   },
   {
+    "id": "1701831 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Leitura entre adolescentes atinge pior nível deste século ",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/leitura-entre-adolescentes-atinge-pior-nivel-deste-seculo",
+    "data": "2026-09-08T15:58:00.000Z",
+    "resumo": "Adolescentes mais acostumados a smartphones do que a Shakespeare estão apresentando os piores índices de leitura já registrados neste século, o que es...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1701792 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pisa: Brasil reduz diferença para países ricos no desempenho escolar",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pisa-brasil-reduz-diferenca-para-paises-ricos-no-desempenho-escolar",
@@ -78,15 +87,6 @@
     "data": "2026-09-06T14:21:00.000Z",
     "resumo": "As inscrições para o Prêmio Carolina Bori Ciência & Mulheres estão abertas até o dia 30 de outubro. O objetivo é reconhecer jovens talentosas cujas pe...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701659 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Novo campus da UFSCar terá bacharelados interdisciplinares",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/novo-campus-da-ufscar-tera-bacharelados-interdisciplinares",
-    "data": "2026-09-05T21:23:00.000Z",
-    "resumo": "A Universidade Federal de São Carlos (UFSCar), no município de São José do Rio Preto (SP), terá uma nova sede. O edifício, antes uma fábrica, tem 11 m...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1701659&o=rss",
     "lido": false
   }
 ]
