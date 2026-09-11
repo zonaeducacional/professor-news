@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702161 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enamed 2026: prova que avalia formação médica será neste domingo",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enamed-2026-prova-que-avalia-formacao-medica-sera-neste-domingo",
+    "data": "2026-09-11T21:39:00.000Z",
+    "resumo": "O Exame Nacional de Avaliação da Formação Médica (Enamed), que afere o aprendizado dos estudantes de medicina e avalia os cursos brasileiros de gradua...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702152 at https://agenciabrasil.ebc.com.br",
     "titulo": "Aulas serão suspensas no DF nas sextas-feiras antes das eleições",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/aulas-serao-suspensas-no-df-nas-sextas-feiras-antes-das-eleicoes",
@@ -78,15 +87,6 @@
     "data": "2026-09-09T14:02:00.000Z",
     "resumo": "Um em cada cinco alunos (20,4%) dos anos finais do ensino fundamental e do ensino médio diz já ter feito apostas online, as bets, informou, nesta quar...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701896 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Feira em SP reúne programas de intercâmbio e bolsas esportivas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/feira-em-sp-reune-programas-de-intercambio-e-bolsas-esportivas",
-    "data": "2026-09-09T12:45:00.000Z",
-    "resumo": "A cidade de São Paulo recebe neste sábado (12) a Feira de Educação Internacional da CI, um evento com entrada gratuita que destaca oportunidades de in...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1701896&o=rss",
     "lido": false
   }
 ]
