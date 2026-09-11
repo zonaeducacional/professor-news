@@ -1,5 +1,23 @@
 [
   {
+    "id": "1702121 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prazo para optar por seguir na lista de espera do CNU 1 termina hoje",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prazo-para-optar-por-seguir-na-lista-de-espera-do-cnu-1-termina-hoje",
+    "data": "2026-09-11T15:42:00.000Z",
+    "resumo": "Termina nesta sexta-feira (11), às 23h59, o prazo para os candidatos que estão na lista de espera da primeira edição do Concurso Público Nacional Unif...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1702120 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prazo para escolas escolherem livros didáticos para 2027 termina hoje ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prazo-para-escolas-escolherem-livros-didaticos-para-2027-termina-hoje",
+    "data": "2026-09-11T15:28:00.000Z",
+    "resumo": "O prazo para escolha dos livros didáticos, pedagógicos e literários que serão utilizados pelas escolas públicas brasileiras no ciclo 2027-2030 termina...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702108 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inep divulga relação final dos aprovados no Revalida 2025/2",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-divulga-relacao-final-dos-aprovados-no-revalida-20252",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/premio-mulheres-e-ciencia-tem-inscricoes-abertas-ate-quinta-feira",
     "data": "2026-09-08T18:17:00.000Z",
     "resumo": "O 3º Prêmio Mulheres e Ciência do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) está com inscrições abertas até esta quinta-fei...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701831 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Leitura entre adolescentes atinge pior nível deste século ",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/leitura-entre-adolescentes-atinge-pior-nivel-deste-seculo",
-    "data": "2026-09-08T15:58:00.000Z",
-    "resumo": "Adolescentes mais acostumados a smartphones do que a Shakespeare estão apresentando os piores índices de leitura já registrados neste século, o que es...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701792 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pisa: Brasil reduz diferença para países ricos no desempenho escolar",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pisa-brasil-reduz-diferenca-para-paises-ricos-no-desempenho-escolar",
-    "data": "2026-09-08T09:30:00.000Z",
-    "resumo": "A educação brasileira segue com desempenho muito inferior ao de países desenvolvidos, mas a diferença caiu ao longo das últimas duas décadas. É o que ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
