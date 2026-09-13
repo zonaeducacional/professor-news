@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702226 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prova que avalia formação médica ocorre neste domingo em todo país",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais",
+    "data": "2026-09-13T13:53:00.000Z",
+    "resumo": "Será aplicado neste domingo (13), em todos os estados do país e no Distrito Federal, o Exame Nacional de Avaliação da Formação Médica (Enamed), que af...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702161 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enamed 2026: prova que avalia formação médica será neste domingo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enamed-2026-prova-que-avalia-formacao-medica-sera-neste-domingo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-que-confirma-inscricao-esta-disponivel-na-internet",
     "data": "2026-09-09T14:48:00.000Z",
     "resumo": "Os candidatos à Prova Nacional Docente (PND) 2026 já podem consultar na internet o local do exame, marcado para o dia 20 de setembro.\nA informação est...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701886 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Um em cada cinco estudantes já fez apostas online, mostra pesquisa",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/um-em-cada-cinco-estudantes-ja-fez-apostas-online-mostra-pesquisa",
-    "data": "2026-09-09T14:02:00.000Z",
-    "resumo": "Um em cada cinco alunos (20,4%) dos anos finais do ensino fundamental e do ensino médio diz já ter feito apostas online, as bets, informou, nesta quar...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
