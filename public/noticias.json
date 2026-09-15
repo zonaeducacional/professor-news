@@ -1,5 +1,23 @@
 [
   {
+    "id": "1702407 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: participantes farão prova neste domingo em todo o país",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-participantes-farao-prova-neste-domingo-em-todo-o-pais",
+    "data": "2026-09-15T17:06:00.000Z",
+    "resumo": "A Prova Nacional Docente (PND) 2026 será aplicada na tarde do próximo domingo (20) em mais de 800 municípios de todas as unidades da federação mais o ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1702385 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Revalida 2026/2: prazo de envio de diploma médico termina dia 19",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/revalida-20262-prazo-de-envio-de-diploma-medico-termina-dia-19",
+    "data": "2026-09-15T13:56:00.000Z",
+    "resumo": "Os participantes da primeira etapa da segunda edição de 2026 do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituições de Educaç...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702226 at https://agenciabrasil.ebc.com.br",
     "titulo": "Prova que avalia formação médica ocorre neste domingo em todo país",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enem-2026-candidatos-terao-transporte-gratuito-no-rio",
     "data": "2026-09-10T17:17:00.000Z",
     "resumo": "Os candidatos ao Exame Nacional do Ensino Médio (Enem) no Rio de Janeiro terão passagem gratuita no transporte público nos dois dias de prova em novem...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701988 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Brasil melhora desempenho escolar no longo prazo, mas patamar é baixo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/brasil-melhora-desempenho-escolar-no-longo-prazo-mas-patamar-e-baixo",
-    "data": "2026-09-10T11:02:00.000Z",
-    "resumo": "A redução da distância entre o desempenho dos estudantes brasileiros e a média dos alunos de países da Organização para a Cooperação e Desenvolvimento...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1701911 at https://agenciabrasil.ebc.com.br",
-    "titulo": "PND 2026: cartão que confirma inscrição está disponível na internet",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-cartao-que-confirma-inscricao-esta-disponivel-na-internet",
-    "data": "2026-09-09T14:48:00.000Z",
-    "resumo": "Os candidatos à Prova Nacional Docente (PND) 2026 já podem consultar na internet o local do exame, marcado para o dia 20 de setembro.\nA informação est...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
