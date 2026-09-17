@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702665 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Escolas da Bahia e do Pará vencem prêmio nacional de sustentabilidade",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/escolas-da-bahia-e-do-para-vencem-premio-nacional-de-sustentabilidade",
+    "data": "2026-09-17T22:42:00.000Z",
+    "resumo": "Iniciativas desenvolvidas por professores e estudantes de escolas em diferentes regiões do Brasil têm transformado materiais descartados em novos recu...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702610 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026 tem adesão de 2.007 municípios e 23 estados",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-tem-adesao-de-2007-municipios-e-23-estados",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/aulas-serao-suspensas-no-df-nas-sextas-feiras-antes-das-eleicoes",
     "data": "2026-09-11T20:20:00.000Z",
     "resumo": "O governo do Distrito Federal (GDF) decidiu suspender as aulas nas redes de ensino público e privada nas duas sextas-feiras que antecedem o primeiro e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702121 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prazo para optar por seguir na lista de espera do CNU 1 termina hoje",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prazo-para-optar-por-seguir-na-lista-de-espera-do-cnu-1-termina-hoje",
-    "data": "2026-09-11T15:42:00.000Z",
-    "resumo": "Termina nesta sexta-feira (11), às 23h59, o prazo para os candidatos que estão na lista de espera da primeira edição do Concurso Público Nacional Unif...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
