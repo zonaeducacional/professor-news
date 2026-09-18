@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702752 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Cartilha reúne orientações para a redação do Enem 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartilha-reune-orientacoes-para-redacao-do-enem-2026",
+    "data": "2026-09-18T21:09:00.000Z",
+    "resumo": "Os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 já podem consultar a nova edição da cartilha A Redação do Enem 2026 – Cartilha do Participa...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702715 at https://agenciabrasil.ebc.com.br",
     "titulo": "Analfabetismo entre jovens e adultos com deficiência é 12 vezes maior",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/analfabetismo-entre-jovens-e-adultos-com-deficiencia-e-12-vezes-maior",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/revalida-20262-prazo-de-envio-de-diploma-medico-termina-dia-19",
     "data": "2026-09-15T13:56:00.000Z",
     "resumo": "Os participantes da primeira etapa da segunda edição de 2026 do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituições de Educaç...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702226 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prova que avalia formação médica ocorre neste domingo em todo país",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais",
-    "data": "2026-09-13T13:53:00.000Z",
-    "resumo": "Será aplicado neste domingo (13), em todos os estados do país e no Distrito Federal, o Exame Nacional de Avaliação da Formação Médica (Enamed), que af...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
