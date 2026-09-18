@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702676 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: candidato deve responder questionário até sábado",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-candidato-deve-responder-questionario-ate-sabado",
+    "data": "2026-09-18T10:07:00.000Z",
+    "resumo": "Todos os inscritos na Prova Nacional Docente (PND) 2026 devem preencher, até as 23h59 deste sábado (19), no horário de Brasília, um questionário que r...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702665 at https://agenciabrasil.ebc.com.br",
     "titulo": "Escolas da Bahia e do Pará vencem prêmio nacional de sustentabilidade",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/escolas-da-bahia-e-do-para-vencem-premio-nacional-de-sustentabilidade",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enamed-2026-prova-que-avalia-formacao-medica-sera-neste-domingo",
     "data": "2026-09-11T21:39:00.000Z",
     "resumo": "O Exame Nacional de Avaliação da Formação Médica (Enamed), que afere o aprendizado dos estudantes de medicina e avalia os cursos brasileiros de gradua...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702152 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Aulas serão suspensas no DF nas sextas-feiras antes das eleições",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/aulas-serao-suspensas-no-df-nas-sextas-feiras-antes-das-eleicoes",
-    "data": "2026-09-11T20:20:00.000Z",
-    "resumo": "O governo do Distrito Federal (GDF) decidiu suspender as aulas nas redes de ensino público e privada nas duas sextas-feiras que antecedem o primeiro e...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
