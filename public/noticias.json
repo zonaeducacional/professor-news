@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702715 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Analfabetismo entre jovens e adultos com deficiência é 12 vezes maior",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/analfabetismo-entre-jovens-e-adultos-com-deficiencia-e-12-vezes-maior",
+    "data": "2026-09-18T15:03:00.000Z",
+    "resumo": "A taxa de analfabetismo entre as pessoas com deficiência, de 15 a 29 anos, era 12,2% em 2022, ou seja, 12 vezes maior do que aquela registrada entre o...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702676 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026: candidato deve responder questionário até sábado",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-candidato-deve-responder-questionario-ate-sabado",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais",
     "data": "2026-09-13T13:53:00.000Z",
     "resumo": "Será aplicado neste domingo (13), em todos os estados do país e no Distrito Federal, o Exame Nacional de Avaliação da Formação Médica (Enamed), que af...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702161 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enamed 2026: prova que avalia formação médica será neste domingo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enamed-2026-prova-que-avalia-formacao-medica-sera-neste-domingo",
-    "data": "2026-09-11T21:39:00.000Z",
-    "resumo": "O Exame Nacional de Avaliação da Formação Médica (Enamed), que afere o aprendizado dos estudantes de medicina e avalia os cursos brasileiros de gradua...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
