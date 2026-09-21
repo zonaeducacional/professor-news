@@ -1,5 +1,14 @@
 [
   {
+    "id": "1702913 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia começa a pagar sexta parcela a estudantes nesta segunda",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pe-de-meia-comeca-pagar-sexta-parcela-estudantes-nesta-segunda",
+    "data": "2026-09-21T19:38:00.000Z",
+    "resumo": "Os beneficiários do programa Pé-de-Meia do ensino médio regular começaram a receber nesta segunda-feira (21) a sexta parcela do incentivo à frequência...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702890 at https://agenciabrasil.ebc.com.br",
     "titulo": "Convocação da lista de espera do Fies no 2º semestre termina na quinta",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/convocacao-da-lista-de-espera-do-fies-no-2o-semestre-termina-na-quinta",
@@ -78,15 +87,6 @@
     "data": "2026-09-17T15:48:00.000Z",
     "resumo": "A edição deste ano da Prova Nacional Docente (PND) tem a adesão de 23 secretarias estaduais de educação e de 2.007 municípios, o que corresponde, resp...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702507 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Andes lança documentário sobre a importância da educação e ciência ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/andes-lanca-documentario-sobre-importancia-da-educacao-e-ciencia",
-    "data": "2026-09-16T18:50:00.000Z",
-    "resumo": "O Sindicato Nacional de Docentes das Instituições de Ensino Superior (Andes) lança nesta quarta-feira (16), na capital paulista, o documentário Educaç...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1702507&o=rss",
     "lido": false
   }
 ]
