@@ -1,5 +1,14 @@
 [
   {
+    "id": "1703029 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/olimpiada-de-astronomia-no-vietna-tem-cinco-estudantes-brasileiros",
+    "data": "2026-09-22T21:00:00.000Z",
+    "resumo": "No sofá, a cearense Biatriz Silva assistia admirada na TV ao lançamento de foguetes. Os olhos brilhavam mais ainda ao observar, ao lado dela, os olhos...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1702996 at https://agenciabrasil.ebc.com.br",
     "titulo": "Guia do Enem reúne orientações e métodos de estudo para provas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/guia-do-enem-traz-orientacoes-e-metodos-de-estudo-para-provas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-candidato-deve-responder-questionario-ate-sabado",
     "data": "2026-09-18T10:07:00.000Z",
     "resumo": "Todos os inscritos na Prova Nacional Docente (PND) 2026 devem preencher, até as 23h59 deste sábado (19), no horário de Brasília, um questionário que r...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702665 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Escolas da Bahia e do Pará vencem prêmio nacional de sustentabilidade",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/escolas-da-bahia-e-do-para-vencem-premio-nacional-de-sustentabilidade",
-    "data": "2026-09-17T22:42:00.000Z",
-    "resumo": "Iniciativas desenvolvidas por professores e estudantes de escolas em diferentes regiões do Brasil têm transformado materiais descartados em novos recu...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
