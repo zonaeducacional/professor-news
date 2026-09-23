@@ -1,5 +1,14 @@
 [
   {
+    "id": "1703097 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Programa de bolsas vai incentivar formação para a educação básica",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/programa-de-bolsas-vai-incentivar-formacao-para-educacao-basica",
+    "data": "2026-09-23T13:48:00.000Z",
+    "resumo": "O Programa Institucional de Bolsa de Iniciação à Docência (Pibid) passa a integrar, nesta quarta-Feira (23), as ações de incentivo à educação básica b...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703029 at https://agenciabrasil.ebc.com.br",
     "titulo": "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/olimpiada-de-astronomia-no-vietna-tem-cinco-estudantes-brasileiros",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/analfabetismo-entre-jovens-e-adultos-com-deficiencia-e-12-vezes-maior",
     "data": "2026-09-18T15:03:00.000Z",
     "resumo": "A taxa de analfabetismo entre as pessoas com deficiência, de 15 a 29 anos, era 12,2% em 2022, ou seja, 12 vezes maior do que aquela registrada entre o...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702676 at https://agenciabrasil.ebc.com.br",
-    "titulo": "PND 2026: candidato deve responder questionário até sábado",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-candidato-deve-responder-questionario-ate-sabado",
-    "data": "2026-09-18T10:07:00.000Z",
-    "resumo": "Todos os inscritos na Prova Nacional Docente (PND) 2026 devem preencher, até as 23h59 deste sábado (19), no horário de Brasília, um questionário que r...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
