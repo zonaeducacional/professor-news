@@ -1,5 +1,14 @@
 [
   {
+    "id": "1703264 at https://agenciabrasil.ebc.com.br",
+    "titulo": "PND 2026: gabaritos preliminares já estão disponíveis",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-gabaritos-preliminares-estao-disponiveis",
+    "data": "2026-09-24T20:01:00.000Z",
+    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulgou nesta quinta-feira (24) os gabaritos preliminares das questõe...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703097 at https://agenciabrasil.ebc.com.br",
     "titulo": "Programa de bolsas vai incentivar formação para a educação básica",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/programa-de-bolsas-vai-incentivar-formacao-para-educacao-basica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartilha-reune-orientacoes-para-redacao-do-enem-2026",
     "data": "2026-09-18T21:09:00.000Z",
     "resumo": "Os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 já podem consultar a nova edição da cartilha A Redação do Enem 2026 – Cartilha do Participa...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702715 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Analfabetismo entre jovens e adultos com deficiência é 12 vezes maior",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/analfabetismo-entre-jovens-e-adultos-com-deficiencia-e-12-vezes-maior",
-    "data": "2026-09-18T15:03:00.000Z",
-    "resumo": "A taxa de analfabetismo entre as pessoas com deficiência, de 15 a 29 anos, era 12,2% em 2022, ou seja, 12 vezes maior do que aquela registrada entre o...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
