@@ -1,5 +1,32 @@
 [
   {
+    "id": "1703347 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pronatec-oferta-mais-de-15-mil-vagas-nas-areas-de-meio-ambiente",
+    "data": "2026-09-25T16:45:00.000Z",
+    "resumo": "O Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec), do Ministério da Educação (MEC), ofertará, em outubro, 1.580 vagas gratuitas em ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1703327 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Censo Escolar: resultado preliminar está disponível no site do Inep",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-resultado-preliminar-esta-disponivel-no-site-do-inep",
+    "data": "2026-09-25T15:04:00.000Z",
+    "resumo": "Os resultados preliminares do Censo Escolar da Educação Básica de 2026 estão disponíveis para conferência no painel de resultados no site do Instituto...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1703323 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Plataforma Enem Libras ganha atualização com provas de 2017 a 2025",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/plataforma-enem-libras-ganha-atualizacao-com-provas-de-2017-2025",
+    "data": "2026-09-25T14:25:00.000Z",
+    "resumo": "A plataforma Enem Libras está atualizada com as videoprovas de 2017 até 2025. O sistema disponibiliza conteúdos em Língua Brasileira de Sinais (Libras...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703264 at https://agenciabrasil.ebc.com.br",
     "titulo": "PND 2026: gabaritos preliminares já estão disponíveis",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-gabaritos-preliminares-estao-disponiveis",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-625-mil-pessoas-fazem-prova-nacional-docente-neste-domingo",
     "data": "2026-09-20T11:06:00.000Z",
     "resumo": "Mais de 625 mil estudantes concluintes e formados em licenciatura de todo o país farão, neste domingo (20), a Prova Nacional Docente (PND). O resultad...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702793 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inep muda locais de exame da PND em União da Vitória (PR)",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-muda-locais-de-exame-da-pnd-em-uniao-da-vitoria-pr",
-    "data": "2026-09-19T17:39:00.000Z",
-    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) alterou os endereços de dois locais de aplicação da Prova Nacional Doc...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702713 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pesquisa identifica oito planetas candidatos a ter vida extraterrestre",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pesquisa-identifica-oito-planetas-candidatos-ter-vida-extraterrestre",
-    "data": "2026-09-19T10:00:00.000Z",
-    "resumo": "Um pesquisador brasileiro identificou oito planetas localizados fora do Sistema Solar, os chamados exoplanetas, que têm uma possibilidade maior de ter...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702752 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Cartilha reúne orientações para a redação do Enem 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/cartilha-reune-orientacoes-para-redacao-do-enem-2026",
-    "data": "2026-09-18T21:09:00.000Z",
-    "resumo": "Os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 já podem consultar a nova edição da cartilha A Redação do Enem 2026 – Cartilha do Participa...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
