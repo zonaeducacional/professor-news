@@ -1,5 +1,14 @@
 [
   {
+    "id": "1703354 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Mais de 10 mil professores são selecionados via Prova Nacional Docente",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-10-mil-professores-sao-selecionados-prova-nacional-docente",
+    "data": "2026-09-25T17:58:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) contabilizou que mais de 10 mil professores foram selecionados em editais públicos que utilizam a nota da primeira ediç...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703347 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pronatec-oferta-mais-de-15-mil-vagas-nas-areas-de-meio-ambiente",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/convocacao-da-lista-de-espera-do-fies-no-2o-semestre-termina-na-quinta",
     "data": "2026-09-21T16:01:00.000Z",
     "resumo": "O prazo de convocação dos pré-selecionados na lista de espera do Fundo de Financiamento Estudantil (Fies) para o segundo semestre termina nesta quinta...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702796 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Mais de 625 mil pessoas fazem a Prova Nacional Docente neste domingo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-625-mil-pessoas-fazem-prova-nacional-docente-neste-domingo",
-    "data": "2026-09-20T11:06:00.000Z",
-    "resumo": "Mais de 625 mil estudantes concluintes e formados em licenciatura de todo o país farão, neste domingo (20), a Prova Nacional Docente (PND). O resultad...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
