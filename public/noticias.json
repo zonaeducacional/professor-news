@@ -1,5 +1,14 @@
 [
   {
+    "id": "1703364 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professor de ciências precisa de formação constante, diz pesquisadora",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professor-de-ciencias-precisa-de-formacao-constante-diz-pesquisadora",
+    "data": "2026-09-26T12:37:00.000Z",
+    "resumo": "O ensino de um conjunto de disciplinas conhecidas como Stem (ciência, tecnologia, engenharia e matemática, na sigla em inglês) requer formação constan...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703354 at https://agenciabrasil.ebc.com.br",
     "titulo": "Mais de 10 mil professores são selecionados via Prova Nacional Docente",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-10-mil-professores-sao-selecionados-prova-nacional-docente",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pe-de-meia-comeca-pagar-sexta-parcela-estudantes-nesta-segunda",
     "data": "2026-09-21T19:38:00.000Z",
     "resumo": "Os beneficiários do programa Pé-de-Meia do ensino médio regular começaram a receber nesta segunda-feira (21) a sexta parcela do incentivo à frequência...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1702890 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Convocação da lista de espera do Fies no 2º semestre termina na quinta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/convocacao-da-lista-de-espera-do-fies-no-2o-semestre-termina-na-quinta",
-    "data": "2026-09-21T16:01:00.000Z",
-    "resumo": "O prazo de convocação dos pré-selecionados na lista de espera do Fundo de Financiamento Estudantil (Fies) para o segundo semestre termina nesta quinta...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
