@@ -1,5 +1,23 @@
 [
   {
+    "id": "1703736 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Imersão científica leva alunas e professoras a centros tecnológicos",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/imersao-cientifica-leva-alunas-e-professoras-centros-tecnologicos",
+    "data": "2026-09-30T17:40:00.000Z",
+    "resumo": "Alunas do ensino médio e professoras de escolas públicas estaduais de todo o Brasil podem se inscrever, até o próximo dia 26 de outubro, para conhecer...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1703733 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Museu de Ciências da Terra leva \"dinossauros\" ao Morro da Urca, no Rio",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/museu-de-ciencias-da-terra-leva-dinossauros-ao-morro-da-urca-no-rio",
+    "data": "2026-09-30T16:46:00.000Z",
+    "resumo": "O Morro da Urca, na Zona Sul do Rio de Janeiro, vai se tornar um lugar de descobertas sobre fósseis e dinossauros com a exposição de peças do acervo d...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703675 at https://agenciabrasil.ebc.com.br",
     "titulo": "OCDE: 9% dos professores no Brasil não têm qualificação completa",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/ocde-9-dos-professores-no-brasil-nao-tem-qualificacao-completa",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pnd-2026-gabaritos-preliminares-estao-disponiveis",
     "data": "2026-09-24T20:01:00.000Z",
     "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulgou nesta quinta-feira (24) os gabaritos preliminares das questõe...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1703097 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Programa de bolsas vai incentivar formação para a educação básica",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/programa-de-bolsas-vai-incentivar-formacao-para-educacao-basica",
-    "data": "2026-09-23T13:48:00.000Z",
-    "resumo": "O Programa Institucional de Bolsa de Iniciação à Docência (Pibid) passa a integrar, nesta quarta-Feira (23), as ações de incentivo à educação básica b...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1703029 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Olimpíada de Astronomia no Vietnã tem cinco estudantes brasileiros",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/olimpiada-de-astronomia-no-vietna-tem-cinco-estudantes-brasileiros",
-    "data": "2026-09-22T21:00:00.000Z",
-    "resumo": "No sofá, a cearense Biatriz Silva assistia admirada na TV ao lançamento de foguetes. Os olhos brilhavam mais ainda ao observar, ao lado dela, os olhos...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
