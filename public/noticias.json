@@ -1,5 +1,14 @@
 [
   {
+    "id": "1703812 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026/2: instituições de ensino podem ofertar vagas remanescentes",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-20262-instituicoes-de-ensino-podem-ofertar-vagas-remanescentes",
+    "data": "2026-10-01T15:28:00.000Z",
+    "resumo": "As instituições de educação superior interessadas em ofertar vagas remanescentes do Fundo de Financiamento Estudantil (Fies) no segundo semestre já po...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703763 at https://agenciabrasil.ebc.com.br",
     "titulo": "Percentual de jovens nem-nem no Brasil cai para 22,4%, mostra estudo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/percentual-de%20jovens-nem-nem-no-brasil-cai-para-224-mostra-estudo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-resultado-preliminar-esta-disponivel-no-site-do-inep",
     "data": "2026-09-25T15:04:00.000Z",
     "resumo": "Os resultados preliminares do Censo Escolar da Educação Básica de 2026 estão disponíveis para conferência no painel de resultados no site do Instituto...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1703323 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Plataforma Enem Libras ganha atualização com provas de 2017 a 2025",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/plataforma-enem-libras-ganha-atualizacao-com-provas-de-2017-2025",
-    "data": "2026-09-25T14:25:00.000Z",
-    "resumo": "A plataforma Enem Libras está atualizada com as videoprovas de 2017 até 2025. O sistema disponibiliza conteúdos em Língua Brasileira de Sinais (Libras...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
