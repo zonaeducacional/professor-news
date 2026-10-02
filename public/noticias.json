@@ -1,5 +1,14 @@
 [
   {
+    "id": "1703939 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC divulga avaliação de livros didáticos ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-divulga-avaliacao-de-livros-didaticos",
+    "data": "2026-10-02T15:38:00.000Z",
+    "resumo": "A lista final da avaliação pedagógica das obras do Programa Nacional do Livro e do Material Didático (PNLD) para os anos iniciais do ensino fundamenta...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703812 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies 2026/2: instituições de ensino podem ofertar vagas remanescentes",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-20262-instituicoes-de-ensino-podem-ofertar-vagas-remanescentes",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pronatec-oferta-mais-de-15-mil-vagas-nas-areas-de-meio-ambiente",
     "data": "2026-09-25T16:45:00.000Z",
     "resumo": "O Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec), do Ministério da Educação (MEC), ofertará, em outubro, 1.580 vagas gratuitas em ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1703327 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Censo Escolar: resultado preliminar está disponível no site do Inep",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-resultado-preliminar-esta-disponivel-no-site-do-inep",
-    "data": "2026-09-25T15:04:00.000Z",
-    "resumo": "Os resultados preliminares do Censo Escolar da Educação Básica de 2026 estão disponíveis para conferência no painel de resultados no site do Instituto...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
