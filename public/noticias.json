@@ -1,5 +1,14 @@
 [
   {
+    "id": "1704441 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026/2: faculdades privadas podem ofertar vagas até quarta",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-20262-faculdades-privadas-podem-ofertar-vagas-ate-quarta",
+    "data": "2026-10-07T10:05:00.000Z",
+    "resumo": "As instituições de educação superior interessadas em ofertar vagas remanescentes do Fundo de Financiamento Estudantil (Fies) no segundo semestre podem...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1703976 at https://agenciabrasil.ebc.com.br",
     "titulo": "Encceja: Inep disponibiliza locais de reaplicação de prova",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/encceja-inep-disponibiliza-locais-de-reaplicacao-de-prova",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/investimento-por-aluno-no-Brasil-e-de1/3-da-media-dos-paises-da-OCDE",
     "data": "2026-09-29T20:44:00.000Z",
     "resumo": "No Brasil, o gasto anual por aluno desde o ensino fundamental até o ensino superior foi de US$ 4.133 em 2023. O valor corresponde a cerca de um terço ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1703364 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professor de ciências precisa de formação constante, diz pesquisadora",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professor-de-ciencias-precisa-de-formacao-constante-diz-pesquisadora",
-    "data": "2026-09-26T12:37:00.000Z",
-    "resumo": "O ensino de um conjunto de disciplinas conhecidas como Stem (ciência, tecnologia, engenharia e matemática, na sigla em inglês) requer formação constan...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
