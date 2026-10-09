@@ -1,5 +1,14 @@
 [
   {
+    "id": "1704983 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pesquisa mostra que 82% são contra crianças de até 3 anos com celular",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pesquisa-mostra-que-82-sao-contra-criancas-de-ate-3-anos-com-celular",
+    "data": "2026-10-09T23:21:00.000Z",
+    "resumo": "Uma pesquisa do Instituto Locomotiva divulgada nesta sexta-feira (9) mostrou que 82% dos adultos brasileiros são contrários a que crianças de até três...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1704865 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC irá pedir investigação de ameaças a universidades em redes sociais",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-ira-pedir-investigacao-de-ameacas-universidades-em-redes-sociais",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enamed-candidatos-podem-checar-se-pedido-de-reaplicacao-foi-aprovado",
     "data": "2026-10-02T17:21:00.000Z",
     "resumo": "Os inscritos no Exame Nacional de Avaliação da Formação Médica (Enamed) 2026 que solicitaram a reaplicação da prova já podem consultar o resultado do ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1703939 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC divulga avaliação de livros didáticos ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-divulga-avaliacao-de-livros-didaticos",
-    "data": "2026-10-02T15:38:00.000Z",
-    "resumo": "A lista final da avaliação pedagógica das obras do Programa Nacional do Livro e do Material Didático (PNLD) para os anos iniciais do ensino fundamenta...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
