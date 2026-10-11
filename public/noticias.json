@@ -27,20 +27,20 @@
     "lido": false
   },
   {
-    "id": "1704829 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Universidade Federal Fluminense aciona PF após receber ameaças ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/universidade-federal-fluminense-aciona-pf-apos-receber-amecas",
-    "data": "2026-10-08T21:56:00.000Z",
-    "resumo": "A Universidade Federal Fluminense (UFF) acionou a Polícia Federal (PF) após receber denúncias de ameaças à instituição. Em nota, a universidade inform...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
     "id": "1704838 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC vai construir novo prédio para laboratórios da UFPE",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-vai-construir-novo-predio-para-laboratorios-da-ufpe",
     "data": "2026-10-08T21:56:00.000Z",
     "resumo": "Um novo prédio será construído para abrigar os laboratórios e salas destruídas no incêndio que atingiu a Universidade Federal de Pernambuco (UFPE) na ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1704829 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Universidade Federal Fluminense aciona PF após receber ameaças ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/universidade-federal-fluminense-aciona-pf-apos-receber-amecas",
+    "data": "2026-10-08T21:56:00.000Z",
+    "resumo": "A Universidade Federal Fluminense (UFF) acionou a Polícia Federal (PF) após receber denúncias de ameaças à instituição. Em nota, a universidade inform...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   },
