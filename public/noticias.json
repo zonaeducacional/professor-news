@@ -1,5 +1,14 @@
 [
   {
+    "id": "1705236 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Escolha de livros didáticos para educação infantil começa nesta terça",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolha-de-livros-didaticos-para-educacao-infantil-comeca-nesta-terca",
+    "data": "2026-10-13T19:51:00.000Z",
+    "resumo": "A escolha das obras do Programa Nacional do Livro e do Material Didático (PNLD) para a educação infantil (creche e pré-escola) para o triênio 2026-202...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705045 at https://agenciabrasil.ebc.com.br",
     "titulo": "Interpretação é a base da prova de Linguagens do Enem; veja dicas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/interpretacao-e-base-da-prova-de-linguagens-do-enem-veja-dicas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-20262-faculdades-privadas-podem-ofertar-vagas-ate-quarta",
     "data": "2026-10-07T10:05:00.000Z",
     "resumo": "As instituições de educação superior interessadas em ofertar vagas remanescentes do Fundo de Financiamento Estudantil (Fies) no segundo semestre podem...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1703976 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Encceja: Inep disponibiliza locais de reaplicação de prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/encceja-inep-disponibiliza-locais-de-reaplicacao-de-prova",
-    "data": "2026-10-02T19:46:00.000Z",
-    "resumo": "Os locais de reaplicação do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026, nos dias 6 e 7 de outubro, estão disp...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
