@@ -1,5 +1,14 @@
 [
   {
+    "id": "1705324 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Candidato já pode conferir onde fará reaplicação da PND, no domingo",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/candidato-ja-pode-conferir-onde-fara-reaplicacao-da-pnd-no-domingo",
+    "data": "2026-10-14T15:27:00.000Z",
+    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizou o Cartão de Confirmação da Inscrição para a reaplicação...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705236 at https://agenciabrasil.ebc.com.br",
     "titulo": "Escolha de livros didáticos para educação infantil começa nesta terça",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolha-de-livros-didaticos-para-educacao-infantil-comeca-nesta-terca",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-falta-um-mes-para-o-primeiro-dia-de-provas",
     "data": "2026-10-08T11:33:00.000Z",
     "resumo": "A um mês do primeiro dia de provas do Exame Nacional do Ensino Médio (Enem), candidatos e professores do ensino médio e cursinhos preparatórios adotam...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1704441 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026/2: faculdades privadas podem ofertar vagas até quarta",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-20262-faculdades-privadas-podem-ofertar-vagas-ate-quarta",
-    "data": "2026-10-07T10:05:00.000Z",
-    "resumo": "As instituições de educação superior interessadas em ofertar vagas remanescentes do Fundo de Financiamento Estudantil (Fies) no segundo semestre podem...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
