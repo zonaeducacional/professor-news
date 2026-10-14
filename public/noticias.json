@@ -9,6 +9,15 @@
     "lido": false
   },
   {
+    "id": "1705281 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Lula garante versão universitária do “Pé de Meia” caso seja reeleito",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-garante-versao-universitaria-do-pe-de-meia-caso-seja-reeleito",
+    "data": "2026-10-14T01:16:00.000Z",
+    "resumo": "Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) anunciou, nesta terça-feira (13), a criação de uma versão do programa ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705236 at https://agenciabrasil.ebc.com.br",
     "titulo": "Escolha de livros didáticos para educação infantil começa nesta terça",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolha-de-livros-didaticos-para-educacao-infantil-comeca-nesta-terca",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-inscrito-automaticamente-deve-escolher-idioma-da-prova",
     "data": "2026-10-08T14:00:00.000Z",
     "resumo": "Os inscritos automaticamente no Exame Nacional do Ensino Médio (Enem) 2026 deverão, obrigatoriamente, selecionar até 18 de outubro o idioma de preferê...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1704736 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: falta um mês para o primeiro dia de provas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-falta-um-mes-para-o-primeiro-dia-de-provas",
-    "data": "2026-10-08T11:33:00.000Z",
-    "resumo": "A um mês do primeiro dia de provas do Exame Nacional do Ensino Médio (Enem), candidatos e professores do ensino médio e cursinhos preparatórios adotam...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
