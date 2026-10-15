@@ -1,5 +1,14 @@
 [
   {
+    "id": "1705335 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Flávio quer escolas militares; Lula propõe ampliar educação integral",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/flavio-quer-escolas-militares-lula-propoe-ampliar-educacao-integral",
+    "data": "2026-10-15T11:30:00.000Z",
+    "resumo": "O debate sobre os modelos educacionais propostos pelos candidatos costuma ocupar espaço central na disputa pelo voto do eleitor. Neste ano, temas estr...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705324 at https://agenciabrasil.ebc.com.br",
     "titulo": "Candidato já pode conferir onde fará reaplicação da PND, no domingo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/candidato-ja-pode-conferir-onde-fara-reaplicacao-da-pnd-no-domingo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/universidade-federal-fluminense-aciona-pf-apos-receber-amecas",
     "data": "2026-10-08T21:56:00.000Z",
     "resumo": "A Universidade Federal Fluminense (UFF) acionou a Polícia Federal (PF) após receber denúncias de ameaças à instituição. Em nota, a universidade inform...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1704785 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: inscrito automaticamente deve escolher idioma da prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-inscrito-automaticamente-deve-escolher-idioma-da-prova",
-    "data": "2026-10-08T14:00:00.000Z",
-    "resumo": "Os inscritos automaticamente no Exame Nacional do Ensino Médio (Enem) 2026 deverão, obrigatoriamente, selecionar até 18 de outubro o idioma de preferê...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
