@@ -1,5 +1,14 @@
 [
   {
+    "id": "1705472 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Docentes usam inteligência artificial para inovar e engajar alunos",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/docentes-usam-inteligencia-artificial-para-inovar-e-engajar-alunos",
+    "data": "2026-10-15T17:45:00.000Z",
+    "resumo": "“O que você quer ser quando crescer?”\nA corriqueira pergunta feita a crianças sobre qual carreira desejam seguir incentivou a professora Giovanna Mace...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705335 at https://agenciabrasil.ebc.com.br",
     "titulo": "Flávio quer escolas militares; Lula propõe ampliar educação integral",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/flavio-quer-escolas-militares-lula-propoe-ampliar-educacao-integral",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-vai-construir-novo-predio-para-laboratorios-da-ufpe",
     "data": "2026-10-08T21:56:00.000Z",
     "resumo": "Um novo prédio será construído para abrigar os laboratórios e salas destruídas no incêndio que atingiu a Universidade Federal de Pernambuco (UFPE) na ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1704829 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Universidade Federal Fluminense aciona PF após receber ameaças ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/universidade-federal-fluminense-aciona-pf-apos-receber-amecas",
-    "data": "2026-10-08T21:56:00.000Z",
-    "resumo": "A Universidade Federal Fluminense (UFF) acionou a Polícia Federal (PF) após receber denúncias de ameaças à instituição. Em nota, a universidade inform...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
