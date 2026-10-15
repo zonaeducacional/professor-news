@@ -1,5 +1,23 @@
 [
   {
+    "id": "1705508 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
+    "data": "2026-10-15T22:30:00.000Z",
+    "resumo": "O Museu Nacional da Universidade Federal do Rio de Janeiro (UFRJ) irá receber o investimento de R$ 10 milhões para dar continuidade aos trabalhos de r...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1705508&o=rss",
+    "lido": false
+  },
+  {
+    "id": "1705490 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC libera novas formações online para professores ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-libera-novas-formacoes-online-para-professores",
+    "data": "2026-10-15T21:28:00.000Z",
+    "resumo": "Neste 15 de outubro, quando é celebrado o Dia dos Professores, o Ministério da Educação (MEC) liberou dez novas formações gratuitas para docentes por ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705472 at https://agenciabrasil.ebc.com.br",
     "titulo": "Docentes usam inteligência artificial para inovar e engajar alunos",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/docentes-usam-inteligencia-artificial-para-inovar-e-engajar-alunos",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-ira-pedir-investigacao-de-ameacas-universidades-em-redes-sociais",
     "data": "2026-10-08T23:30:00.000Z",
     "resumo": "O Ministério da Educação (MEC) irá acionar a Diretoria de Combate a Crimes Cibernéticos da Polícia Federal após ameaças denunciadas por universidades ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1704845 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Aplicativo de simulados do Enem terá mais questões na reta final",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aplicativo-de-simulados-do-enem-tera-mais-questoes-na-reta-final",
-    "data": "2026-10-08T22:47:00.000Z",
-    "resumo": "Na reta final de preparação para o Exame Nacional do Ensino Médio, o Ministério da Educação (MEC) vai atualizar o aplicativo MEC Enem com mais questõe...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1704838 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC vai construir novo prédio para laboratórios da UFPE",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-vai-construir-novo-predio-para-laboratorios-da-ufpe",
-    "data": "2026-10-08T21:56:00.000Z",
-    "resumo": "Um novo prédio será construído para abrigar os laboratórios e salas destruídas no incêndio que atingiu a Universidade Federal de Pernambuco (UFPE) na ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
