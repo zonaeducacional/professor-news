@@ -1,5 +1,23 @@
 [
   {
+    "id": "1705636 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudantes desenvolvem plataformas para combater a desinformação",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-desenvolvem-plataformas-para-combater-desinformacao",
+    "data": "2026-10-17T13:19:00.000Z",
+    "resumo": "É muito fácil criar qualquer tipo de conteúdo com inteligência artificial (IA). Qualquer pessoa pode, com alguns cliques, criar imagens, textos e víde...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1705493 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Alunos e professores participam hoje de Olimpíada de Matemática ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/olimpiadas-de-matematica-reunem-alunos-e-professores-no-rio-de-janeiro",
+    "data": "2026-10-17T12:01:00.000Z",
+    "resumo": "De forma inédita, professores e estudantes participam neste sábado (17) da Olimpíada de Matemática, que podem render bolsas de estudo e apoio financei...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705577 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: prazo para escolher idioma da prova termina neste domingo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-prazo-para-escolher-idioma-termina-neste-domingo",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolha-de-livros-didaticos-para-educacao-infantil-comeca-nesta-terca",
     "data": "2026-10-13T19:51:00.000Z",
     "resumo": "A escolha das obras do Programa Nacional do Livro e do Material Didático (PNLD) para a educação infantil (creche e pré-escola) para o triênio 2026-202...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705045 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Interpretação é a base da prova de Linguagens do Enem; veja dicas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/interpretacao-e-base-da-prova-de-linguagens-do-enem-veja-dicas",
-    "data": "2026-10-11T18:54:00.000Z",
-    "resumo": "Saber interpretar textos é tão importante quanto conhecer os conteúdos na prova de Linguagens, Códigos e suas Tecnologias, que faz parte do primeiro d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1704983 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pesquisa mostra que 82% são contra crianças de até 3 anos com celular",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pesquisa-mostra-que-82-sao-contra-criancas-de-ate-3-anos-com-celular",
-    "data": "2026-10-09T23:21:00.000Z",
-    "resumo": "Uma pesquisa do Instituto Locomotiva divulgada nesta sexta-feira (9) mostrou que 82% dos adultos brasileiros são contrários a que crianças de até três...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
