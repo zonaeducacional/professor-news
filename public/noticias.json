@@ -1,5 +1,23 @@
 [
   {
+    "id": "1705819 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Provas de português para estrangeiros começam nesta terça-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
+    "data": "2026-10-19T16:24:00.000Z",
+    "resumo": "A aplicação das provas da segunda edição de 2026 do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) ocorre entre esta ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1705806 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia: pagamento da sétima parcela começa nesta segunda",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pe-de-meia-pagamento-da-setima-parcela-comeca-nesta-segunda",
+    "data": "2026-10-19T15:21:00.000Z",
+    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 do ensino médio regular que atingiram pelo menos 80% de frequência nas aulas em agosto deste ano começ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705703 at https://agenciabrasil.ebc.com.br",
     "titulo": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/flavio-quer-escolas-militares-lula-propoe-ampliar-educacao-integral",
     "data": "2026-10-15T11:30:00.000Z",
     "resumo": "O debate sobre os modelos educacionais propostos pelos candidatos costuma ocupar espaço central na disputa pelo voto do eleitor. Neste ano, temas estr...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705324 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Candidato já pode conferir onde fará reaplicação da PND, no domingo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/candidato-ja-pode-conferir-onde-fara-reaplicacao-da-pnd-no-domingo",
-    "data": "2026-10-14T15:27:00.000Z",
-    "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizou o Cartão de Confirmação da Inscrição para a reaplicação...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705281 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Lula garante versão universitária do “Pé de Meia” caso seja reeleito",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-garante-versao-universitaria-do-pe-de-meia-caso-seja-reeleito",
-    "data": "2026-10-14T01:16:00.000Z",
-    "resumo": "Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) anunciou, nesta terça-feira (13), a criação de uma versão do programa ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
