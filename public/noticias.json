@@ -1,5 +1,14 @@
 [
   {
+    "id": "1705910 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Estudantes de escolas públicas querem ensino e aprendizagem melhores",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-de-escolas-publicas-querem-ensino-e-aprendizagem-melhores",
+    "data": "2026-10-20T14:26:00.000Z",
+    "resumo": "Melhorias relacionadas ao ensino e à aprendizagem são a principal expectativa de pelo menos um quarto dos estudantes brasileiros do ensino médio em re...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705847 at https://agenciabrasil.ebc.com.br",
     "titulo": "Revalida 2026/2: divulgado resultado de casos de logística e de saúde",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/revalida-20262-divulgado-resultado-de-casos-de-logistica-e-de-saude",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-libera-novas-formacoes-online-para-professores",
     "data": "2026-10-15T21:28:00.000Z",
     "resumo": "Neste 15 de outubro, quando é celebrado o Dia dos Professores, o Ministério da Educação (MEC) liberou dez novas formações gratuitas para docentes por ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705472 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Docentes usam inteligência artificial para inovar e engajar alunos",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/docentes-usam-inteligencia-artificial-para-inovar-e-engajar-alunos",
-    "data": "2026-10-15T17:45:00.000Z",
-    "resumo": "“O que você quer ser quando crescer?”\nA corriqueira pergunta feita a crianças sobre qual carreira desejam seguir incentivou a professora Giovanna Mace...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
