@@ -1,5 +1,23 @@
 [
   {
+    "id": "1706198 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Aberta inscrição para seleção de professor elaborador do Enade 2027",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aberta-inscricao-para-selecao-de-professor-elaborador-do-enade-2027",
+    "data": "2026-10-22T17:17:00.000Z",
+    "resumo": "Os professores da educação superior de todo o país interessados em ser colaboradores do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1706175 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enamed: termina hoje prazo para recurso contra gabarito preliminar",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enamed-termina-hoje-prazo-para-recurso-contra-gabarito-preliminar",
+    "data": "2026-10-22T14:18:00.000Z",
+    "resumo": "Os candidatos que fizeram a reaplicação do Exame Nacional de Avaliação da Formação Médica (Enamed) 2026 podem apresentar recurso contra o gabarito pre...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1705910 at https://agenciabrasil.ebc.com.br",
     "titulo": "Estudantes de escolas públicas querem ensino e aprendizagem melhores",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-de-escolas-publicas-querem-ensino-e-aprendizagem-melhores",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-prazo-para-escolher-idioma-termina-neste-domingo",
     "data": "2026-10-16T14:59:00.000Z",
     "resumo": "O prazo para que os candidatos do Exame Nacional do Ensino Médio (Enem) 2026, inscritos automaticamente, selecionem o idioma de preferência para a pro...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705508 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
-    "data": "2026-10-15T22:30:00.000Z",
-    "resumo": "O Museu Nacional da Universidade Federal do Rio de Janeiro (UFRJ) irá receber o investimento de R$ 10 milhões para dar continuidade aos trabalhos de r...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1705508&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1705490 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC libera novas formações online para professores ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-libera-novas-formacoes-online-para-professores",
-    "data": "2026-10-15T21:28:00.000Z",
-    "resumo": "Neste 15 de outubro, quando é celebrado o Dia dos Professores, o Ministério da Educação (MEC) liberou dez novas formações gratuitas para docentes por ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
