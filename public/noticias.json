@@ -1,5 +1,14 @@
 [
   {
+    "id": "1706316 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/recife-abrira-34-creches-no-domingo-para-facilitar-o-voto-dos-pais",
+    "data": "2026-10-23T14:29:00.000Z",
+    "resumo": "Ao menos 34 creches municipais do Recife (PE) vão funcionar das 8h às 13h deste domingo (25), segundo turno das eleições gerais, para acolher as crian...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1706198 at https://agenciabrasil.ebc.com.br",
     "titulo": "Aberta inscrição para seleção de professor elaborador do Enade 2027",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aberta-inscricao-para-selecao-de-professor-elaborador-do-enade-2027",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/olimpiadas-de-matematica-reunem-alunos-e-professores-no-rio-de-janeiro",
     "data": "2026-10-17T12:01:00.000Z",
     "resumo": "De forma inédita, professores e estudantes participam neste sábado (17) da Olimpíada de Matemática, que podem render bolsas de estudo e apoio financei...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705577 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: prazo para escolher idioma da prova termina neste domingo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-prazo-para-escolher-idioma-termina-neste-domingo",
-    "data": "2026-10-16T14:59:00.000Z",
-    "resumo": "O prazo para que os candidatos do Exame Nacional do Ensino Médio (Enem) 2026, inscritos automaticamente, selecionem o idioma de preferência para a pro...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
