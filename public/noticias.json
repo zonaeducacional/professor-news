@@ -1,5 +1,14 @@
 [
   {
+    "id": "1706833 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2: inscrições gratuitas para vagas remanescentes estão abertas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-2-inscricoes-gratuitas-para-vagas-remanescentes-estao-abertas",
+    "data": "2026-10-26T14:25:00.000Z",
+    "resumo": "As inscrições para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referentes ao segundo semestre de 2026, foram abertas nesta seg...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1706316 at https://agenciabrasil.ebc.com.br",
     "titulo": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/recife-abrira-34-creches-no-domingo-para-facilitar-o-voto-dos-pais",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-desenvolvem-plataformas-para-combater-desinformacao",
     "data": "2026-10-17T13:19:00.000Z",
     "resumo": "É muito fácil criar qualquer tipo de conteúdo com inteligência artificial (IA). Qualquer pessoa pode, com alguns cliques, criar imagens, textos e víde...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705493 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Alunos e professores participam hoje de Olimpíada de Matemática ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/olimpiadas-de-matematica-reunem-alunos-e-professores-no-rio-de-janeiro",
-    "data": "2026-10-17T12:01:00.000Z",
-    "resumo": "De forma inédita, professores e estudantes participam neste sábado (17) da Olimpíada de Matemática, que podem render bolsas de estudo e apoio financei...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
