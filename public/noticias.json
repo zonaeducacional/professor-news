@@ -1,5 +1,14 @@
 [
   {
+    "id": "1707078 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: mulheres e pardos lideram inscrições; confira o painel do Inep",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-mulheres-e-pardos-lideram-inscricoes-confira-o-painel-do-inep",
+    "data": "2026-10-28T17:38:00.000Z",
+    "resumo": "As mulheres representam 63,98% das 5.051.345 inscrições confirmadas no Exame Nacional do Ensino Médio (Enem) de 2026. Em números absolutos, elas são 3...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1706951 at https://agenciabrasil.ebc.com.br",
     "titulo": "Inep divulga local de provas do Enem 2026; saiba como conferir",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/inep-divulga-local-de-provas-do-enem-2026-candidato-pode-conferir-no-site",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pe-de-meia-pagamento-da-setima-parcela-comeca-nesta-segunda",
     "data": "2026-10-19T15:21:00.000Z",
     "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 do ensino médio regular que atingiram pelo menos 80% de frequência nas aulas em agosto deste ano começ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705703 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026",
-    "data": "2026-10-18T16:15:00.000Z",
-    "resumo": "Termina neste domingo (18) o prazo para que os candidatos inscritos automaticamente no Exame Nacional do Ensino Médio (Enem) 2026 selecionem o idioma ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
