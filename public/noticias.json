@@ -1,5 +1,14 @@
 [
   {
+    "id": "1707193 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Escolas públicas têm até sábado para regularizar pendências com FNDE ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolas-publicas-tem-ate-sabado-para-regularizar-pendencias-com-fnde",
+    "data": "2026-10-29T15:08:00.000Z",
+    "resumo": "O prazo para que as redes de ensino de todo o país regularizem pendências junto ao Fundo Nacional de Desenvolvimento da Educação (FNDE) termina neste ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707108 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC Idiomas inclui curso gratuito de coreano, com aulas e exercícios",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-idiomas-inclui-curso-gratuito-de-coreano-com-aulas-e-exercicios",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/revalida-20262-divulgado-resultado-de-casos-de-logistica-e-de-saude",
     "data": "2026-10-19T20:49:00.000Z",
     "resumo": "O resultado individual da análise de solicitações apresentadas por participantes da primeira etapa do Exame Nacional de Revalidação de Diplomas Médico...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705819 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Provas de português para estrangeiros começam nesta terça-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
-    "data": "2026-10-19T16:24:00.000Z",
-    "resumo": "A aplicação das provas da segunda edição de 2026 do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) ocorre entre esta ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
