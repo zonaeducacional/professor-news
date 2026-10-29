@@ -1,5 +1,14 @@
 [
   {
+    "id": "1707108 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC Idiomas inclui curso gratuito de coreano, com aulas e exercícios",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-idiomas-inclui-curso-gratuito-de-coreano-com-aulas-e-exercicios",
+    "data": "2026-10-28T22:34:00.000Z",
+    "resumo": "K-pop, K-drama, skincare e culinária. O estilo sul-coreano tem despertado cada vez mais o interesse dos brasileiros, que agora podem aprender o idioma...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707078 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem: mulheres e pardos lideram inscrições; confira o painel do Inep",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-mulheres-e-pardos-lideram-inscricoes-confira-o-painel-do-inep",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
     "data": "2026-10-19T16:24:00.000Z",
     "resumo": "A aplicação das provas da segunda edição de 2026 do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) ocorre entre esta ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705806 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia: pagamento da sétima parcela começa nesta segunda",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pe-de-meia-pagamento-da-setima-parcela-comeca-nesta-segunda",
-    "data": "2026-10-19T15:21:00.000Z",
-    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 do ensino médio regular que atingiram pelo menos 80% de frequência nas aulas em agosto deste ano começ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
