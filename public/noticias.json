@@ -1,5 +1,23 @@
 [
   {
+    "id": "1707278 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enade 2026: iniciantes devem preencher questionário até 18 de dezembro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enade-2026-iniciantes-devem-preencher-questionario-ate-18-de-dezembro",
+    "data": "2026-10-30T11:30:00.000Z",
+    "resumo": "Os participantes do Exame Nacional de Desempenho dos Estudantes (Enade) 2026 devem preencher o Questionário do Ingressante a partir desta sexta-feira ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707275 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Inscrições para o Programa Futuras Cientistas vão até 6 novembro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/inscricoes-para-o-programa-futuras-cientistas-vao-ate-6-novembro",
+    "data": "2026-10-30T10:42:00.000Z",
+    "resumo": "Foram prorrogadas para o dia 6 de novembro as inscrições para a Imersão Científica 2027 do Programa Futuras Cientistas. São oferecidas 470 vagas gratu...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707193 at https://agenciabrasil.ebc.com.br",
     "titulo": "Escolas públicas têm até sábado para regularizar pendências com FNDE ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolas-publicas-tem-ate-sabado-para-regularizar-pendencias-com-fnde",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enamed-termina-hoje-prazo-para-recurso-contra-gabarito-preliminar",
     "data": "2026-10-22T14:18:00.000Z",
     "resumo": "Os candidatos que fizeram a reaplicação do Exame Nacional de Avaliação da Formação Médica (Enamed) 2026 podem apresentar recurso contra o gabarito pre...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705910 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Estudantes de escolas públicas querem ensino e aprendizagem melhores",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-de-escolas-publicas-querem-ensino-e-aprendizagem-melhores",
-    "data": "2026-10-20T14:26:00.000Z",
-    "resumo": "Melhorias relacionadas ao ensino e à aprendizagem são a principal expectativa de pelo menos um quarto dos estudantes brasileiros do ensino médio em re...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1705847 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Revalida 2026/2: divulgado resultado de casos de logística e de saúde",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/revalida-20262-divulgado-resultado-de-casos-de-logistica-e-de-saude",
-    "data": "2026-10-19T20:49:00.000Z",
-    "resumo": "O resultado individual da análise de solicitações apresentadas por participantes da primeira etapa do Exame Nacional de Revalidação de Diplomas Médico...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
