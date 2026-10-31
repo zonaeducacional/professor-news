@@ -1,5 +1,14 @@
 [
   {
+    "id": "1707309 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Programa oferece cursos gratuitos sobre IA para professores",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/programa-oferece-cursos-gratuitos-sobre-ia-para-professores",
+    "data": "2026-10-31T13:23:00.000Z",
+    "resumo": "Professores da educação básica e do ensino superior poderão participar de cursos gratuitos sobre inteligência artificial (IA), ferramentas digitais e ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707278 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enade 2026: iniciantes devem preencher questionário até 18 de dezembro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enade-2026-iniciantes-devem-preencher-questionario-ate-18-de-dezembro",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aberta-inscricao-para-selecao-de-professor-elaborador-do-enade-2027",
     "data": "2026-10-22T17:17:00.000Z",
     "resumo": "Os professores da educação superior de todo o país interessados em ser colaboradores do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1706175 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enamed: termina hoje prazo para recurso contra gabarito preliminar",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enamed-termina-hoje-prazo-para-recurso-contra-gabarito-preliminar",
-    "data": "2026-10-22T14:18:00.000Z",
-    "resumo": "Os candidatos que fizeram a reaplicação do Exame Nacional de Avaliação da Formação Médica (Enamed) 2026 podem apresentar recurso contra o gabarito pre...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
