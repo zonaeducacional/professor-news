@@ -1,5 +1,23 @@
 [
   {
+    "id": "1707448 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC encaminha à PF denúncias de violência política",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-reune-denuncias-de-violencia-politica-e-encaminha-a-pf",
+    "data": "2026-11-01T14:52:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) está reunindo denúncias de violência política ocorrida em instituições de ensino federal durante e após as eleições ger...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707340 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Prêmio para mulheres cientistas tem inscrição prorrogada até novembro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/premio-para-mulheres-cientistas-tem-inscricao-prorrogada-ate-novembro",
+    "data": "2026-11-01T14:27:00.000Z",
+    "resumo": "Mulheres estudantes do Ensino Médio e universitárias terão até o dia 15 de novembro para se inscrever no 8º Prêmio Carolina Bori Ciência e Mulher. \nA ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707309 at https://agenciabrasil.ebc.com.br",
     "titulo": "Programa oferece cursos gratuitos sobre IA para professores",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/programa-oferece-cursos-gratuitos-sobre-ia-para-professores",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-2-inscricoes-gratuitas-para-vagas-remanescentes-estao-abertas",
     "data": "2026-10-26T14:25:00.000Z",
     "resumo": "As inscrições para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referentes ao segundo semestre de 2026, foram abertas nesta seg...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1706316 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/recife-abrira-34-creches-no-domingo-para-facilitar-o-voto-dos-pais",
-    "data": "2026-10-23T14:29:00.000Z",
-    "resumo": "Ao menos 34 creches municipais do Recife (PE) vão funcionar das 8h às 13h deste domingo (25), segundo turno das eleições gerais, para acolher as crian...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1706198 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Aberta inscrição para seleção de professor elaborador do Enade 2027",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aberta-inscricao-para-selecao-de-professor-elaborador-do-enade-2027",
-    "data": "2026-10-22T17:17:00.000Z",
-    "resumo": "Os professores da educação superior de todo o país interessados em ser colaboradores do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
