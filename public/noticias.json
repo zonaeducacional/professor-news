@@ -1,5 +1,14 @@
 [
   {
+    "id": "1707534 at https://agenciabrasil.ebc.com.br",
+    "titulo": "A menos de uma semana para o Enem 2026, MEC dá dicas aos participantes",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/menos-de-uma-semana-para-o-enem-2026-mec-da-dicas-aos-participantes",
+    "data": "2026-11-02T21:29:00.000Z",
+    "resumo": "A primeira prova do Exame Nacional do Ensino Médio (Enem) de 2026 está marcada para o próximo domingo (8) e o Ministério da Educação (MEC) elaborou um...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707314 at https://agenciabrasil.ebc.com.br",
     "titulo": "Impa Tech abre inscrições para graduação em matemática nesta terça",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/impa-tech-abre-inscricoes-para-graduacao-em-matematica-nesta-terca",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolas-publicas-tem-ate-sabado-para-regularizar-pendencias-com-fnde",
     "data": "2026-10-29T15:08:00.000Z",
     "resumo": "O prazo para que as redes de ensino de todo o país regularizem pendências junto ao Fundo Nacional de Desenvolvimento da Educação (FNDE) termina neste ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707108 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC Idiomas inclui curso gratuito de coreano, com aulas e exercícios",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-idiomas-inclui-curso-gratuito-de-coreano-com-aulas-e-exercicios",
-    "data": "2026-10-28T22:34:00.000Z",
-    "resumo": "K-pop, K-drama, skincare e culinária. O estilo sul-coreano tem despertado cada vez mais o interesse dos brasileiros, que agora podem aprender o idioma...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
