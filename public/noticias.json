@@ -1,10 +1,28 @@
 [
   {
+    "id": "1707715 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia Universitário deve começar em 2027 para aluno do CadÚnico",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-universitario-deve-comecar-em-2027-para-aluno-do-cadunico",
+    "data": "2026-11-04T18:33:00.000Z",
+    "resumo": "O ministro da Educação (MEC), Leonardo Barchini, disse, nesta quarta-feira (4), que o Pé-de-Meia Universitário tem a implementação prevista para 2027....",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707692 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: MEC garante segurança da prova e mantém regras da redação",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-mec-garante-seguranca-da-prova-e-mantem-regras-da-redacao",
+    "data": "2026-11-04T14:53:00.000Z",
+    "resumo": "O ministro da Educação (MEC), Leonardo Barchini, garantiu, nesta quarta-feira (4), a segurança e lisura da aplicação do Exame Nacional do Ensino Médio...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707660 at https://agenciabrasil.ebc.com.br",
     "titulo": "Racismo e desigualdades afetam aprendizagem das crianças, diz estudo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/racismo-e-desigualdades-afetam-aprendizagem-das-criancas-diz-estudo-0",
     "data": "2026-11-04T11:28:00.000Z",
-    "resumo": "O racismo impacta as oportunidades de aprendizagem das crianças desde cedo, de acordo com análise feita pela Fundação Maria Cecília Souto Vidigal. A c...",
+    "resumo": "O racismo impacta as oportunidades de aprendizagem das crianças desde cedo, de acordo com análise feita pela Fundação Maria Cecilia Souto Vidigal. A c...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   },
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-uma-semana-para-o-enem-2026-veja-horarios-e-o-que-levar",
     "data": "2026-11-01T17:47:00.000Z",
     "resumo": "Com a proximidade do Exame Nacional do Ensino Médio (Enem), no próximo domingo (8), os mais de 5 milhões de inscritos devem estar atentos às orientaçõ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707448 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC encaminha à PF denúncias de violência política",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-reune-denuncias-de-violencia-politica-e-encaminha-a-pf",
-    "data": "2026-11-01T14:52:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) está reunindo denúncias de violência política ocorrida em instituições de ensino federal durante e após as eleições ger...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707340 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Prêmio para mulheres cientistas tem inscrição prorrogada até novembro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/premio-para-mulheres-cientistas-tem-inscricao-prorrogada-ate-novembro",
-    "data": "2026-11-01T14:27:00.000Z",
-    "resumo": "Mulheres estudantes do Ensino Médio e universitárias terão até o dia 15 de novembro para se inscrever no 8º Prêmio Carolina Bori Ciência e Mulher. \nA ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
