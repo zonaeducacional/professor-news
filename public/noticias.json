@@ -1,5 +1,14 @@
 [
   {
+    "id": "1707681 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: cursinhos populares preparam alunos em vulnerabilidade social",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-cursinhos-populares-preparam-alunos-em-vulnerabilidade-social",
+    "data": "2026-11-05T11:00:00.000Z",
+    "resumo": "Quem vê Raimundo dos Santos Nascimento, de 62 anos, em uma sala de um cursinho popular da Ceilândia, no Distrito Federal, não faz ideia da trajetória ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707735 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC Enem reúne recursos gratuitos para a reta final de preparação",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-enem-reune-recursos-gratuitos-para-reta-final-de-preparacao",
@@ -78,15 +87,6 @@
     "data": "2026-11-02T18:38:00.000Z",
     "resumo": "O período de inscrição para o curso de graduação em matemática da tecnologia e inovação do Impa Tech começa nesta terça-feira (3). \nPara esta edição s...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707314&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1707335 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Inscrições para vagas remanescentes do Fies terminam na terça-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/inscricoes-para-vagas-remanescentes-do-fies-terminam-na-terca-feira",
-    "data": "2026-11-02T13:24:00.000Z",
-    "resumo": "As inscrições para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referentes ao segundo semestre de 2026, estão abertas até o dia...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
