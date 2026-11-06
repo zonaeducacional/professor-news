@@ -1,5 +1,41 @@
 [
   {
+    "id": "1707951 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: descanso deve ser prioridade nas horas que antecedem a prova",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-descanso-deve-ser-prioridade-nas-horas-que-antecedem-prova",
+    "data": "2026-11-06T16:48:00.000Z",
+    "resumo": "Com a aproximação do primeiro dia do Exame Nacional do Ensino Médio (Enem), neste domingo (8), é natural que os candidatos fiquem mais apreensivos. No...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707943 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: EBC terá cobertura especial com live pós-prova na Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-ebc-tera-cobertura-especial-com-live-pos-prova-na-agencia-brasil",
+    "data": "2026-11-06T15:54:00.000Z",
+    "resumo": "Os veículos da Empresa Brasil de Comunicação (EBC) preparam uma cobertura especial para o Exame Nacional do Ensino Médio (Enem) 2026, que tem seu prim...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707938 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Aprendizagem de alunos com deficiência avança no Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aprendizagem-de-alunos-com-deficiencia-avanca-no-brasil",
+    "data": "2026-11-06T15:10:00.000Z",
+    "resumo": "A aprendizagem adequada de crianças e adolescentes com deficiência matriculados na rede pública de ensino avançou entre 2013 e 2023. E a diferença de ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707724 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: 90 itens, redação e 5h30 de duração; conheça estrutura da prova",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-90-itens-redacao-e-5h30-de-duracao-conheca-estrutura-da-prova",
+    "data": "2026-11-06T10:32:00.000Z",
+    "resumo": "Os mais de 5 milhões de candidatos que participarão no domingo (8) do Exame Nacional do Ensino Médio (Enem) de 2026 enfrentarão uma verdadeira maraton...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707681 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem: cursinhos populares preparam alunos em vulnerabilidade social",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-cursinhos-populares-preparam-alunos-em-vulnerabilidade-social",
@@ -51,42 +87,6 @@
     "data": "2026-11-04T11:10:00.000Z",
     "resumo": "A cinco dias do Exame Nacional do Ensino Médio (Enem) de 2026, os mais de 5 milhões de inscritos devem se preocupar não apenas com a revisão dos conte...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707546 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Semana de Educação Midiática terá atividades em todas as regiões",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/semana-de-educacao-midiatica-tera-atividades-em-todas-regioes",
-    "data": "2026-11-03T10:58:00.000Z",
-    "resumo": "Instituições públicas, escolas, universidades e organizações sociais em todo o país participam, de 4 a 10 de novembro, da 4ª Semana Brasileira de Educ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707544 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2: inscrições para vagas remanescentes terminam nesta terça",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2-inscricoes-para-vagas-remanescentes-terminam-nesta-terca",
-    "data": "2026-11-03T10:02:00.000Z",
-    "resumo": "O prazo de inscrição para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referentes ao segundo semestre de 2026, termina nesta te...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707534 at https://agenciabrasil.ebc.com.br",
-    "titulo": "A menos de uma semana para o Enem 2026, MEC dá dicas aos participantes",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/menos-de-uma-semana-para-o-enem-2026-mec-da-dicas-aos-participantes",
-    "data": "2026-11-02T21:29:00.000Z",
-    "resumo": "A primeira prova do Exame Nacional do Ensino Médio (Enem) de 2026 está marcada para o próximo domingo (8) e o Ministério da Educação (MEC) elaborou um...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707314 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Impa Tech abre inscrições para graduação em matemática nesta terça",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/impa-tech-abre-inscricoes-para-graduacao-em-matematica-nesta-terca",
-    "data": "2026-11-02T18:38:00.000Z",
-    "resumo": "O período de inscrição para o curso de graduação em matemática da tecnologia e inovação do Impa Tech começa nesta terça-feira (3). \nPara esta edição s...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707314&o=rss",
     "lido": false
   }
 ]
