@@ -1,5 +1,23 @@
 [
   {
+    "id": "1708017 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: confira as regras, os horários e os itens proibidos na prova",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova",
+    "data": "2026-11-07T17:52:00.000Z",
+    "resumo": "Com a realização do Exame Nacional do Ensino Médio (Enem) neste domingo (8), participantes de todo o Brasil devem redobrar a atenção para as regras da...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707981 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professores comentam primeiro dia de provas ao vivo na Resenha do Enem",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-comentam-primeiro-dia-de-provas-ao-vivo-na-resenha-do-enem",
+    "data": "2026-11-07T17:00:00.000Z",
+    "resumo": "Como parte da cobertura especial do Exame Nacional do Ensino Médio (Enem), neste domingo (8), a partir das 19h30, a Agência Brasil promove a live Rese...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707964 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: saiba o que levar no dia da prova",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-o-que-levar-no-dia-da-prova",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-descanso-deve-ser-prioridade-nas-horas-que-antecedem-prova",
     "data": "2026-11-06T16:48:00.000Z",
     "resumo": "Com a aproximação do primeiro dia do Exame Nacional do Ensino Médio (Enem), neste domingo (8), é natural que os candidatos fiquem mais apreensivos. No...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707943 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: EBC terá cobertura especial com live pós-prova na Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-ebc-tera-cobertura-especial-com-live-pos-prova-na-agencia-brasil",
-    "data": "2026-11-06T15:54:00.000Z",
-    "resumo": "Os veículos da Empresa Brasil de Comunicação (EBC) preparam uma cobertura especial para o Exame Nacional do Ensino Médio (Enem) 2026, que tem seu prim...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707938 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Aprendizagem de alunos com deficiência avança no Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aprendizagem-de-alunos-com-deficiencia-avanca-no-brasil",
-    "data": "2026-11-06T15:10:00.000Z",
-    "resumo": "A aprendizagem adequada de crianças e adolescentes com deficiência matriculados na rede pública de ensino avançou entre 2013 e 2023. E a diferença de ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
