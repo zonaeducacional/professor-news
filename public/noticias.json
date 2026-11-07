@@ -1,5 +1,23 @@
 [
   {
+    "id": "1708007 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: candidato pode saber local de prova por telefone",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-candidato-pode-saber-local-de-prova-por-telefone",
+    "data": "2026-11-06T23:30:00.000Z",
+    "resumo": "Os 5,05 milhões de candidatos confirmados do Exame Nacional do Ensino Médio (Enem) 2026 têm à disposição um canal telefônico gratuito com inteligência...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708016 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Alunos de escola pública em Goiás contam com aulões para o Enem",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/alunos-de-escola-publica-em-goias-contam-com-auloes-para-o-enem",
+    "data": "2026-11-06T23:12:00.000Z",
+    "resumo": "A preparação para o Exame Nacional do Ensino Médio (Enem) envolve uma rotina de estudos, dedicação e organização para estudantes que estão concluindo ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707995 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem: cidades de Seara e Canoinhas (SC) têm locais de prova alterados",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-cidades-de-seara-e-canoinhas-sc-tem-locais-de-prova-alterados",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-enem-reune-recursos-gratuitos-para-reta-final-de-preparacao",
     "data": "2026-11-04T20:54:00.000Z",
     "resumo": "O ministro da Educação (MEC), Leonardo Barchini, incentivou nesta quarta-feira (4) os candidatos do Exame Nacional do Ensino Médio (Enem) de 2026 a us...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707715 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia Universitário deve começar em 2027 para aluno do CadÚnico",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-universitario-deve-comecar-em-2027-para-aluno-do-cadunico",
-    "data": "2026-11-04T18:33:00.000Z",
-    "resumo": "O ministro da Educação (MEC), Leonardo Barchini, disse, nesta quarta-feira (4), que o Pé-de-Meia Universitário tem a implementação prevista para 2027....",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707692 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: MEC garante segurança da prova e mantém regras da redação",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-mec-garante-seguranca-da-prova-e-mantem-regras-da-redacao",
-    "data": "2026-11-04T14:53:00.000Z",
-    "resumo": "O ministro da Educação (MEC), Leonardo Barchini, garantiu, nesta quarta-feira (4), a segurança e lisura da aplicação do Exame Nacional do Ensino Médio...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
