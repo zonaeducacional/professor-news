@@ -1,5 +1,23 @@
 [
   {
+    "id": "1708098 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professores avaliam tema da redação do Enem como relevante e acessível",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-avaliam-tema-da-redacao-do-enem-como-relevante-e-acessivel",
+    "data": "2026-11-08T19:23:00.000Z",
+    "resumo": "Professores de redação e língua portuguesa elogiaram o tema da redação do Exame Nacional do Ensino Médio (Enem) deste ano, que aborda a valorização do...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708088 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Tema da redação do Enem é “Valorização do SUS como direito universal”",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal",
+    "data": "2026-11-08T17:10:00.000Z",
+    "resumo": "O tema da redação do Exame Nacional do Ensino Médio (Enem) de 2026 é “A valorização do Sistema Único de Saúde (SUS) como direito universal”, conforme ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708081 at https://agenciabrasil.ebc.com.br",
     "titulo": "Portões se abrem e candidatos seguem para fazer o Enem 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/portoes-se-abrem-e-candidatos-seguem-para-fazer-o-enem-2026",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-o-que-levar-no-dia-da-prova",
     "data": "2026-11-07T12:57:00.000Z",
     "resumo": "Os estudantes que participam neste domingo (8) do primeiro do Exame Nacional do Ensino Médio (Enem) devem ficar atentos ao que levar para os locais de...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708021 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: candidatos vivem expectativa sobre o tema da redação",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-vivem-expectativa-sobre-o-tema-da-redacao",
-    "data": "2026-11-07T12:31:00.000Z",
-    "resumo": "Cinco milhões de inscritos confirmados no Exame Nacional do Ensino Médio de 2026 vivem a expectativa sobre qual será o tema da prova de redação no pri...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707842 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: confira as regras da redação e dicas para um texto nota 1.000",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-da-redacao-e-dicas-para-um-texto-nota-1000",
-    "data": "2026-11-07T11:01:00.000Z",
-    "resumo": "A Prova de Redação será um dos desafios dos mais de 5 milhões de inscritos no Exame Nacional do Ensino Médio (Enem) neste domingo.\nA avaliação conta c...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
