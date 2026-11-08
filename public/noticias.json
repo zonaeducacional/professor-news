@@ -1,5 +1,23 @@
 [
   {
+    "id": "1707925 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Notas do Enem são critério de acesso para faculdades públicas",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/notas-do-enem-sao-criterio-de-acesso-para-faculdades-publicas",
+    "data": "2026-11-08T10:20:00.000Z",
+    "resumo": "O Exame Nacional do Ensino Médio (Enem) é considerado a principal porta de entrada para o ensino superior no país. Diversas instituições de ensino sup...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1707921 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: candidatos precisam chegar antes das 13h no local da prova",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-precisam-chegar-antes-das-13h-no-local-da-prova",
+    "data": "2026-11-08T10:02:00.000Z",
+    "resumo": "Mais de 5,05 milhões de estudantes estão inscritos para o Exame Nacional do Ensino Médio (Enem) deste ano. O exame é dividido em dois dias de provas, ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708017 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem: confira as regras, os horários e os itens proibidos na prova",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-cidades-de-seara-e-canoinhas-sc-tem-locais-de-prova-alterados",
     "data": "2026-11-06T21:25:00.000Z",
     "resumo": "As cidades de Seara e Canoinhas, em Santa Catarina, tiveram mudanças nos locais de realização do Exame Nacional do Ensino Médio (Enem), que terá a pri...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707953 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Cursos populares ajudam mulheres a retomar estudos para o Enem",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/cursos-populares-ajudam-mulheres-retomar-estudos-para-o-enem",
-    "data": "2026-11-06T20:01:00.000Z",
-    "resumo": "Escolher uma profissão, estudar, se formar e perseguir a carreira desejada. A falta de apoio e a necessidade de cuidar da família e dos filhos fazem c...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707951 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: descanso deve ser prioridade nas horas que antecedem a prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-descanso-deve-ser-prioridade-nas-horas-que-antecedem-prova",
-    "data": "2026-11-06T16:48:00.000Z",
-    "resumo": "Com a aproximação do primeiro dia do Exame Nacional do Ensino Médio (Enem), neste domingo (8), é natural que os candidatos fiquem mais apreensivos. No...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
