@@ -1,5 +1,23 @@
 [
   {
+    "id": "1707998 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Ao vivo: professores comentam prova na live Resenha do Enem, às 19h30",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-prova-na-live-resenha-do-enem-19h30",
+    "data": "2026-11-08T22:00:00.000Z",
+    "resumo": "Neste domingo (8), a partir das 19h30, a Agência Brasil promove a live Resenha do Enem. A transmissão ao vivo contará com professores convidados para ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708117 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Veja a opinião dos alunos sobre tema da redação do Enem 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/veja-opiniao-dos-alunos-sobre-tema-da-redacao-do-enem-2026",
+    "data": "2026-11-08T21:55:00.000Z",
+    "resumo": "Na capital paulista, os candidatos que fizeram as provas do Enem 2026 deixaram os locais de prova antes das 16h. Este ano, mais de 5 milhões se inscre...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708098 at https://agenciabrasil.ebc.com.br",
     "titulo": "Professores avaliam tema da redação do Enem como relevante e acessível",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-avaliam-tema-da-redacao-do-enem-como-relevante-e-acessivel",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova",
     "data": "2026-11-07T17:52:00.000Z",
     "resumo": "Com a realização do Exame Nacional do Ensino Médio (Enem) neste domingo (8), participantes de todo o Brasil devem redobrar a atenção para as regras da...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707981 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professores comentam primeiro dia de provas ao vivo na Resenha do Enem",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-comentam-primeiro-dia-de-provas-ao-vivo-na-resenha-do-enem",
-    "data": "2026-11-07T17:00:00.000Z",
-    "resumo": "Como parte da cobertura especial do Exame Nacional do Ensino Médio (Enem), neste domingo (8), a partir das 19h30, a Agência Brasil promove a live Rese...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707964 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: saiba o que levar no dia da prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-o-que-levar-no-dia-da-prova",
-    "data": "2026-11-07T12:57:00.000Z",
-    "resumo": "Os estudantes que participam neste domingo (8) do primeiro do Exame Nacional do Ensino Médio (Enem) devem ficar atentos ao que levar para os locais de...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
