@@ -1,5 +1,14 @@
 [
   {
+    "id": "1708129 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem registra aumento na participação de alunos da rede pública",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica",
+    "data": "2026-11-09T00:49:00.000Z",
+    "resumo": "O primeiro dia de provas do Enem 2026, realizado este domingo (8), transcorreu sem grandes contratempos, informou o ministro da Educação, Leonardo Bar...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707998 at https://agenciabrasil.ebc.com.br",
     "titulo": "Ao vivo: professores comentam prova na live Resenha do Enem, às 19h30",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-prova-na-live-resenha-do-enem-19h30",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-precisam-chegar-antes-das-13h-ao-local-da-prova",
     "data": "2026-11-08T10:02:00.000Z",
     "resumo": "Mais de 5,05 milhões de estudantes estão inscritos para o Exame Nacional do Ensino Médio (Enem) deste ano. O exame é dividido em dois dias de provas, ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708017 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: confira as regras, os horários e os itens proibidos na prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova",
-    "data": "2026-11-07T17:52:00.000Z",
-    "resumo": "Com a realização do Exame Nacional do Ensino Médio (Enem) neste domingo (8), participantes de todo o Brasil devem redobrar a atenção para as regras da...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
