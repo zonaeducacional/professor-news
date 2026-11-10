@@ -1,5 +1,14 @@
 [
   {
+    "id": "1708226 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Um terço dos jovens de 16 a 29 anos quer chegar à universidade",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/um-terco-dos-jovens-de-ate-29-anos-quer-chegar-universidade",
+    "data": "2026-11-10T14:18:00.000Z",
+    "resumo": "Um em cada três jovens brasileiros de 16 a 29 anos (33%) deseja obter o diploma universitário, mas avalia as barreiras existentes como difíceis (23%) ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708190 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: saiba quem tem direito à reaplicação do exame",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/portoes-se-abrem-e-candidatos-seguem-para-fazer-o-enem-2026",
     "data": "2026-11-08T16:24:00.000Z",
     "resumo": "Com um abraço e um beijo, a aeronauta Azulanir Mozer, de 60 anos, despediu-se da filha Catherine, de 17 anos, na porta de entrada da Faculdade Estácio...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708076 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aplicacao-do-enem-e-operacao-de-guerra-contra-o-retrocesso-diz-lula",
-    "data": "2026-11-08T15:56:00.000Z",
-    "resumo": "Ao aplicar o Exame Nacional do Ensino Médio (Enem) para mais de 5 milhões de inscritos, o Brasil trava uma guerra contra o retrocesso, afirmou neste d...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
