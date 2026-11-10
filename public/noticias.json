@@ -1,5 +1,14 @@
 [
   {
+    "id": "1708307 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Falta de saneamento influencia no desempenho de estudantes no Enem",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-de-saneamento-influencia-no-desempenho-de-estudantes-no-enem",
+    "data": "2026-11-10T21:04:00.000Z",
+    "resumo": "Estudantes que não têm banheiro em casa tiram em média 28,9 pontos a menos no Exame Nacional do Ensino Médio (Enem). A nota média dos estudantes que m...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708226 at https://agenciabrasil.ebc.com.br",
     "titulo": "Um terço dos jovens de 16 a 29 anos quer chegar à universidade",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/um-terco-dos-jovens-de-ate-29-anos-quer-chegar-universidade",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal",
     "data": "2026-11-08T17:10:00.000Z",
     "resumo": "O tema da redação do Exame Nacional do Ensino Médio (Enem) de 2026 é “A valorização do Sistema Único de Saúde (SUS) como direito universal”, conforme ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708081 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Portões se abrem e candidatos seguem para fazer o Enem 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/portoes-se-abrem-e-candidatos-seguem-para-fazer-o-enem-2026",
-    "data": "2026-11-08T16:24:00.000Z",
-    "resumo": "Com um abraço e um beijo, a aeronauta Azulanir Mozer, de 60 anos, despediu-se da filha Catherine, de 17 anos, na porta de entrada da Faculdade Estácio...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
