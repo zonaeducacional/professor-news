@@ -1,5 +1,32 @@
 [
   {
+    "id": "1708190 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: saiba quem tem direito à reaplicação do exame",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame",
+    "data": "2026-11-09T22:15:00.000Z",
+    "resumo": "Os candidatos que perderam o primeiro dia do Exame Nacional do Ensino Médio de 2026 e se enquadram em situações específicas previstas no edital (veja ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708189 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Brasil conquista 4 ouros em olimpíada latino-americana de astronomia ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-conquista-4-ouros-em-olimpiada-latino-americana-de-astronomia",
+    "data": "2026-11-09T21:59:00.000Z",
+    "resumo": "Quatro estudantes brasileiros, sendo três de Fortaleza e um de São Paulo, conquistaram a medalha de ouro na Olimpíada Latino-Americana de Astronomia e...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708128 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: publicações da EBC são citadas na prova",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/reportagens-da-agencia-brasil-e-da-radioagencia-sao-citadas-no-enem",
+    "data": "2026-11-09T18:25:00.000Z",
+    "resumo": "Reportagens da TV Brasil e da Rádio Nacional, da Empresa Brasil de Comunicação (EBC), foram citadas em questões da prova do Exame Nacional do Ensino M...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708129 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem registra aumento na participação de alunos da rede pública",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aplicacao-do-enem-e-operacao-de-guerra-contra-o-retrocesso-diz-lula",
     "data": "2026-11-08T15:56:00.000Z",
     "resumo": "Ao aplicar o Exame Nacional do Ensino Médio (Enem) para mais de 5 milhões de inscritos, o Brasil trava uma guerra contra o retrocesso, afirmou neste d...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708054 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026 estreia apoio emocional e novas regras de acessibilidade",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-estreia-apoio-emocional-e-novas-regras-de-acessibilidade",
-    "data": "2026-11-08T14:40:00.000Z",
-    "resumo": "Pela primeira vez, participantes do Exame Nacional do Ensino Médio (Enem) com histórico de crises de ansiedade ou Transtorno Obsessivo-Compulsivo (TOC...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707925 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Notas do Enem são critério de acesso para faculdades públicas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/notas-do-enem-sao-criterio-de-acesso-para-faculdades-publicas",
-    "data": "2026-11-08T10:20:00.000Z",
-    "resumo": "O Exame Nacional do Ensino Médio (Enem) é considerado a principal porta de entrada para o ensino superior no país. Diversas instituições de ensino sup...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707921 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: candidatos precisam chegar antes das 13h ao local da prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-precisam-chegar-antes-das-13h-ao-local-da-prova",
-    "data": "2026-11-08T10:02:00.000Z",
-    "resumo": "Mais de 5,05 milhões de estudantes estão inscritos para o Exame Nacional do Ensino Médio (Enem) deste ano. O exame é dividido em dois dias de provas, ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
