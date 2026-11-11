@@ -1,5 +1,14 @@
 [
   {
+    "id": "1708321 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC aprova diretrizes para uso de IA em cada etapa da educação",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao",
+    "data": "2026-11-10T22:26:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) aprovou nesta terça-feira (10) o parecer do Conselho Nacional de Educação (CNE) que estabelece diretrizes para o uso da...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708307 at https://agenciabrasil.ebc.com.br",
     "titulo": "Falta de saneamento influencia no desempenho de estudantes no Enem",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-de-saneamento-influencia-no-desempenho-de-estudantes-no-enem",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-avaliam-tema-da-redacao-do-enem-como-relevante-e-acessivel",
     "data": "2026-11-08T19:23:00.000Z",
     "resumo": "Professores de redação e língua portuguesa elogiaram o tema da redação do Exame Nacional do Ensino Médio (Enem) deste ano, que aborda a valorização do...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708088 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Tema da redação do Enem é “Valorização do SUS como direito universal”",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/tema-da-redacao-do-enem-e-valorizacao-do-sus-como-direito-universal",
-    "data": "2026-11-08T17:10:00.000Z",
-    "resumo": "O tema da redação do Exame Nacional do Ensino Médio (Enem) de 2026 é “A valorização do Sistema Único de Saúde (SUS) como direito universal”, conforme ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
