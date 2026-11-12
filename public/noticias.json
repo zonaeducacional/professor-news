@@ -1,5 +1,14 @@
 [
   {
+    "id": "1708568 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Conheça as novas diretrizes da educação profissional e tecnológica",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/conheca-novas-diretrizes-da-educacao-profissional-e-tecnologica",
+    "data": "2026-11-12T15:30:00.000Z",
+    "resumo": "A educação profissional e tecnológica no país deve seguir novas diretrizes de ensino. Parecer do Conselho Nacional de Educação (CNE) prevê prioridades...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708508 at https://agenciabrasil.ebc.com.br",
     "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/reportagens-da-agencia-brasil-e-da-radioagencia-sao-citadas-no-enem",
     "data": "2026-11-09T18:25:00.000Z",
     "resumo": "Reportagens da TV Brasil e da Rádio Nacional, da Empresa Brasil de Comunicação (EBC), foram citadas em questões da prova do Exame Nacional do Ensino M...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708129 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem registra aumento na participação de alunos da rede pública",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica",
-    "data": "2026-11-09T00:49:00.000Z",
-    "resumo": "O primeiro dia de provas do Enem 2026, realizado este domingo (8), transcorreu sem grandes contratempos, informou o ministro da Educação, Leonardo Bar...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
