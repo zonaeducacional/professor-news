@@ -1,5 +1,32 @@
 [
   {
+    "id": "1708508 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
+    "data": "2026-11-11T23:46:00.000Z",
+    "resumo": "A aprovação pelo Ministério da Educação (MEC) de diretrizes para a utilização da inteligência artificial (AI) na educação foi bem recebida por especia...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708495 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: entenda como funciona a Teoria da Resposta ao Item",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-entenda-como-funciona-teoria-da-resposta-ao-item",
+    "data": "2026-11-11T22:00:00.000Z",
+    "resumo": "Uma redação e 180 questões objetivas em dois dias de provas do Exame Nacional do Ensino Médio (Enem). Saber como é calculada a nota faz diferença na h...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708481 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC fixa novas normas para educação de alunos com altas habilidades",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-fixa-novas-normas-para-educacao-de-alunos-com-altas-habilidades",
+    "data": "2026-11-11T19:34:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) homologou nesta terça-feira (10) um parecer do Conselho Nacional de Educação (CNE) que estabelece novas orientações par...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708321 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC aprova diretrizes para uso de IA em cada etapa da educação",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica",
     "data": "2026-11-09T00:49:00.000Z",
     "resumo": "O primeiro dia de provas do Enem 2026, realizado este domingo (8), transcorreu sem grandes contratempos, informou o ministro da Educação, Leonardo Bar...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1707998 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Ao vivo: professores comentam prova na live Resenha do Enem, às 19h30",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-prova-na-live-resenha-do-enem-19h30",
-    "data": "2026-11-08T22:00:00.000Z",
-    "resumo": "Neste domingo (8), a partir das 19h30, a Agência Brasil promove a live Resenha do Enem. A transmissão ao vivo contará com professores convidados para ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708117 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Veja a opinião dos alunos sobre tema da redação do Enem 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/veja-opiniao-dos-alunos-sobre-tema-da-redacao-do-enem-2026",
-    "data": "2026-11-08T21:55:00.000Z",
-    "resumo": "Na capital paulista, candidatos que fizeram as provas do Enem 2026 começaram a deixar os locais de prova antes das 16h. Este ano, mais de 5 milhões se...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708098 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Professores avaliam tema da redação do Enem como relevante e acessível",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-avaliam-tema-da-redacao-do-enem-como-relevante-e-acessivel",
-    "data": "2026-11-08T19:23:00.000Z",
-    "resumo": "Professores de redação e língua portuguesa elogiaram o tema da redação do Exame Nacional do Ensino Médio (Enem) deste ano, que aborda a valorização do...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
