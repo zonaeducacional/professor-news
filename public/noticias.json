@@ -1,5 +1,14 @@
 [
   {
+    "id": "1708630 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Professora é demitida de escola em SC após foto em apoio a Lula",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professora-e-demitida-de-escola-em-sc-apos-foto-em-apoio-lula",
+    "data": "2026-11-12T23:25:00.000Z",
+    "resumo": "Uma professora foi demitida, nesta semana, do Colégio Unificado, na cidade de Itajaí (SC), após a postagem de uma foto em que ela e outros funcionário...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708568 at https://agenciabrasil.ebc.com.br",
     "titulo": "Conheça as novas diretrizes da educação profissional e tecnológica",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/conheca-novas-diretrizes-da-educacao-profissional-e-tecnologica",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-conquista-4-ouros-em-olimpiada-latino-americana-de-astronomia",
     "data": "2026-11-09T21:59:00.000Z",
     "resumo": "Quatro estudantes brasileiros, sendo três de Fortaleza e um de São Paulo, conquistaram a medalha de ouro na Olimpíada Latino-Americana de Astronomia e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708128 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: publicações da EBC são citadas na prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/reportagens-da-agencia-brasil-e-da-radioagencia-sao-citadas-no-enem",
-    "data": "2026-11-09T18:25:00.000Z",
-    "resumo": "Reportagens da TV Brasil e da Rádio Nacional, da Empresa Brasil de Comunicação (EBC), foram citadas em questões da prova do Exame Nacional do Ensino M...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
