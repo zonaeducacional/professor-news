@@ -1,5 +1,23 @@
 [
   {
+    "id": "1708712 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Resenha do Enem: EBC prepara live para segundo dia de prova",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/resenha-do-enem-ebc-prepara-live-para-segundo-dia-de-prova",
+    "data": "2026-11-13T17:07:00.000Z",
+    "resumo": "Como parte da cobertura do Exame Nacional do Ensino Médio (Enem), os veículos da Empresa Brasil de Comunicação (EBC) prepararam uma programação especi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708692 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Rec’n’Play promove aulões gratuitos para estudantes que vão fazer Enem",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/recnplay-promove-auloes-gratuitos-para-estudantes-que-vao-fazer-enem",
+    "data": "2026-11-13T14:41:00.000Z",
+    "resumo": "Os estudantes que estão se preparando para o segundo dia de provas do Exame Nacional do Ensino Médio (Enem) e de outros processos seletivos de ingress...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1707954 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: saiba como controlar a ansiedade antes e durante a prova",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-como-controlar-ansiedade-antes-e-durante-prova",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao",
     "data": "2026-11-10T22:26:00.000Z",
     "resumo": "O Ministério da Educação (MEC) aprovou nesta terça-feira (10) o parecer do Conselho Nacional de Educação (CNE) que estabelece diretrizes para o uso da...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708307 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Falta de saneamento influencia no desempenho de estudantes no Enem",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-de-saneamento-influencia-no-desempenho-de-estudantes-no-enem",
-    "data": "2026-11-10T21:04:00.000Z",
-    "resumo": "Estudantes que não têm banheiro em casa tiram em média 28,9 pontos a menos no Exame Nacional do Ensino Médio (Enem). A nota média dos estudantes que m...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708226 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Um terço dos jovens de 16 a 29 anos quer chegar à universidade",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/um-terco-dos-jovens-de-ate-29-anos-quer-chegar-universidade",
-    "data": "2026-11-10T14:18:00.000Z",
-    "resumo": "Um em cada três jovens brasileiros de 16 a 29 anos (33%) deseja obter o diploma universitário, mas avalia as barreiras existentes como difíceis (23%) ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
