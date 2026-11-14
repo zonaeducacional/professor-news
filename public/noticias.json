@@ -1,5 +1,23 @@
 [
   {
+    "id": "1708486 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem: confira os horários e o que levar no segundo dia de prova",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-os-horarios-e-o-que-levar-no-segundo-dia-de-prova",
+    "data": "2026-11-14T12:03:00.000Z",
+    "resumo": "O segundo dia do Exame Nacional do Ensino Médio (Enem) será realizado amanhã (15), com 90 questões de Matemática e Ciências da Natureza. \nO local de p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708755 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem em classe hospitalar garante prova a pacientes em salas especiais",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-em-classe-hospitalar-garante-prova-pacientes-em-salas-especiais",
+    "data": "2026-11-14T11:40:00.000Z",
+    "resumo": "Estudantes internados ou em tratamento de saúde que frequentam uma classe hospitalar têm o direito garantido pelo Ministério da Educação (MEC) de real...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708712 at https://agenciabrasil.ebc.com.br",
     "titulo": "Resenha do Enem: EBC prepara live para segundo dia de prova",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/resenha-do-enem-ebc-prepara-live-para-segundo-dia-de-prova",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-entenda-como-funciona-teoria-da-resposta-ao-item",
     "data": "2026-11-11T22:00:00.000Z",
     "resumo": "Uma redação e 180 questões objetivas em dois dias de provas do Exame Nacional do Ensino Médio (Enem). Saber como é calculada a nota faz diferença na h...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708481 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC fixa novas normas para educação de alunos com altas habilidades",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-fixa-novas-normas-para-educacao-de-alunos-com-altas-habilidades",
-    "data": "2026-11-11T19:34:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) homologou nesta terça-feira (10) um parecer do Conselho Nacional de Educação (CNE) que estabelece novas orientações par...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708321 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC aprova diretrizes para uso de IA em cada etapa da educação",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao",
-    "data": "2026-11-10T22:26:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) aprovou nesta terça-feira (10) o parecer do Conselho Nacional de Educação (CNE) que estabelece diretrizes para o uso da...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
