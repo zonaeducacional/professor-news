@@ -1,5 +1,32 @@
 [
   {
+    "id": "1708732 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Ao vivo: professores comentam 2º dia de prova na live Resenha do Enem",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-2o-dia-de-prova-na-live-resenha-do-enem",
+    "data": "2026-11-15T14:00:00.000Z",
+    "resumo": "Neste domingo (15), a partir das 19h30, a Agência Brasil promove a transmissão ao vivo Resenha do Enem. A live contará com professores convidados para...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708821 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: um a cada cinco participantes faz prova como treineiro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-um-cada-cinco-participantes-faz-prova-como-treineiro",
+    "data": "2026-11-15T13:49:00.000Z",
+    "resumo": "O Exame Nacional do Ensino Médio (Enem) de 2026 conta com 1.015.132 participantes que não vão concluir esta etapa da educação básica neste ano, mas re...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708796 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: candidatos fazem hoje 2º dia de provas em 1,9 mil cidades",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades",
+    "data": "2026-11-15T13:09:00.000Z",
+    "resumo": "Mais de 5,05 milhões inscritos confirmados no Exame Nacional do Ensino Médio (Enem) 2026 podem participar do segundo dia de aplicação de provas, neste...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708486 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem: confira os horários e o que levar no segundo dia de prova",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-os-horarios-e-o-que-levar-no-segundo-dia-de-prova",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professora-e-demitida-de-escola-em-sc-apos-foto-em-apoio-lula",
     "data": "2026-11-12T23:25:00.000Z",
     "resumo": "Uma professora foi demitida, nesta semana, do Colégio Unificado, na cidade de Itajaí (SC), após a postagem de uma foto em que ela e outros funcionário...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708568 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Conheça as novas diretrizes da educação profissional e tecnológica",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/conheca-novas-diretrizes-da-educacao-profissional-e-tecnologica",
-    "data": "2026-11-12T15:30:00.000Z",
-    "resumo": "A educação profissional e tecnológica no país deve seguir novas diretrizes de ensino. Parecer do Conselho Nacional de Educação (CNE) prevê prioridades...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708508 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
-    "data": "2026-11-11T23:46:00.000Z",
-    "resumo": "A aprovação pelo Ministério da Educação (MEC) de diretrizes para a utilização da inteligência artificial (AI) na educação foi bem recebida por especia...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708495 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: entenda como funciona a Teoria da Resposta ao Item",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-entenda-como-funciona-teoria-da-resposta-ao-item",
-    "data": "2026-11-11T22:00:00.000Z",
-    "resumo": "Uma redação e 180 questões objetivas em dois dias de provas do Exame Nacional do Ensino Médio (Enem). Saber como é calculada a nota faz diferença na h...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
