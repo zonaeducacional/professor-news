@@ -1,5 +1,14 @@
 [
   {
+    "id": "1708882 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro",
+    "data": "2026-11-15T23:43:00.000Z",
+    "resumo": "O gabarito oficial do Exame Nacional do Ensino Médio (Enem) de 2026 será publicado na próxima quarta-feira (18). Já o resultado do exame está previsto...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708868 at https://agenciabrasil.ebc.com.br",
     "titulo": "Bullying: após morte, família e especialistas pedem rigor de escolas",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/bullying-apos-morte-familia-e-especialistas-pedem-rigor-de-escolas",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-em-classe-hospitalar-garante-prova-pacientes-em-salas-especiais",
     "data": "2026-11-14T11:40:00.000Z",
     "resumo": "Estudantes internados ou em tratamento de saúde que frequentam uma classe hospitalar têm o direito garantido pelo Ministério da Educação (MEC) de real...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708712 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Resenha do Enem: EBC prepara live para segundo dia de prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/resenha-do-enem-ebc-prepara-live-para-segundo-dia-de-prova",
-    "data": "2026-11-13T17:07:00.000Z",
-    "resumo": "Como parte da cobertura do Exame Nacional do Ensino Médio (Enem), os veículos da Empresa Brasil de Comunicação (EBC) prepararam uma programação especi...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
