@@ -1,5 +1,23 @@
 [
   {
+    "id": "1709007 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: começa prazo para pedir reaplicação de provas em dezembro",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-aberto-prazo-para-pedir-reaplicacao-de-provas-em-dezembro",
+    "data": "2026-11-16T15:41:00.000Z",
+    "resumo": "Os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 que não conseguiram fazer as avaliações, por problemas logísticos ou doenças infectocontagi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1708742 at https://agenciabrasil.ebc.com.br",
+    "titulo": "“É só a cor”: estudante negra relata episódios de racismo na faculdade",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/e-so-cor-estudante-negra-relata-episodios-de-racismo-na-faculdade",
+    "data": "2026-11-16T09:32:00.000Z",
+    "resumo": "A estudante bolsista Iza, uma mulher preta, de 19 anos, conta que ao iniciar a vida universitária em uma faculdade privada de elite, na cidade de São ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1708882 at https://agenciabrasil.ebc.com.br",
     "titulo": "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades",
     "data": "2026-11-15T13:09:00.000Z",
     "resumo": "Mais de 5,05 milhões inscritos confirmados no Exame Nacional do Ensino Médio (Enem) 2026 podem participar do segundo dia de aplicação de provas, neste...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708486 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem: confira os horários e o que levar no segundo dia de prova",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-os-horarios-e-o-que-levar-no-segundo-dia-de-prova",
-    "data": "2026-11-14T12:03:00.000Z",
-    "resumo": "O segundo dia do Exame Nacional do Ensino Médio (Enem) será realizado amanhã (15), com 90 questões de Matemática e Ciências da Natureza. \nO local de p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708755 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem em classe hospitalar garante prova a pacientes em salas especiais",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-em-classe-hospitalar-garante-prova-pacientes-em-salas-especiais",
-    "data": "2026-11-14T11:40:00.000Z",
-    "resumo": "Estudantes internados ou em tratamento de saúde que frequentam uma classe hospitalar têm o direito garantido pelo Ministério da Educação (MEC) de real...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
