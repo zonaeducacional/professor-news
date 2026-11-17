@@ -1,5 +1,14 @@
 [
   {
+    "id": "1709084 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies 2026: chamada para vagas remanescentes sai nesta segunda-feira",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2026-chamada-para-vagas-remanescentes-sai-nesta-segunda-feira",
+    "data": "2026-11-16T18:11:00.000Z",
+    "resumo": "O resultado da chamada única para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies) do segundo semestre será divulgado nesta segunda-...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709007 at https://agenciabrasil.ebc.com.br",
     "titulo": "Enem 2026: começa prazo para pedir reaplicação de provas em dezembro",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-aberto-prazo-para-pedir-reaplicacao-de-provas-em-dezembro",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-um-cada-cinco-participantes-faz-prova-como-treineiro",
     "data": "2026-11-15T13:49:00.000Z",
     "resumo": "O Exame Nacional do Ensino Médio (Enem) de 2026 conta com 1.015.132 participantes que não vão concluir esta etapa da educação básica neste ano, mas re...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708796 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: candidatos fazem hoje 2º dia de provas em 1,9 mil cidades",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades",
-    "data": "2026-11-15T13:09:00.000Z",
-    "resumo": "Mais de 5,05 milhões inscritos confirmados no Exame Nacional do Ensino Médio (Enem) 2026 podem participar do segundo dia de aplicação de provas, neste...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
