@@ -1,5 +1,23 @@
 [
   {
+    "id": "1709137 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Fies: candidatos pré-selecionados devem validar dados da inscrição",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-candidatos-pre-selecionados-devem-validar-dados-da-inscricao",
+    "data": "2026-11-17T13:03:00.000Z",
+    "resumo": "Candidatos pré-selecionados na chamada única para as vagas remanescentes do segundo semestre do Fundo de Financiamento Estudantil (Fies) devem validar...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1709127 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Hospitais privados oferecem vagas em cursos de medicina em 2027",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/hospitais-privados-oferecem-vagas-em-cursos-de-medicina-em-2027",
+    "data": "2026-11-17T11:30:00.000Z",
+    "resumo": "Mais de uma década após a criação do Programa Mais Médicos (PMM) em 2013, os cursos de graduação em medicina oferecidos por instituições de Educação S...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709084 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies 2026: chamada para vagas remanescentes sai nesta segunda-feira",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2026-chamada-para-vagas-remanescentes-sai-nesta-segunda-feira",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/veja-o-que-esperar-do-segundo-dia-de-provas-do-enem-2026",
     "data": "2026-11-15T15:28:00.000Z",
     "resumo": "Logo mais, às 13h30 deste domingo (15), quando os mais de 5,05 milhões de candidatos do Exame Nacional do Ensino Médio (Enem) de 2026 iniciarem as pro...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708732 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Ao vivo: professores comentam 2º dia de prova na live Resenha do Enem",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-2o-dia-de-prova-na-live-resenha-do-enem",
-    "data": "2026-11-15T14:00:00.000Z",
-    "resumo": "Neste domingo (15), a partir das 19h30, a Agência Brasil promove a transmissão ao vivo Resenha do Enem. A live contará com professores convidados para...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708821 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: um a cada cinco participantes faz prova como treineiro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-um-cada-cinco-participantes-faz-prova-como-treineiro",
-    "data": "2026-11-15T13:49:00.000Z",
-    "resumo": "O Exame Nacional do Ensino Médio (Enem) de 2026 conta com 1.015.132 participantes que não vão concluir esta etapa da educação básica neste ano, mas re...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
