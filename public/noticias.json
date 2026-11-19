@@ -36,6 +36,15 @@
     "lido": false
   },
   {
+    "id": "1709203 at https://agenciabrasil.ebc.com.br",
+    "titulo": "IBGE: percentual de negros com ensino superior é metade do de brancos",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-percentual-de-negros-com-ensino-superior-e-metade-da-de-brancos",
+    "data": "2026-11-18T13:02:00.000Z",
+    "resumo": "Uma em cada cinco (19%) pessoas brancas com 25 anos de idade ou mais tinha ensino superior completo em 2025. Entre os pretos e pardos, essa proporção ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709137 at https://agenciabrasil.ebc.com.br",
     "titulo": "Fies: candidatos pré-selecionados devem validar dados da inscrição",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-candidatos-pre-selecionados-devem-validar-dados-da-inscricao",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/e-so-cor-estudante-negra-relata-episodios-de-racismo-na-faculdade",
     "data": "2026-11-16T09:32:00.000Z",
     "resumo": "A estudante bolsista Iza, uma mulher preta, de 19 anos, conta que ao iniciar a vida universitária em uma faculdade privada de elite, na cidade de São ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708882 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Gabarito do Enem sai na quarta-feira, e resultado em 18 de janeiro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro",
-    "data": "2026-11-15T23:43:00.000Z",
-    "resumo": "O gabarito oficial do Exame Nacional do Ensino Médio (Enem) de 2026 será publicado na próxima quarta-feira (18). Já o resultado do exame está previsto...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
