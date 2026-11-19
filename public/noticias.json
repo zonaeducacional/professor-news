@@ -1,5 +1,23 @@
 [
   {
+    "id": "1709351 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Escola pública do Rio vence Prêmio Melhores Escolas do Mundo",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/escola-publica-do-rio-vence-premio-melhores-escolas-do-mundo",
+    "data": "2026-11-19T14:46:00.000Z",
+    "resumo": "A Escola Municipal GET IV Centenário, escola pública de ensino fundamental localizada na Maré, na zona norte do Rio de Janeiro, é uma das cinco venced...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1709373 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Termina em um dia prazo para pedir reaplicação do Enem 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-em-um-dia-prazo-para-pedir-reaplicacao-do-enem-2026",
+    "data": "2026-11-19T13:13:00.000Z",
+    "resumo": "Os participantes do Exame Nacional do Ensino Médio (Enem) 2026 que, por questões de logística ou doenças infectocontagiosas, não conseguiram fazer as ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709293 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC amplia até dia 23 prazo para adesão ao Selo de Alfabetização ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-amplia-ate-dia-23-prazo-para-adesao-ao-selo-de-alfabetizacao",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2026-chamada-para-vagas-remanescentes-sai-nesta-segunda-feira",
     "data": "2026-11-16T18:11:00.000Z",
     "resumo": "O resultado da chamada única para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies) do segundo semestre será divulgado nesta segunda-...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709007 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Enem 2026: começa prazo para pedir reaplicação de provas em dezembro",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-aberto-prazo-para-pedir-reaplicacao-de-provas-em-dezembro",
-    "data": "2026-11-16T15:41:00.000Z",
-    "resumo": "Os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 que não conseguiram fazer as avaliações, por problemas logísticos ou doenças infectocontagi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1708742 at https://agenciabrasil.ebc.com.br",
-    "titulo": "“É só a cor”: estudante negra relata episódios de racismo na faculdade",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/e-so-cor-estudante-negra-relata-episodios-de-racismo-na-faculdade",
-    "data": "2026-11-16T09:32:00.000Z",
-    "resumo": "A estudante bolsista Iza, uma mulher preta, de 19 anos, conta que ao iniciar a vida universitária em uma faculdade privada de elite, na cidade de São ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
