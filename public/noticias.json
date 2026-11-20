@@ -1,5 +1,14 @@
 [
   {
+    "id": "1709377 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Termina nesta sexta prazo para pedir reaplicação do Enem 2026",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-nesta-sexta-prazo-para-pedir-reaplicacao-do-enem-2026",
+    "data": "2026-11-20T11:00:00.000Z",
+    "resumo": "Termina nesta sexta-feira (20) o prazo para os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 que não conseguiram fazer as provas pedirem a r...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709351 at https://agenciabrasil.ebc.com.br",
     "titulo": "Escola pública do Rio vence Prêmio Melhores Escolas do Mundo",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/escola-publica-do-rio-vence-premio-melhores-escolas-do-mundo",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/hospitais-privados-oferecem-vagas-em-cursos-de-medicina-em-2027",
     "data": "2026-11-17T11:30:00.000Z",
     "resumo": "Mais de uma década após a criação do Programa Mais Médicos (PMM) em 2013, os cursos de graduação em medicina oferecidos por instituições de Educação S...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709084 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies 2026: chamada para vagas remanescentes sai nesta segunda-feira",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2026-chamada-para-vagas-remanescentes-sai-nesta-segunda-feira",
-    "data": "2026-11-16T18:11:00.000Z",
-    "resumo": "O resultado da chamada única para as vagas remanescentes do Fundo de Financiamento Estudantil (Fies) do segundo semestre será divulgado nesta segunda-...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
