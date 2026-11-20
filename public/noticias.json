@@ -1,5 +1,14 @@
 [
   {
+    "id": "1709513 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Maranhão: professores usam filmes e comida para educação antirracista",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/maranhao-professores-usam-filmes-e-comida-para-educacao-antirracista",
+    "data": "2026-11-20T17:07:00.000Z",
+    "resumo": "No Dia da Consciência Negra, comemorado em 20 de novembro, os caminhos das ações de educação antirracista e de valorização da herança africana e afrob...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709377 at https://agenciabrasil.ebc.com.br",
     "titulo": "Termina nesta sexta prazo para pedir reaplicação do Enem 2026",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-nesta-sexta-prazo-para-pedir-reaplicacao-do-enem-2026",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-candidatos-pre-selecionados-devem-validar-dados-da-inscricao",
     "data": "2026-11-17T13:03:00.000Z",
     "resumo": "Candidatos pré-selecionados na chamada única para as vagas remanescentes do segundo semestre do Fundo de Financiamento Estudantil (Fies) devem validar...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709127 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Hospitais privados oferecem vagas em cursos de medicina em 2027",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/hospitais-privados-oferecem-vagas-em-cursos-de-medicina-em-2027",
-    "data": "2026-11-17T11:30:00.000Z",
-    "resumo": "Mais de uma década após a criação do Programa Mais Médicos (PMM) em 2013, os cursos de graduação em medicina oferecidos por instituições de Educação S...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
