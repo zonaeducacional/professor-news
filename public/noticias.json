@@ -1,5 +1,23 @@
 [
   {
+    "id": "1709581 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Dossiê mapeia desafios do ensino de matemática e sugere soluções",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/dossie-mapeia-desafios-do-ensino-de-matematica-e-sugere-solucoes",
+    "data": "2026-11-21T13:50:00.000Z",
+    "resumo": "A aprendizagem é um direito de todos e todas no Brasil. A afirmação está no “Dossiê Aprendizagens em Matemática: Evidências, políticas e estratégias”,...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1709580 at https://agenciabrasil.ebc.com.br",
+    "titulo": "70% dos cursos de pedagogia dedicam apenas 2,5% da grade horária",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/70-dos-cursos-de-pedagogia-dedicam-apenas-25-da-grade-horaria",
+    "data": "2026-11-21T13:03:00.000Z",
+    "resumo": "O pedagogo é o primeiro professor de Matemática de uma criança no Brasil. Porém, 70,6% dos cursos presenciais de pedagogia destinam para formação mate...",
+    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1709580&o=rss",
+    "lido": false
+  },
+  {
     "id": "1709513 at https://agenciabrasil.ebc.com.br",
     "titulo": "Maranhão: professores usam filmes e comida para educação antirracista",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/maranhao-professores-usam-filmes-e-comida-para-educacao-antirracista",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-candidatos-tem-ate-hoje-para-validar-informacoes-da-inscricao",
     "data": "2026-11-18T13:07:00.000Z",
     "resumo": "Hoje (18) é o último dia para os candidatos pré-selecionados na chamada única para as vagas remanescentes do segundo semestre do Fundo de Financiament...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709203 at https://agenciabrasil.ebc.com.br",
-    "titulo": "IBGE: percentual de negros com ensino superior é metade do de brancos",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-percentual-de-negros-com-ensino-superior-e-metade-da-de-brancos",
-    "data": "2026-11-18T13:02:00.000Z",
-    "resumo": "Uma em cada cinco (19%) pessoas brancas com 25 anos de idade ou mais tinha ensino superior completo em 2025. Entre os pretos e pardos, essa proporção ...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709137 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Fies: candidatos pré-selecionados devem validar dados da inscrição",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-candidatos-pre-selecionados-devem-validar-dados-da-inscricao",
-    "data": "2026-11-17T13:03:00.000Z",
-    "resumo": "Candidatos pré-selecionados na chamada única para as vagas remanescentes do segundo semestre do Fundo de Financiamento Estudantil (Fies) devem validar...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
