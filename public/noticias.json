@@ -1,5 +1,14 @@
 [
   {
+    "id": "1709679 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Celpe-Bras: provas serão aplicadas no exterior a partir desta terça",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/celpe-bras-provas-serao-aplicadas-no-exterior-partir-desta-terca",
+    "data": "2026-11-23T13:27:00.000Z",
+    "resumo": "As provas da segunda edição de 2026 do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) serão aplicadas no exterior a p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709489 at https://agenciabrasil.ebc.com.br",
     "titulo": "Escolas já podem se inscrever para a Olitef 2027",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/escolas-ja-podem-se-inscrever-para-olitef-2027",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-nesta-sexta-prazo-para-pedir-reaplicacao-do-enem-2026",
     "data": "2026-11-20T11:00:00.000Z",
     "resumo": "Termina nesta sexta-feira (20) o prazo para os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 que não conseguiram fazer as provas pedirem a r...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709351 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Escola pública do Rio vence Prêmio Melhores Escolas do Mundo",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/escola-publica-do-rio-vence-premio-melhores-escolas-do-mundo",
-    "data": "2026-11-19T14:46:00.000Z",
-    "resumo": "A Escola Municipal GET IV Centenário, escola pública de ensino fundamental localizada na Maré, na zona norte do Rio de Janeiro, é uma das cinco venced...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
