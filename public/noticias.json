@@ -1,5 +1,14 @@
 [
   {
+    "id": "1709489 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Escolas já podem se inscrever para a Olitef 2027",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/escolas-ja-podem-se-inscrever-para-olitef-2027",
+    "data": "2026-11-22T22:00:00.000Z",
+    "resumo": "Estão abertas das inscrições para a Olimpíada do Tesouro Direto de Educação Financeira (OLITEF) de 2027. As escolas públicas e privadas interessadas p...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709633 at https://agenciabrasil.ebc.com.br",
     "titulo": "Simpósio de matemática premia professores e expõe soluções de ensino",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/simposio-de-matematica-premia-professores-e-expoe-solucoes-de-ensino",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/escola-publica-do-rio-vence-premio-melhores-escolas-do-mundo",
     "data": "2026-11-19T14:46:00.000Z",
     "resumo": "A Escola Municipal GET IV Centenário, escola pública de ensino fundamental localizada na Maré, na zona norte do Rio de Janeiro, é uma das cinco venced...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709373 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Termina em um dia prazo para pedir reaplicação do Enem 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-em-um-dia-prazo-para-pedir-reaplicacao-do-enem-2026",
-    "data": "2026-11-19T13:13:00.000Z",
-    "resumo": "Os participantes do Exame Nacional do Ensino Médio (Enem) 2026 que, por questões de logística ou doenças infectocontagiosas, não conseguiram fazer as ...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
