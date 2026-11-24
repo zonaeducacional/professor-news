@@ -1,5 +1,14 @@
 [
   {
+    "id": "1709871 at https://agenciabrasil.ebc.com.br",
+    "titulo": "MEC divulga regras para distribuição de verbas adicionais do Fundeb",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-divulga-regras-para-distribuicao-de-verbas-adicionais-do-fundeb",
+    "data": "2026-11-24T17:38:00.000Z",
+    "resumo": "O Ministério da Educação (MEC) liberou para consulta o resultado parcial das regras que estados e municípios precisam cumprir para receber uma fatia e...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709679 at https://agenciabrasil.ebc.com.br",
     "titulo": "Celpe-Bras: provas serão aplicadas no exterior a partir desta terça",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/celpe-bras-provas-serao-aplicadas-no-exterior-partir-desta-terca",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/maranhao-professores-usam-filmes-e-comida-para-educacao-antirracista",
     "data": "2026-11-20T17:07:00.000Z",
     "resumo": "No Dia da Consciência Negra, comemorado em 20 de novembro, os caminhos das ações de educação antirracista e de valorização da herança africana e afrob...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709377 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Termina nesta sexta prazo para pedir reaplicação do Enem 2026",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-nesta-sexta-prazo-para-pedir-reaplicacao-do-enem-2026",
-    "data": "2026-11-20T11:00:00.000Z",
-    "resumo": "Termina nesta sexta-feira (20) o prazo para os inscritos no Exame Nacional do Ensino Médio (Enem) 2026 que não conseguiram fazer as provas pedirem a r...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
