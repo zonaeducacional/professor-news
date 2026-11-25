@@ -1,5 +1,14 @@
 [
   {
+    "id": "1709919 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia começa a pagar oitava parcela de 2026 a estudantes ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-comeca-pagar-oitava-parcela-de-2026-estudantes",
+    "data": "2026-11-24T19:30:00.000Z",
+    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 do ensino médio regular e da educação de jovens e adultos (EJA) que atingiram pelo menos 80% de frequê...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709871 at https://agenciabrasil.ebc.com.br",
     "titulo": "MEC divulga regras para distribuição de verbas adicionais do Fundeb",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-divulga-regras-para-distribuicao-de-verbas-adicionais-do-fundeb",
@@ -78,15 +87,6 @@
     "data": "2026-11-21T13:03:00.000Z",
     "resumo": "O pedagogo é o primeiro professor de Matemática de uma criança no Brasil. Porém, 70,6% dos cursos presenciais de pedagogia destinam para formação mate...",
     "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1709580&o=rss",
-    "lido": false
-  },
-  {
-    "id": "1709513 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Maranhão: professores usam filmes e comida para educação antirracista",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/maranhao-professores-usam-filmes-e-comida-para-educacao-antirracista",
-    "data": "2026-11-20T17:07:00.000Z",
-    "resumo": "No Dia da Consciência Negra, comemorado em 20 de novembro, os caminhos das ações de educação antirracista e de valorização da herança africana e afrob...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
 ]
