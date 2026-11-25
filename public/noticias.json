@@ -1,5 +1,23 @@
 [
   {
+    "id": "1710145 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Comissão fixa carga mínima de filosofia e sociologia no ensino médio",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/comissao-fixa-carga-minima-filosofia-e-sociologia-no-ensino-medio",
+    "data": "2026-11-25T19:34:00.000Z",
+    "resumo": "A Comissão de Educação da Câmara dos Deputados aprovou, nesta quarta-feira (25), projeto de lei (PL) que torna obrigatória a oferta das disciplinas fi...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1710135 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Com tema Ciência Delas, Semana de Ciência e Tecnologia vai até sábado",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/semana-nacional-de-ciencia-e-tecnologia-segue-ate-sabado",
+    "data": "2026-11-25T18:20:00.000Z",
+    "resumo": "Iniciada na terça-feira (24), a 23ª Semana Nacional de Ciência e Tecnologia (SNCT) segue até sábado (29) na Esplanada dos Ministérios, em Brasília. Co...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1709919 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia começa a pagar oitava parcela de 2026 a estudantes ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-comeca-pagar-oitava-parcela-de-2026-estudantes",
@@ -69,24 +87,6 @@
     "data": "2026-11-21T19:43:00.000Z",
     "resumo": "Cocal dos Alves, no sertão do Piauí, é conhecida nacionalmente como a \"capital da matemática\" pelo desempenho histórico de seus estudantes em competiç...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709581 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Dossiê mapeia desafios do ensino de matemática e sugere soluções",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/dossie-mapeia-desafios-do-ensino-de-matematica-e-sugere-solucoes",
-    "data": "2026-11-21T13:50:00.000Z",
-    "resumo": "A aprendizagem é um direito de todos e todas no Brasil. A afirmação está no “Dossiê Aprendizagens em Matemática: Evidências, políticas e estratégias”,...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709580 at https://agenciabrasil.ebc.com.br",
-    "titulo": "70% dos cursos de pedagogia dedicam apenas 2,5% da grade horária",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/70-dos-cursos-de-pedagogia-dedicam-apenas-25-da-grade-horaria",
-    "data": "2026-11-21T13:03:00.000Z",
-    "resumo": "O pedagogo é o primeiro professor de Matemática de uma criança no Brasil. Porém, 70,6% dos cursos presenciais de pedagogia destinam para formação mate...",
-    "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1709580&o=rss",
     "lido": false
   }
 ]
