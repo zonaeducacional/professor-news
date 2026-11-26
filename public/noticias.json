@@ -1,5 +1,14 @@
 [
   {
+    "id": "1710187 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pesquisadoras recebem prêmio por inovações e valorizam trajetória ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pesquisadoras-recebem-premio-por-inovacoes-e-valorizam-percurso",
+    "data": "2026-11-26T00:03:00.000Z",
+    "resumo": "Atuar pela população da Amazônia foi um sonho de infância para a pesquisadora mineira Fabiane Almeida, de 43 anos. A bióloga foi uma das 10 vencedoras...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1710145 at https://agenciabrasil.ebc.com.br",
     "titulo": "Comissão fixa carga mínima de filosofia e sociologia no ensino médio",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/comissao-fixa-carga-minima-filosofia-e-sociologia-no-ensino-medio",
@@ -77,15 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ia-na-educacao-exige-capacitacao-de-professores-dizem-especial",
     "data": "2026-11-22T12:32:00.000Z",
     "resumo": "A discussão sobre Inteligência Artificial (IA) na Matemática é um dos eixos centrais do 9º Simpósio Nacional da Formação do Professor de Matemática, e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709602 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Cocal dos Alves: como a matemática mudou destino de município do Piauí",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/cocal-dos-alves-como-matematica-mudou-destino-de-municipio-do-piaui",
-    "data": "2026-11-21T19:43:00.000Z",
-    "resumo": "Cocal dos Alves, no sertão do Piauí, é conhecida nacionalmente como a \"capital da matemática\" pelo desempenho histórico de seus estudantes em competiç...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
