@@ -1,5 +1,32 @@
 [
   {
+    "id": "1710423 at https://agenciabrasil.ebc.com.br",
+    "titulo": "STF: estados e municípios são obrigados a pagar piso dos professores",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/stf-estados-e-municipios-sao-obrigados-pagar-piso-dos-professores",
+    "data": "2026-11-26T21:22:00.000Z",
+    "resumo": "O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (26) que os estados, municípios e Distrito Federal são obrigados a pagar o piso salarial n...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1710322 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Número de jovens de 18 a 24 anos na graduação bate recorde no país",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/numero-de-jovens-de-18-24-anos-na-graduacao-bate-recorde-no-pais",
+    "data": "2026-11-26T17:35:00.000Z",
+    "resumo": "Em 2025, o Brasil registrou o recorde de ter 29% dos jovens de 18 a 24 anos frequentando cursos da educação superior ou que já concluíram a graduação....",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1710211 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Brasil atinge recorde de 10,6 milhões de matrículas no ensino superior",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-atinge-recorde-de-106-milhoes-de-matriculas-no-ensino-superior",
+    "data": "2026-11-26T13:34:00.000Z",
+    "resumo": "O Brasil alcançou 10,6 milhões de matrículas em cursos de graduação em 2025 – maior número já registrado pelo Ministério da Educação (MEC). Essa quant...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1710187 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pesquisadoras recebem prêmio por inovações e valorizam trajetória ",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pesquisadoras-recebem-premio-por-inovacoes-e-valorizam-percurso",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/escolas-ja-podem-se-inscrever-para-olitef-2027",
     "data": "2026-11-22T22:00:00.000Z",
     "resumo": "Estão abertas das inscrições para a Olimpíada do Tesouro Direto de Educação Financeira (OLITEF) de 2027. As escolas públicas e privadas interessadas p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709633 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Simpósio de matemática premia professores e expõe soluções de ensino",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/simposio-de-matematica-premia-professores-e-expoe-solucoes-de-ensino",
-    "data": "2026-11-22T20:01:00.000Z",
-    "resumo": "Os olhos de Ana Luíza Figueiredo Castelo Branco, de 13 anos, brilham ao ouvir falar do universo de sua disciplina predileta: a matemática. A estudante...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709614 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC apresenta programa Toda Matemática em evento nacional no Maranhão",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-apresenta-programa-toda-matematica-em-evento-nacional-no-maranhao",
-    "data": "2026-11-22T13:23:00.000Z",
-    "resumo": "Equações de 1º grau, frações, as quatro operações básicas da Matemática (adição, subtração, multiplicação e divisão), potência e quadrado perfeito, nú...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709613 at https://agenciabrasil.ebc.com.br",
-    "titulo": "IA na educação exige capacitação de professores, dizem especialistas",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ia-na-educacao-exige-capacitacao-de-professores-dizem-especial",
-    "data": "2026-11-22T12:32:00.000Z",
-    "resumo": "A discussão sobre Inteligência Artificial (IA) na Matemática é um dos eixos centrais do 9º Simpósio Nacional da Formação do Professor de Matemática, e...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
