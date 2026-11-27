@@ -1,5 +1,23 @@
 [
   {
+    "id": "1710474 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Pé-de-Meia: nascidos em setembro e outubro recebem parcela de R$ 200",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-nascidos-em-setembro-e-outubro-recebem-parcela-de-r-200",
+    "data": "2026-11-27T13:35:00.000Z",
+    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 do ensino médio regular e da educação de jovens e adultos (EJA), que nasceram nos meses de setembro e ...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1710453 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Licenciaturas crescem e somam 1,7 milhão de matrículas em 2025 ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/licenciaturas-crescem-e-somam-17-milhao-de-matriculas-em-2025",
+    "data": "2026-11-27T11:22:00.000Z",
+    "resumo": "O Censo da Educação Superior revelou que os cursos de formação de professores apresentaram crescimento no número de matrículas e ingressos ao longo do...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1710423 at https://agenciabrasil.ebc.com.br",
     "titulo": "STF: estados e municípios são obrigados a pagar piso dos professores",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/stf-estados-e-municipios-sao-obrigados-pagar-piso-dos-professores",
@@ -68,24 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-divulga-regras-para-distribuicao-de-verbas-adicionais-do-fundeb",
     "data": "2026-11-24T17:38:00.000Z",
     "resumo": "O Ministério da Educação (MEC) liberou para consulta o resultado parcial das regras que estados e municípios precisam cumprir para receber uma fatia e...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709679 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Celpe-Bras: provas serão aplicadas no exterior a partir desta terça",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/celpe-bras-provas-serao-aplicadas-no-exterior-partir-desta-terca",
-    "data": "2026-11-23T13:27:00.000Z",
-    "resumo": "As provas da segunda edição de 2026 do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) serão aplicadas no exterior a p...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709489 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Escolas já podem se inscrever para a Olitef 2027",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/escolas-ja-podem-se-inscrever-para-olitef-2027",
-    "data": "2026-11-22T22:00:00.000Z",
-    "resumo": "Estão abertas das inscrições para a Olimpíada do Tesouro Direto de Educação Financeira (OLITEF) de 2027. As escolas públicas e privadas interessadas p...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
