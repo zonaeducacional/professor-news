@@ -1,5 +1,32 @@
 [
   {
+    "id": "1710626 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enem 2026: resultado de pedidos de reaplicação já está disponível",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-resultado-de-pedidos-de-reaplicacao-ja-esta-disponivel",
+    "data": "2026-11-27T20:30:00.000Z",
+    "resumo": "Os inscritos no Exame Nacional do Ensino Médio (Enem) de 2026 que solicitaram a reaplicação de um ou dos dois dias de provas já podem conferir se o pe...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1710588 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Em encontro com Lula, estudantes destacam programas de acesso a ensino",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/em-encontro-com-lula-estudantes-destacam-programas-de-acesso-ensino",
+    "data": "2026-11-27T18:55:00.000Z",
+    "resumo": "O estudante de direito da Universidade Federal Fluminense (UFF) João Paulo Pimenta Armando destacou nesta sexta-feira (27) a importância dos programas...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
+    "id": "1710504 at https://agenciabrasil.ebc.com.br",
+    "titulo": "Enade 2026: estudantes de 18 áreas fazem a prova neste domingo",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enade-2026-estudantes-de-18-areas-fazem-prova-neste-domingo",
+    "data": "2026-11-27T15:21:00.000Z",
+    "resumo": "O Exame Nacional de Desempenho dos Estudantes (Enade) 2026 será aplicado neste domingo (29), em todos os estados e no Distrito Federal, aos universitá...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+    "lido": false
+  },
+  {
     "id": "1710474 at https://agenciabrasil.ebc.com.br",
     "titulo": "Pé-de-Meia: nascidos em setembro e outubro recebem parcela de R$ 200",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-nascidos-em-setembro-e-outubro-recebem-parcela-de-r-200",
@@ -59,33 +86,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/comissao-fixa-carga-minima-filosofia-e-sociologia-no-ensino-medio",
     "data": "2026-11-25T19:34:00.000Z",
     "resumo": "A Comissão de Educação da Câmara dos Deputados aprovou, nesta quarta-feira (25), projeto de lei (PL) que torna obrigatória a oferta das disciplinas fi...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1710135 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Com tema Ciência Delas, Semana de Ciência e Tecnologia vai até sábado",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/semana-nacional-de-ciencia-e-tecnologia-segue-ate-sabado",
-    "data": "2026-11-25T18:20:00.000Z",
-    "resumo": "Iniciada na terça-feira (24), a 23ª Semana Nacional de Ciência e Tecnologia (SNCT) segue até sábado (29) na Esplanada dos Ministérios, em Brasília. Co...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709919 at https://agenciabrasil.ebc.com.br",
-    "titulo": "Pé-de-Meia começa a pagar oitava parcela de 2026 a estudantes ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-comeca-pagar-oitava-parcela-de-2026-estudantes",
-    "data": "2026-11-24T19:30:00.000Z",
-    "resumo": "Os beneficiários do programa Pé-de-Meia de 2026 do ensino médio regular e da educação de jovens e adultos (EJA) que atingiram pelo menos 80% de frequê...",
-    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-    "lido": false
-  },
-  {
-    "id": "1709871 at https://agenciabrasil.ebc.com.br",
-    "titulo": "MEC divulga regras para distribuição de verbas adicionais do Fundeb",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-divulga-regras-para-distribuicao-de-verbas-adicionais-do-fundeb",
-    "data": "2026-11-24T17:38:00.000Z",
-    "resumo": "O Ministério da Educação (MEC) liberou para consulta o resultado parcial das regras que estados e municípios precisam cumprir para receber uma fatia e...",
     "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
     "lido": false
   }
